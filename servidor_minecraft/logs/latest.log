@@ -1231,3 +1231,38 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [07Dec2024 14:35:51.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> HOMER
 [07Dec2024 14:36:04.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
 [07Dec2024 14:37:57.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[07Dec2024 14:43:22.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by The Moonflower
+[07Dec2024 14:43:32.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:43:32.121] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:44:00.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1019.500000, 72.500000, -56.500000]
+[07Dec2024 14:44:51.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[07Dec2024 14:46:04.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -920.500000, 74.500000, 42.500000]
+[07Dec2024 14:46:11.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> xddd
+[07Dec2024 14:46:13.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> potrooooooooooooooooooooooooooo
+[07Dec2024 14:46:15.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> potroooooooooooooooooooo
+[07Dec2024 14:46:18.969] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8369 in minecraft:the_nether
+[07Dec2024 14:46:18.970] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8369 in deceasedcraft:abyss
+[07Dec2024 14:46:18.970] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8369 in minecraft:the_end
+[07Dec2024 14:46:18.971] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8369 in lostcities:lostcity
+[07Dec2024 14:46:18.998] [Server thread/INFO] [sereneseasons/]: Season time skipped by 8369 in minecraft:overworld
+[07Dec2024 14:47:13.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Disme A Dozen]
+[07Dec2024 14:47:55.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Refined Storage]
+[07Dec2024 14:47:58.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Upgrading your Grid]
+[07Dec2024 14:48:12.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Amateur Archaeologist]
+[07Dec2024 14:48:50.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Husk
+[07Dec2024 14:48:51.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:48:51.767] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:49:48.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[07Dec2024 14:49:55.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:49:55.964] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:49:58.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Zombie
+[07Dec2024 14:50:17.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -807.500000, 63.500000, -6.500000]
+[07Dec2024 14:50:31.382] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Dec2024 14:50:31.382] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[07Dec2024 14:50:31.382] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[07Dec2024 14:50:31.382] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[07Dec2024 14:50:31.383] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[07Dec2024 14:50:36.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:50:36.232] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:51:50.917] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[07Dec2024 14:52:24.952] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/335759, l='ServerLevel[world]', x=-638.50, y=54.00, z=75.50]
