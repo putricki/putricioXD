@@ -389,6 +389,7 @@
       "mediterranean_forest": "2024-12-07 14:18:38 +0000",
       "redwood_forest": "2024-12-07 14:09:20 +0000",
       "dune_beach": "2024-12-07 13:46:26 +0000",
+      "pasture": "2024-12-07 14:30:11 +0000",
       "lavender_field": "2024-12-07 14:08:30 +0000"
     },
     "done": false
@@ -402,6 +403,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-12-07 13:34:26 +0000",
+      "minecraft:river": "2024-12-07 14:27:09 +0000",
       "minecraft:ocean": "2024-12-07 13:46:38 +0000"
     },
     "done": false
@@ -415,6 +417,12 @@
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-07 13:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-07 14:28:29 +0000"
     },
     "done": true
   },
@@ -516,9 +524,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:husk": "2024-12-07 14:24:31 +0000",
       "minecraft:zombie": "2024-12-07 13:56:25 +0000"
     },
     "done": false
+  },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2024-12-07 14:28:20 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_green_from_white": {
     "criteria": {
@@ -589,6 +604,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2024-12-07 13:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-07 14:21:25 +0000"
     },
     "done": true
   },

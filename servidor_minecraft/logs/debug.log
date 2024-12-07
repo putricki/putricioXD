@@ -17603,3 +17603,242 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [07Dec2024 14:21:25.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Getting an Upgrade]
 [07Dec2024 14:21:52.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Getting an Upgrade]
 [07Dec2024 14:22:28.065] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[07Dec2024 14:23:48.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[07Dec2024 14:23:58.448] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[07Dec2024 14:24:44.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
+[07Dec2024 14:24:51.275] [IO-Worker-109/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[07Dec2024 14:25:22.437] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:22.946] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:22.995] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.042] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.048] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.089] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.131] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.195] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.209] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.240] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.247] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.287] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.332] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.337] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.394] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.441] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.447] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.498] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.561] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.561] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.590] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.637] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.693] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.760] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.760] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.793] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.810] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.847] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.890] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.938] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.943] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:23.983] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:24.047] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:24.057] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 14:25:32.507] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$9e712cd827fb4315a615c7ec25182c43 (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[07Dec2024 14:25:34.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Runner
+[07Dec2024 14:25:36.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:25:36.734] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:26:03.717] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[07Dec2024 14:26:03.717] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[07Dec2024 14:26:03.718] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, 0] Saved.
+[07Dec2024 14:26:03.718] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -1] Saved.
+[07Dec2024 14:26:03.728] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[07Dec2024 14:26:03.729] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[07Dec2024 14:26:03.729] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[07Dec2024 14:26:03.731] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[07Dec2024 14:26:03.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 14:26:03.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 14:26:04.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Runner
+[07Dec2024 14:26:06.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:26:06.219] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:26:20.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1133.500000, 64.500000, 104.500000]
+[07Dec2024 14:26:24.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
+[07Dec2024 14:26:44.851] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/230039, l='ServerLevel[world]', x=-638.50, y=57.00, z=88.50]
+[07Dec2024 14:27:00.800] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/231444, l='ServerLevel[world]', x=-638.50, y=54.00, z=93.50]
+[07Dec2024 14:27:01.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-742, y=70, z=39} BlockPos{x=-742, y=68, z=38}
+[07Dec2024 14:27:01.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-742, y=70, z=39} BlockPos{x=-742, y=68, z=38}
+[07Dec2024 14:27:01.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-743, y=69, z=39} BlockPos{x=-742, y=68, z=38}
+[07Dec2024 14:27:18.398] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[07Dec2024 14:27:37.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1037.500000, 63.500000, 36.500000]
+[07Dec2024 14:27:47.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1050.500000, 63.500000, 86.500000]
+[07Dec2024 14:27:53.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by The Wheezer
+[07Dec2024 14:27:55.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:27:55.478] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:28:10.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1150.500000, 59.500000, -83.500000]
+[07Dec2024 14:28:12.114] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:casa1 is being run through DFU (hash 2aff1ab09bf4c5b96494ab11f0c9232b53fcffff6f9602ba789f66b09a732546), this will cause launch time delays
+[07Dec2024 14:28:12.397] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:casa2 is being run through DFU (hash a1e99fc8717e22242fe2f7289badb259fe76b2534e0606523879ab874f0e18fa), this will cause launch time delays
+[07Dec2024 14:28:12.460] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:ruinas1 is being run through DFU (hash 5a7d0fc0e9f46191cca4f907c02f0fd43384b02fb91a69d71fcafa61c299f474), this will cause launch time delays
+[07Dec2024 14:28:12.469] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:tower1 is being run through DFU (hash 9e1d0e5d78c9bb6bde5065d1b75d4c458bf2ecfb7c698caacff051ada14f8305), this will cause launch time delays
+[07Dec2024 14:28:12.692] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:casa3 is being run through DFU (hash 63ed9108117f4c79ca8f8288778fd6a11076fe58dd3c3551ff1d2808f6bc57dd), this will cause launch time delays
+[07Dec2024 14:28:12.709] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:gasstation is being run through DFU (hash 5c8be91d3258d8f7411011022b2cbaa16505326bc7a581aa84fbff479e557a9a), this will cause launch time delays
+[07Dec2024 14:28:12.732] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:store1 is being run through DFU (hash 0f9d946265a12345282991a6b7715b47839d756e8222697edc7203cefb7e55f3), this will cause launch time delays
+[07Dec2024 14:28:12.751] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:store2 is being run through DFU (hash 9ba874e332b8d54727c036ac30fab9f3a8566c892a49e5d4a7223635d9411e5a), this will cause launch time delays
+[07Dec2024 14:28:12.868] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:store3 is being run through DFU (hash fdef047d050429fdff98ac2b06965bde42bb734bbe120c325dd9e9b2754233f3), this will cause launch time delays
+[07Dec2024 14:28:13.124] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:casa4 is being run through DFU (hash dccea29c9aa3915634137e7c35905427a7740d722bc1eebb27933b0930cd7655), this will cause launch time delays
+[07Dec2024 14:28:13.167] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:casa5 is being run through DFU (hash 45db355603f0673dc99f286374dabf2015f2252e6ee783cd081fd7464298435e), this will cause launch time delays
+[07Dec2024 14:28:13.218] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:casa6 is being run through DFU (hash 1db0579abf3a747057bd23f8f84f307aeed921962bfaa3b1751027dd591db1c6), this will cause launch time delays
+[07Dec2024 14:28:13.242] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:casa7 is being run through DFU (hash b378c126bc218433379657e1aec1e29c3d864a51a7a93e5a66f9bed8ca3719f0), this will cause launch time delays
+[07Dec2024 14:28:13.324] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:casa8 is being run through DFU (hash b4af2e0f8ddaf8951168587c60e04188cd25da1fbe4fc6b17cf8e28bbd5e54b7), this will cause launch time delays
+[07Dec2024 14:28:13.366] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:casa9 is being run through DFU (hash 01e66bd95b8d9d1fc702f43668338e032415922673f70a1b1bb90bbc7367f931), this will cause launch time delays
+[07Dec2024 14:28:13.416] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:ruina3 is being run through DFU (hash 9978f6bcf5b1db442fa991dda69931d0dc8dd94c910201ced3352c1a32eae1cc), this will cause launch time delays
+[07Dec2024 14:28:13.437] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:ruina4 is being run through DFU (hash ff94eccbd87279cb58cac027caed1490cc2410e9b0d71767c84cbd477e0b14a2), this will cause launch time delays
+[07Dec2024 14:28:13.459] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:ruina5 is being run through DFU (hash eb327fbbc415dd88fde90502c6fb89ff626a948a57032cdbd2d6b71f1f5e2d14), this will cause launch time delays
+[07Dec2024 14:28:13.474] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:ruina6 is being run through DFU (hash 5cf876c9ceb2ef2d550e4c8fc51b08545667120fd4e79d1cda3b8c2e301c3d64), this will cause launch time delays
+[07Dec2024 14:28:13.496] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:ruina7 is being run through DFU (hash d5e106ac420e870523d265555fc6153c51329eaa2b563a97a524a6f2f2ce3c0a), this will cause launch time delays
+[07Dec2024 14:28:13.548] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:ruina8 is being run through DFU (hash bb09602b49006dda43c21f849a6486784d0280ef30a4573b489c44583956570d), this will cause launch time delays
+[07Dec2024 14:28:13.603] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:ruina9 is being run through DFU (hash 1d853fc8c4e4da397120db067366f197f5ee8c8f5da661efe51e9b2f09db22e8), this will cause launch time delays
+[07Dec2024 14:28:13.689] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:ruina10 is being run through DFU (hash 0ca4adc1f1f7a5c4fbf69c643a1167e02059e3adefdb54613c2a9994909ca404), this will cause launch time delays
+[07Dec2024 14:28:13.710] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:ruina11 is being run through DFU (hash 8974f13ec89ec81c05db0a40e69cc9b1a2d1f08bee9b765efb8f560fc455d725), this will cause launch time delays
+[07Dec2024 14:28:13.729] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:ruina12 is being run through DFU (hash 9aba39d1cab778cfde423eb83a4382e000903216471eab29d6cbe57c68a92248), this will cause launch time delays
+[07Dec2024 14:28:13.748] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:ruina13 is being run through DFU (hash 02428c1eb8dacb7398c1ea05b1b4d457eb888e5477ea77e7ea07be00df67c717), this will cause launch time delays
+[07Dec2024 14:28:13.772] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:ruina14 is being run through DFU (hash 0db86626a2fa0b85b220f8b7e29c3745df9b8ece17464de4ee24fc09fe6b337c), this will cause launch time delays
+[07Dec2024 14:28:13.786] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:ruina15 is being run through DFU (hash 0303db003be45c5e0552d18c054093699052438c17d7a86fb1eff8b0eb2c1818), this will cause launch time delays
+[07Dec2024 14:28:13.868] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:ruina16 is being run through DFU (hash 5be09cc60cb122f60d91e81a276a65c1025e1c193ce229070c9ad24c9c73d74d), this will cause launch time delays
+[07Dec2024 14:28:14.090] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:store5 is being run through DFU (hash f626ba92efe46f27e9b0aa660cab4333b52344c7f9b4218b638bb7138b254bdd), this will cause launch time delays
+[07Dec2024 14:28:15.085] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:farm is being run through DFU (hash 384d02cd934c731911dd95697f1bc9179d5d4c8f56ed9ea6f4193be79d2c7bc2), this will cause launch time delays
+[07Dec2024 14:28:15.220] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:hospital is being run through DFU (hash 2b2b44f3bff820950cab1d66ce74ae87b4444acc4affc0cbcef5a2f81b7eed5f), this will cause launch time delays
+[07Dec2024 14:28:16.047] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:militaryairport is being run through DFU (hash a9b422215bac2f9de3351307a916a75da351c1a2cb615a62784530e9782d1545), this will cause launch time delays
+[07Dec2024 14:28:17.016] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:refugecamp is being run through DFU (hash 1854db3956df22df650f633d4ce4e9bb33eef833fa0ee561c250d71676c87350), this will cause launch time delays
+[07Dec2024 14:28:17.465] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:militarybase is being run through DFU (hash 16600bc365c207b92f548cfb2c582bc5d95f6ba842cbb54704a2f58c061123c0), this will cause launch time delays
+[07Dec2024 14:28:18.380] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:factory is being run through DFU (hash 1d4eb181ed664c946a91eb301255e4349f6b8b43727277562d22a9efc386b724), this will cause launch time delays
+[07Dec2024 14:28:18.647] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:firefighter is being run through DFU (hash 4c35cac161a1cbe018cc9b95367c7f1f47d7252009048b1e889859f5f428accd), this will cause launch time delays
+[07Dec2024 14:28:19.228] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:prision is being run through DFU (hash 77fb8b667332824786533174354199317cb79f977970be8b7ab51954229e4a25), this will cause launch time delays
+[07Dec2024 14:28:20.072] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:bases is being run through DFU (hash 17b8470582f8b3a728f981d52e54b0da9343bb96b17c8a4dfacfc7e34a52b289), this will cause launch time delays
+[07Dec2024 14:28:20.967] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:baselooters is being run through DFU (hash 3fc0d0f7633f5b1af301b95909cc2cf0ceec9ef10484a077ce3f3b5fb066ffea), this will cause launch time delays
+[07Dec2024 14:28:21.134] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:farmacia is being run through DFU (hash e1d15f09ffc5b8178b0057b9d007310b9459bc249653d181b090a814e8606a49), this will cause launch time delays
+[07Dec2024 14:28:21.250] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:acidentedeaviao is being run through DFU (hash aaaa57db5f3eb9a96d3b8229491b2857a4a5d3ad69f3a98ddb8b28ea21bc551f), this will cause launch time delays
+[07Dec2024 14:28:22.340] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:acampamentinho is being run through DFU (hash fca8e716323512403ffb2dfdb88defeacdb98508ec387c95dcbcc86ab0fa8a20), this will cause launch time delays
+[07Dec2024 14:28:22.371] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:policestation1 is being run through DFU (hash 1bd57309a8279c3c4ebb16fa860d5bf9126b0726bc874565aa69872b78adef23), this will cause launch time delays
+[07Dec2024 14:28:22.444] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:policestation2 is being run through DFU (hash 31508eaf852641d89efd0d2ca21b0117febe068417a7c8194c54abf2c4671d22), this will cause launch time delays
+[07Dec2024 14:28:22.586] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:medic1 is being run through DFU (hash 48348d4b16a65bd0571009249c8b9e555feb882ce68c181bd0209e6c9887be96), this will cause launch time delays
+[07Dec2024 14:28:22.619] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:17 is being run through DFU (hash bf45480fef88f4626a2f42af544bdff049bf977d516121d29d6502f58b70a32e), this will cause launch time delays
+[07Dec2024 14:28:22.631] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:1234 is being run through DFU (hash 85bd0a4f51e380c47a604e7d1ce4e167c53b6eef3801d3679dedf7d995f097c1), this will cause launch time delays
+[07Dec2024 14:28:22.635] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:tower3 is being run through DFU (hash c7ba273984eff291224057e76030320d56533276dd21c63083491bbafde636fb), this will cause launch time delays
+[07Dec2024 14:28:22.677] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:campoderefugiados2 is being run through DFU (hash fe9ea9e19e3dd230672a513893c9e327287061299d179ec0318751fd2e9b8e78), this will cause launch time delays
+[07Dec2024 14:28:22.738] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:ruina18 is being run through DFU (hash b5adeb44f270b9ab4f3e586c7aa5b2c21718554e749cf37cc9b061ffadf8c8e3), this will cause launch time delays
+[07Dec2024 14:28:22.796] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:ruina19 is being run through DFU (hash 746d0ea880b40db488fd2112a687146eb3c849da2d56342c64eec49102e8ccc5), this will cause launch time delays
+[07Dec2024 14:28:23.028] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:militarycamp2 is being run through DFU (hash 6d4581dd4721a701f5b0bcc4963163ad01bc38f158e87426d0f5edb45bbbb7c7), this will cause launch time delays
+[07Dec2024 14:28:23.166] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:casa10 is being run through DFU (hash 9e58490f5846ab48aaae382309e6ddb9bff090eb711eb451862efbd0dc862c69), this will cause launch time delays
+[07Dec2024 14:28:23.244] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:construction1 is being run through DFU (hash 1d1521bcb224b15c3608d0cf4c1d071b0f3a269422e01b7a2a2481d8a91bf1e2), this will cause launch time delays
+[07Dec2024 14:28:23.420] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:gunstore is being run through DFU (hash 682a90055537c9a914293101ef887eb73f1320506334eca156f1ad55d11ee7d2), this will cause launch time delays
+[07Dec2024 14:28:23.615] [Worker-Main7/DEBUG] [ModernFix/]: Structure apocalypsenow:city1 is being run through DFU (hash e8db295e7b26a6537731bdb63e85a0e27853aae1085a21b4c61e24ce35c1758f), this will cause launch time delays
+[07Dec2024 14:28:29.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Sweet Dreams]
+[07Dec2024 14:29:15.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> potro
+[07Dec2024 14:29:18.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> POTROOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[07Dec2024 14:29:36.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[07Dec2024 14:29:37.677] [IO-Worker-115/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[07Dec2024 14:29:37.677] [IO-Worker-117/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[07Dec2024 14:29:38.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:29:38.230] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:29:44.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1147.500000, 62.500000, -105.500000]
+[07Dec2024 14:30:08.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> DUERME POTRO
+[07Dec2024 14:30:09.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <geotrush> FAFAÑFÑAÑFAÑFPFNFW
+[07Dec2024 14:30:13.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> POTROOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[07Dec2024 14:30:16.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> SOOOOOOOOOOOOOOOOTOO
+[07Dec2024 14:30:18.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> TU ANO
+[07Dec2024 14:30:20.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> NOOOOOOOOOOOOO
+[07Dec2024 14:30:20.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:20.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> AA
+[07Dec2024 14:30:21.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:21.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:21.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:21.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:21.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:21.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:22.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:22.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:22.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:22.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:22.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:23.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:23.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:23.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:23.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:36.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was doomed to fall by Runner
+[07Dec2024 14:30:38.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:30:38.221] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:30:38.399] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[07Dec2024 14:30:38.400] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[07Dec2024 14:30:52.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1206.500000, 72.500000, 128.500000]
+[07Dec2024 14:31:01.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[07Dec2024 14:31:01.430] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Dec2024 14:31:01.430] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[07Dec2024 14:31:01.430] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[07Dec2024 14:31:01.431] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[07Dec2024 14:31:01.431] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
+[07Dec2024 14:31:02.423] [IO-Worker-119/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[07Dec2024 14:31:03.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:31:03.040] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:31:03.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Huddle Close]
+[07Dec2024 14:31:06.618] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[07Dec2024 14:31:06.619] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[07Dec2024 14:31:06.620] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, 0] Saved.
+[07Dec2024 14:31:06.620] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 0] Saved.
+[07Dec2024 14:31:06.620] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -1] Saved.
+[07Dec2024 14:31:06.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 14:31:06.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 14:31:08.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Zombie
+[07Dec2024 14:31:11.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:31:11.525] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:31:27.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -920.500000, 74.500000, 42.500000]
+[07Dec2024 14:31:37.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Zombie
+[07Dec2024 14:31:48.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:31:48.643] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:31:52.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> BVOOOOOOOOOOOOOOOOMER
+[07Dec2024 14:32:01.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> TE LO METO SIN VACELINA
+[07Dec2024 14:32:01.851] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/255629, l='ServerLevel[world]', x=-638.50, y=53.00, z=74.50]
+[07Dec2024 14:32:06.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> MURILLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[07Dec2024 14:32:10.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[07Dec2024 14:32:18.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1206.500000, 71.500000, 127.500000]
+[07Dec2024 14:32:55.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[07Dec2024 14:33:14.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> BOOMER
+[07Dec2024 14:33:17.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> HOMERRRRRRRRRRR
+[07Dec2024 14:33:17.364] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1843 in minecraft:the_nether
+[07Dec2024 14:33:17.364] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1843 in deceasedcraft:abyss
+[07Dec2024 14:33:17.365] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1843 in minecraft:the_end
+[07Dec2024 14:33:17.365] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1843 in lostcities:lostcity
+[07Dec2024 14:33:17.398] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1843 in minecraft:overworld
+[07Dec2024 14:33:18.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> HOMER
+[07Dec2024 14:33:42.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1004.500000, 63.500000, 1.500000]
+[07Dec2024 14:33:43.082] [IO-Worker-122/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[07Dec2024 14:33:43.083] [IO-Worker-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[07Dec2024 14:33:58.498] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[07Dec2024 14:35:30.255] [IO-Worker-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[07Dec2024 14:35:51.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> HOMER
+[07Dec2024 14:36:04.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[07Dec2024 14:36:06.614] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[07Dec2024 14:36:06.615] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[07Dec2024 14:36:06.622] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-129
+[07Dec2024 14:36:06.623] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-130
+[07Dec2024 14:36:06.624] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-131
+[07Dec2024 14:36:06.625] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-132
+[07Dec2024 14:36:06.627] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-133
+[07Dec2024 14:36:06.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 14:36:06.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 14:37:08.113] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[07Dec2024 14:37:08.113] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[07Dec2024 14:37:18.448] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[07Dec2024 14:37:54.611] [IO-Worker-131/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-134
+[07Dec2024 14:37:57.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[07Dec2024 14:39:28.257] [IO-Worker-134/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-135
+[07Dec2024 14:40:38.448] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[07Dec2024 14:40:38.449] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[07Dec2024 14:41:06.616] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-136
+[07Dec2024 14:41:06.616] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-137
+[07Dec2024 14:41:06.616] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-138
+[07Dec2024 14:41:06.622] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-139
+[07Dec2024 14:41:06.622] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-140
+[07Dec2024 14:41:06.623] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-141
+[07Dec2024 14:41:06.624] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-142
+[07Dec2024 14:41:06.624] [IO-Worker-139/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-143
+[07Dec2024 14:41:06.624] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-144
+[07Dec2024 14:41:06.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 14:41:06.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -1141,3 +1141,93 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [07Dec2024 14:21:13.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Stone Age]
 [07Dec2024 14:21:25.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Getting an Upgrade]
 [07Dec2024 14:21:52.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Getting an Upgrade]
+[07Dec2024 14:23:48.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[07Dec2024 14:24:44.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
+[07Dec2024 14:25:34.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Runner
+[07Dec2024 14:25:36.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:25:36.734] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:26:04.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Runner
+[07Dec2024 14:26:06.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:26:06.219] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:26:20.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1133.500000, 64.500000, 104.500000]
+[07Dec2024 14:26:24.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
+[07Dec2024 14:26:44.851] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/230039, l='ServerLevel[world]', x=-638.50, y=57.00, z=88.50]
+[07Dec2024 14:27:00.800] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/231444, l='ServerLevel[world]', x=-638.50, y=54.00, z=93.50]
+[07Dec2024 14:27:01.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-742, y=70, z=39} BlockPos{x=-742, y=68, z=38}
+[07Dec2024 14:27:01.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-742, y=70, z=39} BlockPos{x=-742, y=68, z=38}
+[07Dec2024 14:27:01.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-743, y=69, z=39} BlockPos{x=-742, y=68, z=38}
+[07Dec2024 14:27:37.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1037.500000, 63.500000, 36.500000]
+[07Dec2024 14:27:47.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1050.500000, 63.500000, 86.500000]
+[07Dec2024 14:27:53.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by The Wheezer
+[07Dec2024 14:27:55.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:27:55.478] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:28:10.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1150.500000, 59.500000, -83.500000]
+[07Dec2024 14:28:29.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Sweet Dreams]
+[07Dec2024 14:29:15.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> potro
+[07Dec2024 14:29:18.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> POTROOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[07Dec2024 14:29:36.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[07Dec2024 14:29:38.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:29:38.230] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:29:44.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1147.500000, 62.500000, -105.500000]
+[07Dec2024 14:30:08.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> DUERME POTRO
+[07Dec2024 14:30:09.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <geotrush> FAFAÑFÑAÑFAÑFPFNFW
+[07Dec2024 14:30:13.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> POTROOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[07Dec2024 14:30:16.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> SOOOOOOOOOOOOOOOOTOO
+[07Dec2024 14:30:18.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> TU ANO
+[07Dec2024 14:30:20.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> NOOOOOOOOOOOOO
+[07Dec2024 14:30:20.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:20.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> AA
+[07Dec2024 14:30:21.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:21.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:21.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:21.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:21.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:21.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:22.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:22.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:22.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:22.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:22.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:23.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:23.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:23.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:23.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> A
+[07Dec2024 14:30:36.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was doomed to fall by Runner
+[07Dec2024 14:30:38.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:30:38.221] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:30:52.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1206.500000, 72.500000, 128.500000]
+[07Dec2024 14:31:01.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[07Dec2024 14:31:01.430] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Dec2024 14:31:01.430] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[07Dec2024 14:31:01.430] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[07Dec2024 14:31:01.431] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[07Dec2024 14:31:01.431] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
+[07Dec2024 14:31:03.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:31:03.040] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:31:03.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Huddle Close]
+[07Dec2024 14:31:08.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Zombie
+[07Dec2024 14:31:11.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:31:11.525] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:31:27.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -920.500000, 74.500000, 42.500000]
+[07Dec2024 14:31:37.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Zombie
+[07Dec2024 14:31:48.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:31:48.643] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:31:52.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> BVOOOOOOOOOOOOOOOOMER
+[07Dec2024 14:32:01.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> TE LO METO SIN VACELINA
+[07Dec2024 14:32:01.851] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/255629, l='ServerLevel[world]', x=-638.50, y=53.00, z=74.50]
+[07Dec2024 14:32:06.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> MURILLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+[07Dec2024 14:32:10.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[07Dec2024 14:32:18.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1206.500000, 71.500000, 127.500000]
+[07Dec2024 14:32:55.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[07Dec2024 14:33:14.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> BOOMER
+[07Dec2024 14:33:17.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> HOMERRRRRRRRRRR
+[07Dec2024 14:33:17.364] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1843 in minecraft:the_nether
+[07Dec2024 14:33:17.364] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1843 in deceasedcraft:abyss
+[07Dec2024 14:33:17.365] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1843 in minecraft:the_end
+[07Dec2024 14:33:17.365] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1843 in lostcities:lostcity
+[07Dec2024 14:33:17.398] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1843 in minecraft:overworld
+[07Dec2024 14:33:18.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> HOMER
+[07Dec2024 14:33:42.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1004.500000, 63.500000, 1.500000]
+[07Dec2024 14:35:51.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> HOMER
+[07Dec2024 14:36:04.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[07Dec2024 14:37:57.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
