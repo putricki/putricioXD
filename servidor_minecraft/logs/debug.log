@@ -17468,3 +17468,54 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [07Dec2024 14:00:55.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Dec2024 14:00:55.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Dec2024 14:01:16.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[07Dec2024 14:03:16.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Connecting]
+[07Dec2024 14:03:18.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Refined Storage]
+[07Dec2024 14:03:28.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Diamonds!]
+[07Dec2024 14:03:58.348] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[07Dec2024 14:04:33.712] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[07Dec2024 14:04:46.315] [IO-Worker-80/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[07Dec2024 14:04:54.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by The Moonflower
+[07Dec2024 14:04:56.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:04:56.037] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:04:59.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Infected Police
+[07Dec2024 14:05:00.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:05:00.425] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:05:55.465] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[07Dec2024 14:05:55.466] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, -1] Saved.
+[07Dec2024 14:05:55.467] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, 0] Saved.
+[07Dec2024 14:05:55.467] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[07Dec2024 14:05:55.467] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -1] Saved.
+[07Dec2024 14:05:55.477] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[07Dec2024 14:05:55.477] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[07Dec2024 14:05:55.478] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[07Dec2024 14:05:55.479] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[07Dec2024 14:05:55.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 14:05:55.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 14:06:47.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Husk
+[07Dec2024 14:06:49.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:06:49.580] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:06:53.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Mine? Mine? Mine?]
+[07Dec2024 14:07:18.298] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[07Dec2024 14:07:30.718] [IO-Worker-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-90
+[07Dec2024 14:08:30.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[07Dec2024 14:08:31.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Huddle Close]
+[07Dec2024 14:09:09.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[07Dec2024 14:10:11.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush froze to death
+[07Dec2024 14:10:13.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:10:13.565] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:10:15.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[07Dec2024 14:10:20.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Disme A Dozen]
+[07Dec2024 14:10:20.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3210ms or 64 ticks behind
+[07Dec2024 14:10:38.248] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[07Dec2024 14:10:38.298] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[07Dec2024 14:10:58.662] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, 0] Saved.
+[07Dec2024 14:10:58.665] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, 0] Saved.
+[07Dec2024 14:10:58.666] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -1] Saved.
+[07Dec2024 14:10:58.675] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-91
+[07Dec2024 14:10:58.676] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-92
+[07Dec2024 14:10:58.676] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[07Dec2024 14:10:58.677] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[07Dec2024 14:10:58.679] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[07Dec2024 14:10:58.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 14:10:58.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 14:12:13.434] [IO-Worker-94/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96

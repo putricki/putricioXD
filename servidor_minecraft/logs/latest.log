@@ -1064,3 +1064,25 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [07Dec2024 14:00:12.692] [Server thread/INFO] [tac/]: PENDING
 [07Dec2024 14:00:20.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
 [07Dec2024 14:01:16.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[07Dec2024 14:03:16.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Connecting]
+[07Dec2024 14:03:18.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Refined Storage]
+[07Dec2024 14:03:28.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Diamonds!]
+[07Dec2024 14:04:54.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by The Moonflower
+[07Dec2024 14:04:56.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:04:56.037] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:04:59.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Infected Police
+[07Dec2024 14:05:00.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:05:00.425] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:06:47.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Husk
+[07Dec2024 14:06:49.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:06:49.580] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:06:53.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Mine? Mine? Mine?]
+[07Dec2024 14:08:30.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[07Dec2024 14:08:31.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Huddle Close]
+[07Dec2024 14:09:09.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[07Dec2024 14:10:11.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush froze to death
+[07Dec2024 14:10:13.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:10:13.565] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:10:15.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[07Dec2024 14:10:20.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Disme A Dozen]
+[07Dec2024 14:10:20.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3210ms or 64 ticks behind
