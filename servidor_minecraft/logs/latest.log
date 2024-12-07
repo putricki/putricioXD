@@ -1038,3 +1038,29 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [07Dec2024 13:49:31.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [07Dec2024 13:49:31.167] [Server thread/INFO] [tac/]: PENDING
 [07Dec2024 13:51:52.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[07Dec2024 13:53:19.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush froze to death
+[07Dec2024 13:53:23.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 13:53:23.838] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 13:54:18.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[07Dec2024 13:54:34.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [First Day]
+[07Dec2024 13:55:04.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[07Dec2024 13:55:23.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4205ms or 84 ticks behind
+[07Dec2024 13:55:52.406] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3922d38a
+[07Dec2024 13:56:04.392] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1041, y=25, z=-370} but found not block entity block Block{minecraft:stone} at location
+[07Dec2024 13:56:04.393] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1041, y=25, z=-370}
+[07Dec2024 13:56:25.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Monster Hunter]
+[07Dec2024 13:56:44.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Monster Hunter]
+[07Dec2024 13:58:33.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Zombie
+[07Dec2024 13:58:35.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 13:58:35.484] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 13:58:37.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[07Dec2024 14:00:11.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Zombie
+[07Dec2024 14:00:11.419] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Dec2024 14:00:11.419] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[07Dec2024 14:00:11.419] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[07Dec2024 14:00:11.420] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[07Dec2024 14:00:11.420] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[07Dec2024 14:00:12.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:00:12.692] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:00:20.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[07Dec2024 14:01:16.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]

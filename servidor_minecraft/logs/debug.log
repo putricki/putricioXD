@@ -17271,3 +17271,200 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [07Dec2024 13:50:49.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Dec2024 13:51:52.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
 [07Dec2024 13:51:53.102] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[07Dec2024 13:53:14.548] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 13:53:19.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush froze to death
+[07Dec2024 13:53:20.713] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[07Dec2024 13:53:20.714] [IO-Worker-57/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[07Dec2024 13:53:23.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 13:53:23.838] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 13:53:33.248] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 13:53:33.786] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 13:53:33.796] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 13:53:33.848] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 13:53:33.856] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 13:53:33.894] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 13:53:33.940] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 13:53:33.989] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 13:53:33.996] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 13:53:34.041] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 13:53:34.085] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 13:53:34.090] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 13:53:34.146] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 13:53:58.298] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[07Dec2024 13:54:18.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[07Dec2024 13:54:34.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [First Day]
+[07Dec2024 13:55:04.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[07Dec2024 13:55:14.326] [Worker-Main4/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-3, -1]
+[07Dec2024 13:55:16.214] [Worker-Main17/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-3, 0]
+[07Dec2024 13:55:23.683] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.683] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.684] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.685] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.687] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.687] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.687] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.687] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.687] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.687] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.687] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.687] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.687] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.687] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.687] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.687] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.687] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.687] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.688] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.688] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.688] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.688] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.688] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.688] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.688] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.688] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.688] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.688] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.688] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.688] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.688] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.689] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.689] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.689] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.689] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.689] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.689] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.689] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.689] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.689] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.689] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.689] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.689] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.689] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.690] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.690] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.690] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.690] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.690] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.690] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.690] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.690] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.690] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.690] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.690] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.690] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.690] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.690] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.690] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.690] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.691] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.691] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.691] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.691] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.691] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.691] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.691] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.691] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.691] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.691] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[07Dec2024 13:55:23.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4205ms or 84 ticks behind
+[07Dec2024 13:55:25.058] [IO-Worker-64/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[07Dec2024 13:55:30.615] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 13:55:31.307] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[07Dec2024 13:55:52.406] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3922d38a
+[07Dec2024 13:55:55.462] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[07Dec2024 13:55:55.464] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, -1] Saved.
+[07Dec2024 13:55:55.464] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, 0] Saved.
+[07Dec2024 13:55:55.465] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[07Dec2024 13:55:55.465] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -1] Saved.
+[07Dec2024 13:55:55.481] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[07Dec2024 13:55:55.481] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[07Dec2024 13:55:55.482] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[07Dec2024 13:55:55.485] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[07Dec2024 13:55:55.485] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[07Dec2024 13:55:55.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 13:55:55.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 13:56:04.392] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1041, y=25, z=-370} but found not block entity block Block{minecraft:stone} at location
+[07Dec2024 13:56:04.393] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-1041, y=25, z=-370}
+[07Dec2024 13:56:15.510] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@640a70dc for service interface com.blamejared.clumps.platform.IEventHelper
+[07Dec2024 13:56:15.511] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@5153ff40 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[07Dec2024 13:56:25.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Monster Hunter]
+[07Dec2024 13:56:44.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Monster Hunter]
+[07Dec2024 13:56:57.118] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[07Dec2024 13:57:18.248] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[07Dec2024 13:58:33.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Zombie
+[07Dec2024 13:58:34.372] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[07Dec2024 13:58:34.372] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[07Dec2024 13:58:34.372] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[07Dec2024 13:58:35.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 13:58:35.484] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 13:58:37.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[07Dec2024 13:59:53.170] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[07Dec2024 14:00:11.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Zombie
+[07Dec2024 14:00:11.419] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Dec2024 14:00:11.419] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[07Dec2024 14:00:11.419] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[07Dec2024 14:00:11.420] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[07Dec2024 14:00:11.420] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[07Dec2024 14:00:12.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 14:00:12.692] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 14:00:20.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[07Dec2024 14:00:38.198] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[07Dec2024 14:00:38.248] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[07Dec2024 14:00:55.464] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[07Dec2024 14:00:55.464] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[07Dec2024 14:00:55.465] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, -1] Saved.
+[07Dec2024 14:00:55.466] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, 0] Saved.
+[07Dec2024 14:00:55.466] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[07Dec2024 14:00:55.469] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -1] Saved.
+[07Dec2024 14:00:55.487] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[07Dec2024 14:00:55.488] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[07Dec2024 14:00:55.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 14:00:55.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 14:01:16.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
