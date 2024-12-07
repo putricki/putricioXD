@@ -1,0 +1,17 @@
+{
+	id: "ea1d6924-ef7f-3006-9b46-6c348f596194"
+	type: "player"
+	player_name: "ELROMPECLITOS"
+	ranks: {
+		ea1d6924-ef7f-3006-9b46-6c348f596194: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ELROMPECLITOS"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7D59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

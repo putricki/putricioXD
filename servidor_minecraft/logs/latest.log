@@ -1014,3 +1014,27 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [07Dec2024 13:34:37.039] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player geotrush (583146d1-b2cf-3918-9ea5-b7f59e3efdcf) successfully connected to voice chat
 [07Dec2024 13:34:47.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4466ms or 89 ticks behind
 [07Dec2024 13:35:19.583] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class de.maxhenkel.car.entity.car.base.EntityCarInventoryBase from class de.maxhenkel.car.entity.car.base.EntityCarLockBase
+[07Dec2024 13:43:57.505] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3a1ccd5b
+[07Dec2024 13:43:57.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELROMPECLITOS[/100.90.134.39:63257] logged in with entity id 43626 at (-687.5, 63.0, 0.5)
+[07Dec2024 13:43:57.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS joined the game
+[07Dec2024 13:43:57.535] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 13:43:57.628] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ea1d6924-ef7f-3006-9b46-6c348f596194
+[07Dec2024 13:43:57.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Inhospitable]
+[07Dec2024 13:43:59.331] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ELROMPECLITOS (17)
+[07Dec2024 13:43:59.332] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ELROMPECLITOS
+[07Dec2024 13:44:25.659] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ea1d6924-ef7f-3006-9b46-6c348f596194
+[07Dec2024 13:44:26.655] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ea1d6924-ef7f-3006-9b46-6c348f596194
+[07Dec2024 13:44:26.656] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ELROMPECLITOS (ea1d6924-ef7f-3006-9b46-6c348f596194) successfully connected to voice chat
+[07Dec2024 13:45:55.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> XD
+[07Dec2024 13:46:29.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement ['X' Marks the Spot]
+[07Dec2024 13:46:42.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Sweet Dreams]
+[07Dec2024 13:47:03.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement ['X' Marks the Spot]
+[07Dec2024 13:47:44.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush died from dehydration
+[07Dec2024 13:47:45.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 13:47:45.717] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 13:47:58.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made geotrush a server operator
+[07Dec2024 13:48:03.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[07Dec2024 13:49:29.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS froze to death
+[07Dec2024 13:49:31.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[07Dec2024 13:49:31.167] [Server thread/INFO] [tac/]: PENDING
+[07Dec2024 13:51:52.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]

@@ -145,7 +145,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "shrubland": "2024-12-07 13:35:20 +0000"
+      "shrubland": "2024-12-07 13:35:20 +0000",
+      "dune_beach": "2024-12-07 13:46:26 +0000"
     },
     "done": false
   },
@@ -157,7 +158,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2024-12-07 13:34:26 +0000"
+      "minecraft:beach": "2024-12-07 13:34:26 +0000",
+      "minecraft:ocean": "2024-12-07 13:46:38 +0000"
     },
     "done": false
   },
@@ -251,6 +253,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-07 13:47:03 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2024-12-07 13:34:26 +0000"
@@ -274,6 +282,12 @@
       "has_the_recipe": "2024-12-07 13:34:26 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2024-12-07 13:47:03 +0000"
+    },
+    "done": false
   },
   "farmersdelight:main/root": {
     "criteria": {
