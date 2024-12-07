@@ -251,9 +251,21 @@
     },
     "done": true
   },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2024-12-07 14:13:31 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2024-12-07 13:43:57 +0000"
+    },
+    "done": true
+  },
+  "crossbowverhaul:recipes/combat/bolt_diamond": {
+    "criteria": {
+      "has_ingot": "2024-12-07 14:13:31 +0000"
     },
     "done": true
   },
@@ -579,6 +591,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2024-12-07 13:43:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-07 14:13:31 +0000"
     },
     "done": true
   },

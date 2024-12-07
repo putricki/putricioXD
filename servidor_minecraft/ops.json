@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "ea1d6924-ef7f-3006-9b46-6c348f596194",
+    "name": "ELROMPECLITOS",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "583146d1-b2cf-3918-9ea5-b7f59e3efdcf",
     "name": "geotrush",
     "level": 4,

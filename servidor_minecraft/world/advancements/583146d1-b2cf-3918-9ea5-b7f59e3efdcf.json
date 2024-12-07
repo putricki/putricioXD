@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-07 14:19:32 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-07 13:34:26 +0000"
@@ -266,6 +272,12 @@
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-07 13:34:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-07 14:14:11 +0000"
     },
     "done": true
   },
@@ -374,11 +386,18 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "shrubland": "2024-12-07 13:35:20 +0000",
+      "mediterranean_forest": "2024-12-07 14:18:38 +0000",
       "redwood_forest": "2024-12-07 14:09:20 +0000",
       "dune_beach": "2024-12-07 13:46:26 +0000",
       "lavender_field": "2024-12-07 14:08:30 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-07 14:20:58 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
