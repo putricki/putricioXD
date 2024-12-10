@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-12-10 01:30:39 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:root": {
     "criteria": {
       "requirement": "2024-12-07 13:34:26 +0000"
@@ -568,9 +574,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:husk": "2024-12-07 14:24:31 +0000",
-      "minecraft:zombie": "2024-12-07 13:56:25 +0000"
+      "minecraft:zombie": "2024-12-07 13:56:25 +0000",
+      "minecraft:zombie_villager": "2024-12-10 01:33:47 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2024-12-10 01:37:48 +0000"
+    },
+    "done": true
   },
   "pfm:recipes/root": {
     "criteria": {

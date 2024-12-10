@@ -17307,3 +17307,50 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [10Dec2024 01:33:35.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> SOOOOOOOOOOOOOOOOS
 [10Dec2024 01:33:41.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
 [10Dec2024 01:33:41.946] [IO-Worker-82/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-93
+[10Dec2024 01:35:16.871] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[10Dec2024 01:35:16.871] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[10Dec2024 01:35:33.285] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-94
+[10Dec2024 01:35:33.285] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-95
+[10Dec2024 01:35:33.286] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-96
+[10Dec2024 01:35:33.292] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
+[10Dec2024 01:35:33.292] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[10Dec2024 01:35:33.292] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[10Dec2024 01:35:33.293] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[10Dec2024 01:35:33.293] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[10Dec2024 01:35:33.293] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[10Dec2024 01:35:33.294] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[10Dec2024 01:35:33.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 01:35:33.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 01:37:07.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[10Dec2024 01:37:37.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1254.500000, 72.500000, 81.500000]
+[10Dec2024 01:37:48.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Fishy Business]
+[10Dec2024 01:38:03.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -920.500000, 74.500000, 42.500000]
+[10Dec2024 01:38:03.497] [IO-Worker-102/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[10Dec2024 01:38:37.021] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[10Dec2024 01:39:00.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[10Dec2024 01:40:13.880] [IO-Worker-94/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[10Dec2024 01:40:27.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Fishy Business]
+[10Dec2024 01:40:33.296] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, 1] Saved.
+[10Dec2024 01:40:33.306] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[10Dec2024 01:40:33.307] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[10Dec2024 01:40:33.307] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[10Dec2024 01:40:33.308] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[10Dec2024 01:40:33.309] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[10Dec2024 01:40:33.309] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[10Dec2024 01:40:33.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 01:40:33.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 01:40:35.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[10Dec2024 01:41:37.947] [IO-Worker-111/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[10Dec2024 01:41:41.093] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[10Dec2024 01:41:56.971] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[10Dec2024 01:42:23.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Barrel Booty]
+[10Dec2024 01:42:30.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Barrel Booty]
+[10Dec2024 01:42:41.898] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[10Dec2024 01:43:48.479] [IO-Worker-114/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[10Dec2024 01:43:58.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[10Dec2024 01:44:08.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush died of heatstroke
+[10Dec2024 01:44:09.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:44:09.655] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:44:20.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1322.500000, -44.500000, 241.500000]
+[10Dec2024 01:44:21.052] [IO-Worker-114/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[10Dec2024 01:44:21.054] [IO-Worker-114/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
