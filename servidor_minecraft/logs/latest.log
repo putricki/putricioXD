@@ -1055,3 +1055,109 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [10Dec2024 01:13:23.285] [Server thread/INFO] [tac/]: PENDING
 [10Dec2024 01:13:28.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> SOOOOOOOOOOOOOOOOS
 [10Dec2024 01:13:59.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Isn't It Iron Pick]
+[10Dec2024 01:15:24.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <geotrush> WorkBench
+[10Dec2024 01:15:35.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> SOOOOOOOOOOOOOOOOS
+[10Dec2024 01:18:02.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[10Dec2024 01:18:03.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:18:03.492] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:18:06.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1371.500000, 86.500000, 195.500000]
+[10Dec2024 01:18:16.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5476ms or 109 ticks behind
+[10Dec2024 01:20:38.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[10Dec2024 01:23:02.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by The Wheezer
+[10Dec2024 01:23:02.879] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[10Dec2024 01:23:02.879] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[10Dec2024 01:23:02.880] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[10Dec2024 01:23:02.880] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[10Dec2024 01:23:02.880] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
+[10Dec2024 01:23:04.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:23:04.722] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:23:07.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1334.500000, 58.500000, 300.500000]
+[10Dec2024 01:23:09.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by The Wheezer
+[10Dec2024 01:23:11.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:23:11.136] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:23:13.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1334.500000, 57.500000, 301.500000]
+[10Dec2024 01:23:16.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by The Wheezer
+[10Dec2024 01:23:18.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:23:18.506] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:23:21.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1338.500000, 57.500000, 300.500000]
+[10Dec2024 01:23:25.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by The Wheezer
+[10Dec2024 01:23:26.717] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:23:26.718] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:23:30.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1331.500000, 58.500000, 300.500000]
+[10Dec2024 01:23:31.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by The Wheezer
+[10Dec2024 01:23:34.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:23:34.236] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:23:41.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1332.500000, 59.500000, 303.500000]
+[10Dec2024 01:23:46.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by The Wheezer
+[10Dec2024 01:23:47.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:23:47.687] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:24:01.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1333.500000, 57.500000, 301.500000]
+[10Dec2024 01:24:24.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Zombie
+[10Dec2024 01:24:24.441] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[10Dec2024 01:24:24.441] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[10Dec2024 01:24:24.441] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[10Dec2024 01:24:24.442] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[10Dec2024 01:24:24.442] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[10Dec2024 01:24:27.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:24:27.813] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:24:44.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1336.500000, 57.500000, 300.500000]
+[10Dec2024 01:24:54.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Husk
+[10Dec2024 01:24:56.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:24:56.272] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:24:57.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[10Dec2024 01:25:40.497] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Isn't It Iron Pick]
+[10Dec2024 01:27:01.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by The Wheezer
+[10Dec2024 01:27:03.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:27:03.053] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:27:05.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1332.500000, 58.500000, 288.500000]
+[10Dec2024 01:27:21.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[10Dec2024 01:27:23.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:27:23.023] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:27:25.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1306.500000, 53.500000, 295.500000]
+[10Dec2024 01:27:26.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by The Wheezer
+[10Dec2024 01:27:28.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:27:28.687] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:27:30.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1332.500000, 58.500000, 288.500000]
+[10Dec2024 01:27:42.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush moved wrongly!
+[10Dec2024 01:28:10.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by The Wheezer
+[10Dec2024 01:28:11.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:28:11.302] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:28:15.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1333.500000, 59.500000, 288.500000]
+[10Dec2024 01:29:14.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Close Quarters]
+[10Dec2024 01:29:36.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Husk
+[10Dec2024 01:29:36.705] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[10Dec2024 01:29:36.705] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[10Dec2024 01:29:36.705] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[10Dec2024 01:29:36.705] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[10Dec2024 01:29:36.705] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
+[10Dec2024 01:29:38.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:29:38.085] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:29:40.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1266.500000, 45.500000, 316.500000]
+[10Dec2024 01:29:44.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Husk
+[10Dec2024 01:29:46.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:29:46.326] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:29:48.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1266.500000, 46.500000, 316.500000]
+[10Dec2024 01:29:53.728] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Husk
+[10Dec2024 01:29:54.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:29:54.998] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:29:56.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1266.500000, 46.500000, 316.500000]
+[10Dec2024 01:30:10.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Husk
+[10Dec2024 01:30:11.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:30:11.284] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:31:07.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1266.500000, 46.500000, 315.500000]
+[10Dec2024 01:31:15.226] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Husk
+[10Dec2024 01:31:16.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:31:16.471] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:31:20.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1265.500000, 46.500000, 315.500000]
+[10Dec2024 01:31:23.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Husk
+[10Dec2024 01:31:24.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:31:24.243] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:31:26.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1265.500000, 46.500000, 315.500000]
+[10Dec2024 01:31:33.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Husk
+[10Dec2024 01:31:35.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:31:35.140] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:31:36.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1266.500000, 46.500000, 315.500000]
+[10Dec2024 01:32:16.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[10Dec2024 01:32:52.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -920.500000, 74.500000, 42.500000]
+[10Dec2024 01:33:35.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> SOOOOOOOOOOOOOOOOS
+[10Dec2024 01:33:41.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
