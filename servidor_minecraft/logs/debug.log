@@ -17069,3 +17069,69 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [10Dec2024 01:02:35.557] [Server thread/INFO] [tac/]: PENDING
 [10Dec2024 01:02:54.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1284.500000, 77.500000, 84.500000]
 [10Dec2024 01:03:33.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[10Dec2024 01:04:47.023] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[10Dec2024 01:04:47.024] [IO-Worker-38/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[10Dec2024 01:04:58.232] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[10Dec2024 01:05:16.721] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[10Dec2024 01:05:16.721] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[10Dec2024 01:05:27.842] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[10Dec2024 01:05:27.842] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[10Dec2024 01:05:27.842] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[10Dec2024 01:05:27.844] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, 0] Saved.
+[10Dec2024 01:05:27.844] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-4, 0] Saved.
+[10Dec2024 01:05:27.844] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[10Dec2024 01:05:27.846] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -1] Saved.
+[10Dec2024 01:05:27.860] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[10Dec2024 01:05:27.860] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[10Dec2024 01:05:27.863] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[10Dec2024 01:05:27.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 01:05:27.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 01:05:34.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has reached the goal [Modern Materials]
+[10Dec2024 01:05:36.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Acquire Hardware]
+[10Dec2024 01:05:52.779] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$b2f182af5cd24461996bb3f41a229772 (originally com/abdelaziz/canary/mixin/ai/poi/SectionStorageMixin$1)
+[10Dec2024 01:06:09.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Acquire Hardware]
+[10Dec2024 01:06:21.643] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[10Dec2024 01:06:21.644] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[10Dec2024 01:06:21.655] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[10Dec2024 01:06:21.664] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[10Dec2024 01:06:21.783] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[10Dec2024 01:06:21.850] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[10Dec2024 01:06:22.770] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[10Dec2024 01:06:22.771] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[10Dec2024 01:06:22.772] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[10Dec2024 01:06:56.782] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[10Dec2024 01:08:09.236] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[10Dec2024 01:08:19.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -920.500000, 74.500000, 42.500000]
+[10Dec2024 01:08:36.871] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[10Dec2024 01:09:01.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[10Dec2024 01:09:17.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1013.500000, 71.500000, -62.500000]
+[10Dec2024 01:09:17.851] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[10Dec2024 01:09:17.851] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[10Dec2024 01:10:27.848] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[10Dec2024 01:10:27.849] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[10Dec2024 01:10:27.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 01:10:27.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 01:10:39.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[10Dec2024 01:11:33.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -920.500000, 74.500000, 42.500000]
+[10Dec2024 01:11:38.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1013.500000, 71.500000, -62.500000]
+[10Dec2024 01:11:39.155] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-52
+[10Dec2024 01:11:39.155] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[10Dec2024 01:11:39.156] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[10Dec2024 01:11:39.160] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[10Dec2024 01:11:39.163] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[10Dec2024 01:11:56.821] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[10Dec2024 01:11:58.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1013.500000, 71.500000, -62.500000]
+[10Dec2024 01:13:06.348] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-920, y=70, z=45}
+[10Dec2024 01:13:10.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1254.500000, 72.500000, 81.500000]
+[10Dec2024 01:13:10.487] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[10Dec2024 01:13:10.488] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[10Dec2024 01:13:21.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush froze to death
+[10Dec2024 01:13:22.649] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2819 in lostcities:lostcity
+[10Dec2024 01:13:22.655] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2819 in deceasedcraft:abyss
+[10Dec2024 01:13:22.656] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2819 in minecraft:the_nether
+[10Dec2024 01:13:22.657] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2819 in minecraft:the_end
+[10Dec2024 01:13:22.671] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2819 in minecraft:overworld
+[10Dec2024 01:13:23.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[10Dec2024 01:13:23.285] [Server thread/INFO] [tac/]: PENDING
+[10Dec2024 01:13:28.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ELROMPECLITOS> SOOOOOOOOOOOOOOOOS
+[10Dec2024 01:13:59.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Isn't It Iron Pick]
