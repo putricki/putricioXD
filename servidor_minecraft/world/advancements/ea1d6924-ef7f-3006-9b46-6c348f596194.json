@@ -170,7 +170,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-12-07 14:48:13 +0000",
-      "cookie": "2024-12-07 13:56:54 +0000"
+      "cookie": "2024-12-07 13:56:54 +0000",
+      "carrot": "2024-12-11 15:09:23 +0000"
     },
     "done": false
   },
@@ -372,6 +373,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-11 15:01:57 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-07 13:43:57 +0000"
@@ -459,6 +466,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2024-12-11 15:00:21 +0000"
+    },
+    "done": true
+  },
   "ag_day_counter:firts_day_advancement": {
     "criteria": {
       "firts_day_advancement": "2024-12-07 13:54:34 +0000"
@@ -468,6 +481,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2024-12-07 13:43:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/main_root": {
+    "criteria": {
+      "has_item": "2024-12-11 15:02:36 +0000"
     },
     "done": true
   },
@@ -639,6 +658,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-07 14:21:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-12-11 15:03:41 +0000"
     },
     "done": true
   },

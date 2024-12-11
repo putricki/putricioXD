@@ -17197,3 +17197,167 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [11Dec2024 15:02:36.210] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Immersive Engineering]
 [11Dec2024 15:02:48.406] [IO-Worker-95/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-97
 [11Dec2024 15:03:41.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Alex's Mobs]
+[11Dec2024 15:04:29.996] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[11Dec2024 15:04:29.996] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[11Dec2024 15:04:40.167] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-98
+[11Dec2024 15:04:40.167] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-99
+[11Dec2024 15:04:40.168] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-100
+[11Dec2024 15:04:40.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 15:04:40.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 15:05:44.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush froze to death
+[11Dec2024 15:05:45.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:05:45.794] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:05:45.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1014, y=75, z=-60}
+[11Dec2024 15:05:47.105] [Worker-Main29/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11Dec2024 15:05:47.160] [Worker-Main28/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[11Dec2024 15:05:49.363] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa1
+[11Dec2024 15:05:49.376] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa2
+[11Dec2024 15:05:49.381] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruinas1
+[11Dec2024 15:05:49.383] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:tower1
+[11Dec2024 15:05:49.386] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa3
+[11Dec2024 15:05:49.390] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:gasstation
+[11Dec2024 15:05:49.394] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store1
+[11Dec2024 15:05:49.402] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store2
+[11Dec2024 15:05:49.438] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store3
+[11Dec2024 15:05:49.453] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa4
+[11Dec2024 15:05:49.460] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa5
+[11Dec2024 15:05:49.467] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa6
+[11Dec2024 15:05:49.482] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa7
+[11Dec2024 15:05:49.493] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa9
+[11Dec2024 15:05:49.502] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina3
+[11Dec2024 15:05:49.507] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina4
+[11Dec2024 15:05:49.511] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina5
+[11Dec2024 15:05:49.515] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina6
+[11Dec2024 15:05:49.521] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina7
+[11Dec2024 15:05:49.532] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina8
+[11Dec2024 15:05:49.544] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina9
+[11Dec2024 15:05:49.550] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina10
+[11Dec2024 15:05:49.554] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina11
+[11Dec2024 15:05:49.558] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina12
+[11Dec2024 15:05:49.563] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina13
+[11Dec2024 15:05:49.567] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina14
+[11Dec2024 15:05:49.579] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina15
+[11Dec2024 15:05:49.609] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina16
+[11Dec2024 15:05:49.790] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:store5
+[11Dec2024 15:05:49.821] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:farm
+[11Dec2024 15:05:49.862] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:hospital
+[11Dec2024 15:05:49.955] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militaryairport
+[11Dec2024 15:05:50.009] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:refugecamp
+[11Dec2024 15:05:50.083] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militarybase
+[11Dec2024 15:05:50.118] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ussnavy
+[11Dec2024 15:05:50.144] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:factory
+[11Dec2024 15:05:50.160] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:farmacia
+[11Dec2024 15:05:50.249] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:acidentedeaviao
+[11Dec2024 15:05:50.288] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:acampamentinho
+[11Dec2024 15:05:50.291] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:17
+[11Dec2024 15:05:50.292] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:1234
+[11Dec2024 15:05:50.297] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:tower3
+[11Dec2024 15:05:50.307] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:campoderefugiados2
+[11Dec2024 15:05:50.316] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina18
+[11Dec2024 15:05:50.340] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:ruina19
+[11Dec2024 15:05:50.354] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:militarycamp2
+[11Dec2024 15:05:50.362] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:casa10
+[11Dec2024 15:05:50.383] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:construction1
+[11Dec2024 15:05:50.401] [Worker-Main23/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:gunstore
+[11Dec2024 15:05:51.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5907ms or 118 ticks behind
+[11Dec2024 15:05:51.998] [IO-Worker-99/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[11Dec2024 15:05:52.157] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[11Dec2024 15:05:52.157] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[11Dec2024 15:05:53.414] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[11Dec2024 15:05:56.810] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[11Dec2024 15:06:09.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -920.500000, 74.500000, 42.500000]
+[11Dec2024 15:06:39.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1009.500000, 71.500000, -55.500000]
+[11Dec2024 15:07:50.196] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[11Dec2024 15:08:01.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1307.500000, -45.500000, 246.500000]
+[11Dec2024 15:08:02.920] [IO-Worker-101/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[11Dec2024 15:08:08.065] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[11Dec2024 15:09:02.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1009.500000, 71.500000, -55.500000]
+[11Dec2024 15:09:11.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[11Dec2024 15:09:11.455] [IO-Worker-98/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[11Dec2024 15:09:46.065] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[11Dec2024 15:09:46.075] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[11Dec2024 15:09:46.075] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[11Dec2024 15:09:46.076] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[11Dec2024 15:09:46.079] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[11Dec2024 15:09:46.080] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[11Dec2024 15:09:46.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 15:09:46.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 15:10:21.457] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:24.106] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:24.557] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.064] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.065] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.108] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.111] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.159] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.209] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.212] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.262] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.266] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.313] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.361] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.365] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.413] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.416] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.462] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.514] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.519] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.565] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.613] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.617] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.664] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.667] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.716] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.738] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.795] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.795] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.840] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.846] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.889] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.941] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:25.943] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=false, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:10:47.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1013.500000, 71.500000, -62.500000]
+[11Dec2024 15:10:47.936] [IO-Worker-111/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[11Dec2024 15:10:47.937] [IO-Worker-110/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[11Dec2024 15:10:49.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[11Dec2024 15:10:56.668] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of geotrush: {disabled=true, disconnected=false, uuid=583146d1-b2cf-3918-9ea5-b7f59e3efdcf, name=geotrush, group=null}
+[11Dec2024 15:11:00.067] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[11Dec2024 15:11:00.819] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[11Dec2024 15:11:00.858] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[11Dec2024 15:11:00.969] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[11Dec2024 15:11:00.978] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[11Dec2024 15:11:00.978] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[11Dec2024 15:11:01.008] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[11Dec2024 15:11:01.021] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[11Dec2024 15:11:01.071] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[11Dec2024 15:11:01.083] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[11Dec2024 15:11:01.109] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=false, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[11Dec2024 15:11:01.157] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ELROMPECLITOS: {disabled=true, disconnected=false, uuid=ea1d6924-ef7f-3006-9b46-6c348f596194, name=ELROMPECLITOS, group=null}
+[11Dec2024 15:11:10.096] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[11Dec2024 15:11:19.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Keep Going]
+[11Dec2024 15:11:21.170] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[11Dec2024 15:12:47.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by The Wheezer
+[11Dec2024 15:12:48.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:12:48.848] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:12:52.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1019.500000, 73.500000, -136.500000]
+[11Dec2024 15:12:53.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by The Wheezer
+[11Dec2024 15:12:53.799] [IO-Worker-114/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[11Dec2024 15:12:55.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:12:55.042] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:12:58.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1019.500000, 72.500000, -135.500000]
+[11Dec2024 15:13:18.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by The Wheezer
+[11Dec2024 15:13:19.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:13:19.727] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:13:21.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1011.500000, 72.500000, -136.500000]
+[11Dec2024 15:13:23.803] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by The Wheezer
+[11Dec2024 15:13:24.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:13:24.913] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:13:26.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1011.500000, 72.500000, -137.500000]
+[11Dec2024 15:13:34.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by The Wheezer
+[11Dec2024 15:13:35.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:13:35.795] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:13:37.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1020.500000, 72.500000, -136.500000]
+[11Dec2024 15:13:53.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by The Wheezer
+[11Dec2024 15:13:55.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:13:55.044] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:13:57.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1015.500000, 73.500000, -139.500000]
