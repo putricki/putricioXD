@@ -17361,3 +17361,118 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [11Dec2024 15:13:55.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [11Dec2024 15:13:55.044] [Server thread/INFO] [tac/]: PENDING
 [11Dec2024 15:13:57.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1015.500000, 73.500000, -139.500000]
+[11Dec2024 15:14:15.708] [IO-Worker-113/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[11Dec2024 15:14:30.046] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[11Dec2024 15:14:30.046] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[11Dec2024 15:14:31.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by The Wheezer
+[11Dec2024 15:14:33.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by The Wheezer
+[11Dec2024 15:14:33.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:14:33.761] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:14:34.071] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[11Dec2024 15:14:34.085] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[11Dec2024 15:14:34.085] [IO-Worker-115/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[11Dec2024 15:14:43.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1024.500000, 73.500000, -133.500000]
+[11Dec2024 15:14:46.060] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[11Dec2024 15:14:46.061] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[11Dec2024 15:14:46.061] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[11Dec2024 15:14:46.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 15:14:46.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 15:14:51.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:14:51.259] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:14:54.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1025.500000, 72.500000, -131.500000]
+[11Dec2024 15:16:10.603] [IO-Worker-117/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[11Dec2024 15:17:46.353] [IO-Worker-123/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[11Dec2024 15:17:50.246] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[11Dec2024 15:17:50.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Zombie
+[11Dec2024 15:17:51.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:17:51.564] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:18:09.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1062.500000, 79.500000, -132.500000]
+[11Dec2024 15:18:10.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[11Dec2024 15:18:11.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:18:11.937] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:18:20.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Zombie
+[11Dec2024 15:18:21.073] [IO-Worker-124/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[11Dec2024 15:18:21.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:18:21.744] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:18:29.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1068.500000, 66.500000, -130.500000]
+[11Dec2024 15:18:36.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1068.500000, 80.500000, -131.500000]
+[11Dec2024 15:18:41.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Zombie
+[11Dec2024 15:18:42.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[11Dec2024 15:18:44.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:18:44.359] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:18:44.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:18:44.922] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:18:47.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1069.500000, 68.500000, -136.500000]
+[11Dec2024 15:18:54.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[11Dec2024 15:18:54.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1068.500000, 80.500000, -131.500000]
+[11Dec2024 15:18:55.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:18:55.297] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:19:06.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1069.500000, 68.500000, -136.500000]
+[11Dec2024 15:19:15.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Zombie
+[11Dec2024 15:19:22.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:19:22.793] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:19:27.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[11Dec2024 15:19:27.662] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Dec2024 15:19:27.663] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 17 is dual wielding: false
+[11Dec2024 15:19:27.663] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[11Dec2024 15:19:27.663] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[11Dec2024 15:19:27.663] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[11Dec2024 15:19:28.671] [IO-Worker-124/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[11Dec2024 15:19:29.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:19:29.288] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:19:30.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1066.500000, 66.500000, -135.500000]
+[11Dec2024 15:19:46.069] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -1] Saved.
+[11Dec2024 15:19:46.080] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[11Dec2024 15:19:46.080] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[11Dec2024 15:19:46.080] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-129
+[11Dec2024 15:19:46.082] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-130
+[11Dec2024 15:19:46.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 15:19:46.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 15:20:01.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[11Dec2024 15:20:02.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:20:02.215] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:20:05.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1067.500000, 66.500000, -137.500000]
+[11Dec2024 15:20:21.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[11Dec2024 15:20:22.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:20:22.297] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:20:25.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1065.500000, 66.500000, -132.500000]
+[11Dec2024 15:21:10.146] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[11Dec2024 15:21:10.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1068.500000, 80.500000, -131.500000]
+[11Dec2024 15:21:16.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[11Dec2024 15:21:17.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:21:17.558] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:21:21.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1065.500000, 67.500000, -134.500000]
+[11Dec2024 15:21:55.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1009.500000, 71.500000, -55.500000]
+[11Dec2024 15:22:03.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1069.500000, 66.500000, -130.500000]
+[11Dec2024 15:22:06.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1266.500000, 46.500000, 316.500000]
+[11Dec2024 15:22:06.621] [IO-Worker-128/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-131
+[11Dec2024 15:22:34.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1069.500000, 66.500000, -130.500000]
+[11Dec2024 15:22:35.004] [IO-Worker-123/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-132
+[11Dec2024 15:22:35.034] [IO-Worker-123/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-133
+[11Dec2024 15:22:35.034] [IO-Worker-128/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-134
+[11Dec2024 15:22:51.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[11Dec2024 15:22:51.153] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Dec2024 15:22:51.154] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 20 is dual wielding: false
+[11Dec2024 15:22:51.154] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[11Dec2024 15:22:51.154] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[11Dec2024 15:22:51.154] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[11Dec2024 15:22:52.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:22:52.385] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:22:55.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1063.500000, 66.500000, -131.500000]
+[11Dec2024 15:23:55.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[11Dec2024 15:23:55.209] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[11Dec2024 15:23:55.209] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 9 is dual wielding: false
+[11Dec2024 15:23:55.209] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[11Dec2024 15:23:55.209] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[11Dec2024 15:23:55.209] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 6
+[11Dec2024 15:23:56.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:23:56.515] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:23:59.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1060.500000, 66.500000, -135.500000]
+[11Dec2024 15:24:02.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[11Dec2024 15:24:04.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:24:04.288] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:24:06.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1060.500000, 66.500000, -135.500000]
+[11Dec2024 15:24:11.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[11Dec2024 15:24:12.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:24:12.661] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:24:14.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1061.500000, 66.500000, -135.500000]
