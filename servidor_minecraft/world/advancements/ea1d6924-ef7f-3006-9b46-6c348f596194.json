@@ -515,6 +515,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-12-10 01:42:30 +0000",
       "opened_chest": "2024-12-07 13:46:29 +0000"
     },
     "done": false
@@ -675,6 +676,12 @@
   "crossbowverhaul:recipes/combat/bolt_iron": {
     "criteria": {
       "has_ingot": "2024-12-10 01:05:36 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-10 01:42:30 +0000"
     },
     "done": true
   },
