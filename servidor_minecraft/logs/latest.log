@@ -1058,3 +1058,18 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [11Dec2024 14:42:50.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1013.500000, 71.500000, -62.500000]
 [11Dec2024 14:43:10.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
 [11Dec2024 14:43:12.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -920.500000, 74.500000, 42.500000]
+[11Dec2024 14:44:07.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Runner
+[11Dec2024 14:44:08.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 14:44:08.339] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 14:44:53.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1013.500000, 71.500000, -62.500000]
+[11Dec2024 14:44:56.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1307.500000, 54.500000, 296.500000]
+[11Dec2024 14:45:06.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to -1013.500000, 71.500000, -62.500000]
+[11Dec2024 14:45:13.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[11Dec2024 14:47:18.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -920.500000, 74.500000, 42.500000]
+[11Dec2024 14:47:32.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[11Dec2024 14:49:48.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -920.500000, 74.500000, 42.500000]
+[11Dec2024 14:50:15.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -920.500000, 74.500000, 42.500000]
+[11Dec2024 14:50:21.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1009.500000, 71.500000, -55.500000]
+[11Dec2024 14:50:32.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -920.500000, 74.500000, 42.500000]
+[11Dec2024 14:50:54.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1009.500000, 71.500000, -55.500000]
+[11Dec2024 14:51:52.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
