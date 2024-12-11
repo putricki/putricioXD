@@ -1207,3 +1207,47 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [11Dec2024 15:24:12.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [11Dec2024 15:24:12.661] [Server thread/INFO] [tac/]: PENDING
 [11Dec2024 15:24:14.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1061.500000, 66.500000, -135.500000]
+[11Dec2024 15:24:16.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[11Dec2024 15:24:18.262] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:24:18.263] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:24:21.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1061.500000, 66.500000, -135.500000]
+[11Dec2024 15:24:59.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[11Dec2024 15:25:00.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:25:00.779] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:25:04.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1069.500000, 66.500000, -130.500000]
+[11Dec2024 15:25:29.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[11Dec2024 15:25:31.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:25:31.292] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:25:35.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1069.500000, 66.500000, -130.500000]
+[11Dec2024 15:25:40.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[11Dec2024 15:25:41.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:25:41.709] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:25:44.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1064.500000, 66.500000, -131.500000]
+[11Dec2024 15:25:58.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS was slain by Zombie
+[11Dec2024 15:26:00.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:26:00.047] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:26:03.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1069.500000, 66.500000, -130.500000]
+[11Dec2024 15:26:39.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush moved wrongly!
+[11Dec2024 15:26:50.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Zombie
+[11Dec2024 15:26:52.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:26:52.310] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:27:13.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Close Quarters]
+[11Dec2024 15:27:20.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Zombie
+[11Dec2024 15:27:22.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:27:22.444] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:27:47.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Runner
+[11Dec2024 15:27:48.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:27:48.787] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:28:26.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by Zombie
+[11Dec2024 15:28:27.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:28:27.775] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:28:50.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ELROMPECLITOS has made the advancement [Amateur Archaeologist]
+[11Dec2024 15:30:11.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush was slain by The Moonflower
+[11Dec2024 15:30:13.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[11Dec2024 15:30:13.561] [Server thread/INFO] [tac/]: PENDING
+[11Dec2024 15:31:19.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: geotrush has made the advancement [Keep Going]
+[11Dec2024 15:32:00.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -1069.500000, 66.500000, -130.500000]
+[11Dec2024 15:32:35.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[11Dec2024 15:33:03.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from ELROMPECLITOS: Location (-1062.0, 67.6021659374237, -131.5264607667923) too far away from hit block BlockPos{x=-1063, y=67, z=-131}.
+[11Dec2024 15:33:03.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ignoring UseItemOnPacket from ELROMPECLITOS: Location (-1062.0, 67.6021659374237, -131.5264607667923) too far away from hit block BlockPos{x=-1063, y=67, z=-131}.
+[11Dec2024 15:33:37.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
