@@ -3333,6 +3333,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-20 17:25:12 +0000",
       "minecraft:skeleton": "2024-12-20 17:02:41 +0000",
+      "minecraft:vindicator": "2024-12-20 18:54:55 +0000",
       "minecraft:silverfish": "2024-12-20 17:08:31 +0000",
       "minecraft:zombie": "2024-12-20 17:04:31 +0000"
     },
@@ -5134,9 +5135,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-20 19:02:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
     "criteria": {
       "has_gunpowder": "2024-12-20 18:18:48 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/quiver": {
+    "criteria": {
+      "has_leather": "2024-12-20 19:02:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-20 19:02:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-20 18:59:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2024-12-20 19:02:32 +0000"
     },
     "done": true
   },
@@ -5150,6 +5181,18 @@
     "criteria": {
       "has_item1_domum_ornamentum_beige_stone_bricks": "2024-12-20 18:47:55 +0000",
       "has_item2_domum_ornamentum_beige_stone_bricks": "2024-12-20 18:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-20 19:02:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2024-12-20 19:02:32 +0000"
     },
     "done": true
   },
@@ -5189,9 +5232,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-20 19:02:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-20 18:18:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2024-12-20 19:02:32 +0000"
     },
     "done": true
   },
@@ -5213,6 +5268,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2024-12-20 19:02:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2024-12-20 19:02:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 18:47:55 +0000"
@@ -5228,6 +5295,12 @@
   "twigs:recipes/rocky_dirt": {
     "criteria": {
       "has_item": "2024-12-20 18:48:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-20 18:54:56 +0000"
     },
     "done": true
   },
@@ -5264,6 +5337,12 @@
   "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
     "criteria": {
       "has_item": "2024-12-20 18:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-20 18:59:59 +0000"
     },
     "done": true
   },
@@ -5333,6 +5412,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2024-12-20 18:55:05 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/planter_rich": {
     "criteria": {
       "has_bone_meal": "2024-12-20 18:18:48 +0000"
@@ -5351,9 +5436,27 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2024-12-20 19:03:39 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/building_blocks/letios_compost_from_bone_alt": {
     "criteria": {
       "has_bone_meal": "2024-12-20 18:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-20 19:02:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2024-12-20 19:02:39 +0000"
     },
     "done": true
   },
@@ -5387,6 +5490,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-20 19:02:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2024-12-20 19:02:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 18:47:55 +0000"
@@ -5399,9 +5514,33 @@
     },
     "done": true
   },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2024-12-20 19:02:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2024-12-20 19:02:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-20 18:59:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-20 18:20:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-20 18:59:30 +0000"
     },
     "done": true
   },
@@ -5427,6 +5566,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 18:47:55 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-12-20 19:02:25 +0000"
     },
     "done": true
   },

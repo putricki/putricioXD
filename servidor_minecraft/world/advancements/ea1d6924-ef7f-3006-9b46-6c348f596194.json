@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "steel": "2024-12-20 19:01:13 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_andesite": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -566,6 +572,12 @@
   "tetra:spelunking/find_cell": {
     "criteria": {
       "get_cell": "2024-12-20 17:02:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2024-12-20 18:52:41 +0000"
     },
     "done": true
   },
@@ -1398,6 +1410,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2024-12-20 18:52:41 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_helmet_repairing": {
     "criteria": {
       "has_iron_helmet": "2024-12-20 17:06:10 +0000"
@@ -1755,6 +1773,12 @@
   "handcrafted:recipes/misc/wolf_trophy": {
     "criteria": {
       "has_wolf_trophy": "2024-12-20 16:44:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_boots": {
+    "criteria": {
+      "has_item": "2024-12-20 19:01:13 +0000"
     },
     "done": true
   },
@@ -2118,6 +2142,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonsteel_lightning_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-20 19:01:13 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/yellow_bowl": {
     "criteria": {
       "has_yellow_bowl": "2024-12-20 16:45:50 +0000"
@@ -2472,6 +2502,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2024-12-20 18:52:41 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "forge:eggs": "2024-12-20 17:14:17 +0000"
@@ -2802,6 +2838,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonsteel_lightning_hoe": {
+    "criteria": {
+      "has_item": "2024-12-20 19:01:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 17:01:32 +0000"
@@ -2985,6 +3027,12 @@
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_sword": {
+    "criteria": {
+      "has_item": "2024-12-20 19:01:13 +0000"
     },
     "done": true
   },
@@ -3220,6 +3268,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-20 16:44:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-20 19:01:13 +0000"
     },
     "done": true
   },
@@ -3672,6 +3726,12 @@
   "ars_nouveau:recipes/misc/spike_to_dye": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-20 18:52:41 +0000"
     },
     "done": true
   },
@@ -4444,6 +4504,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonsteel_lightning_shovel": {
+    "criteria": {
+      "has_item": "2024-12-20 19:01:13 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-20 18:11:25 +0000"
@@ -5212,6 +5278,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-20 18:52:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-20 16:44:43 +0000"
@@ -5626,6 +5698,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonsteel_lightning_ingot_to_dragonsteel_lightning_block": {
+    "criteria": {
+      "has_dragonsteel_lightning_ingot": "2024-12-20 19:01:13 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -5794,6 +5872,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonsteel_lightning_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 19:01:13 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/misc/shapetool": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -5809,6 +5893,12 @@
   "bclib:recipes/decorations/tag_smith_table": {
     "criteria": {
       "has_tag_minecraft_planks": "2024-12-20 16:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-20 18:52:41 +0000"
     },
     "done": true
   },
@@ -5981,6 +6071,12 @@
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_torch": "2024-12-20 16:48:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_leggings": {
+    "criteria": {
+      "has_item": "2024-12-20 19:01:13 +0000"
     },
     "done": true
   },
@@ -6269,6 +6365,12 @@
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 16:52:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_axe": {
+    "criteria": {
+      "has_item": "2024-12-20 19:01:13 +0000"
     },
     "done": true
   },
