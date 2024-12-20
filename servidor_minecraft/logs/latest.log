@@ -5554,3 +5554,43 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [20Dec2024 17:12:18.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3605ms or 72 ticks behind
 [20Dec2024 17:12:37.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3470ms or 69 ticks behind
 [20Dec2024 17:12:54.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2413ms or 48 ticks behind
+[20Dec2024 17:13:12.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3231ms or 64 ticks behind
+[20Dec2024 17:13:35.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7162ms or 143 ticks behind
+[20Dec2024 17:13:55.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5149ms or 102 ticks behind
+[20Dec2024 17:14:15.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5798ms or 115 ticks behind
+[20Dec2024 17:14:29.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [How'd You Get This?]
+[20Dec2024 17:14:37.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6817ms or 136 ticks behind
+[20Dec2024 17:14:59.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6388ms or 127 ticks behind
+[20Dec2024 17:15:02.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Cover Me with Diamonds]
+[20Dec2024 17:15:24.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10297ms or 205 ticks behind
+[20Dec2024 17:15:44.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5558ms or 111 ticks behind
+[20Dec2024 17:16:05.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6124ms or 122 ticks behind
+[20Dec2024 17:16:28.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7640ms or 152 ticks behind
+[20Dec2024 17:16:50.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6880ms or 137 ticks behind
+[20Dec2024 17:17:13.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8548ms or 170 ticks behind
+[20Dec2024 17:17:36.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8036ms or 160 ticks behind
+[20Dec2024 17:18:01.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9338ms or 186 ticks behind
+[20Dec2024 17:18:23.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7741ms or 154 ticks behind
+[20Dec2024 17:18:43.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4410ms or 88 ticks behind
+[20Dec2024 17:19:00.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2674ms or 53 ticks behind
+[20Dec2024 17:19:08.159] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Connie'/15589, l='ServerLevel[world]', x=523.57, y=76.02, z=502.80] died, message: 'Connie was slain by Zombie Brute'
+[20Dec2024 17:19:08.162] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Connie'/15589, l='ServerLevel[world]', x=523.57, y=76.02, z=502.80] died: Connie was slain by Zombie Brute
+[20Dec2024 17:19:11.255] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Connie'/18308, l='ServerLevel[world]', x=522.27, y=76.00, z=504.21] died: Connie was slain by Michael
+[20Dec2024 17:19:23.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8023ms or 160 ticks behind
+[20Dec2024 17:19:44.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5087ms or 101 ticks behind
+[20Dec2024 17:19:54.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Getting an Upgrade]
+[20Dec2024 17:20:02.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3699ms or 73 ticks behind
+[20Dec2024 17:20:21.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3910ms or 78 ticks behind
+[20Dec2024 17:20:40.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3808ms or 76 ticks behind
+[20Dec2024 17:20:58.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2685ms or 53 ticks behind
+[20Dec2024 17:21:16.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3426ms or 68 ticks behind
+[20Dec2024 17:21:28.756] [pool-11-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_christmas], ResourceKey[minecraft:worldgen/structure / ctov:small/village_jungle_tree], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / blue_skies:village_crystal_dunes], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_jungle_tree], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga_fortified]] from pos BlockPos{x=437, y=67, z=907}
+[20Dec2024 17:21:45.262] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[20Dec2024 17:21:45.262] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[20Dec2024 17:21:45.271] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[20Dec2024 17:21:57.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26274ms or 525 ticks behind
+[20Dec2024 17:22:15.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2566ms or 51 ticks behind
+[20Dec2024 17:22:23.203] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[20Dec2024 17:22:36.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6382ms or 127 ticks behind
+[20Dec2024 17:22:57.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5846ms or 116 ticks behind
+[20Dec2024 17:23:02.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
