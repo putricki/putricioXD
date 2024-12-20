@@ -5887,3 +5887,26 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [20Dec2024 19:43:30.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELROMPECLITOS moved wrongly!
 [20Dec2024 19:43:33.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
 [20Dec2024 19:43:54.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[20Dec2024 19:48:13.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[20Dec2024 19:48:17.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has reached the goal [Postmortal]
+[20Dec2024 19:48:29.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> gg
+[20Dec2024 19:48:30.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> gg
+[20Dec2024 19:48:31.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> gg
+[20Dec2024 19:48:31.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> g
+[20Dec2024 19:48:32.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> g
+[20Dec2024 19:48:37.017] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Firecaller['Captain Henry the Sage'/83387, l='ServerLevel[world]', x=241.25, y=37.00, z=329.25] died: Captain Henry the Sage was slain by geotrush
+[20Dec2024 19:48:45.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has completed the challenge [He Wasn't So Strong]
+[20Dec2024 19:48:59.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> g
+[20Dec2024 19:49:03.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Need A Map?]
+[20Dec2024 19:49:03.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [The Beginning of An Adventure]
+[20Dec2024 19:49:04.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[20Dec2024 19:50:34.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[20Dec2024 19:50:50.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20Dec2024 19:51:06.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> x
+[20Dec2024 19:51:07.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> d
+[20Dec2024 19:51:11.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> TORTA
+[20Dec2024 19:52:54.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Chort
+[20Dec2024 19:54:36.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> TORTA
+[20Dec2024 19:54:57.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[20Dec2024 19:56:12.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20Dec2024 19:56:30.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind

@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2024-12-20 19:44:25 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_taburet": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -569,6 +575,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_vine": {
+    "criteria": {
+      "has_vine": "2024-12-20 19:44:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-20 18:51:32 +0000"
@@ -1000,6 +1012,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2024-12-20 19:44:25 +0000"
     },
     "done": true
   },
@@ -3229,6 +3247,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bricks/mossy_bricks_from_vine": {
+    "criteria": {
+      "has_item": "2024-12-20 19:44:25 +0000"
+    },
+    "done": true
+  },
   "tetra:spelunking/ancient_ruins": {
     "criteria": {
       "regular_ruin": "2024-12-20 17:00:15 +0000"
@@ -3810,7 +3834,8 @@
     "criteria": {
       "baked_potato": "2024-12-20 19:34:32 +0000",
       "apple": "2024-12-20 16:48:46 +0000",
-      "bread": "2024-12-20 17:01:48 +0000"
+      "bread": "2024-12-20 17:01:48 +0000",
+      "golden_apple": "2024-12-20 19:48:44 +0000"
     },
     "done": false
   },
@@ -4262,6 +4287,12 @@
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-20 19:20:42 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/arsonist_necklace": {
+    "criteria": {
+      "has_fire_charge": "2024-12-20 19:48:49 +0000"
     },
     "done": true
   },
@@ -6091,6 +6122,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-12-20 19:46:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-20 19:07:33 +0000"
@@ -6511,6 +6548,7 @@
       "coniferous_forest": "2024-12-20 16:51:29 +0000",
       "forested_field": "2024-12-20 16:41:48 +0000",
       "seasonal_forest": "2024-12-20 17:19:18 +0000",
+      "glowing_grotto": "2024-12-20 19:45:11 +0000",
       "gravel_beach": "2024-12-20 16:59:49 +0000"
     },
     "done": false
