@@ -4,9 +4,19 @@
 	name: "ClanNP#7ef01e51"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
-	completed: { }
+	task_progress: {
+		7C819485FF0B8632: 1
+	}
+	started: {
+		791A53DBEED81142: 1734714309435L
+		0000000000000001: 1734714309435L
+		1D550243ED7A0A05: 1734714309435L
+		7C819485FF0B8632: 1734714309435L
+	}
+	completed: {
+		1D550243ED7A0A05: 1734714309444L
+		7C819485FF0B8632: 1734714309444L
+	}
 	claimed_rewards: { }
 	player_data: { }
 }
