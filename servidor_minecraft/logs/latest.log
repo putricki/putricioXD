@@ -5594,3 +5594,7 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [20Dec2024 17:22:36.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6382ms or 127 ticks behind
 [20Dec2024 17:22:57.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5846ms or 116 ticks behind
 [20Dec2024 17:23:02.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[20Dec2024 17:27:30.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Not a Diamond]
+[20Dec2024 17:30:11.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> COMO ES EL GRITO MEXICANO
+[20Dec2024 17:30:22.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Source of Evil]
+[20Dec2024 17:30:34.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]

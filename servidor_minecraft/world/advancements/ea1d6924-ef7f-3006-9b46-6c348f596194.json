@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2024-12-20 17:25:53 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2024-12-20 16:44:56 +0000"
@@ -50,6 +56,12 @@
   "survive:recipes/main/cyan_washcloth": {
     "criteria": {
       "has_white_washcloth": "2024-12-20 16:37:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
     },
     "done": true
   },
@@ -86,6 +98,12 @@
   "betterend:recipes/decorations/end_lotus_ladder": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-20 17:25:38 +0000"
     },
     "done": true
   },
@@ -155,6 +173,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2024-12-20 17:21:55 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_taburet": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -176,6 +200,12 @@
   "twigs:recipes/tables/spruce_table": {
     "criteria": {
       "has_bamboo": "2024-12-20 16:44:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2024-12-20 17:24:52 +0000"
     },
     "done": true
   },
@@ -239,6 +269,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2024-12-20 17:21:55 +0000"
+    },
+    "done": true
+  },
   "survive:recipes/main/lime_washcloth": {
     "criteria": {
       "has_white_washcloth": "2024-12-20 16:37:21 +0000"
@@ -293,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 17:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-20 16:42:46 +0000"
@@ -314,6 +356,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-20 16:49:46 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/green_floating_carpet": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
     },
     "done": true
   },
@@ -347,6 +395,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/orange_floating_carpet": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 16:52:36 +0000"
@@ -362,6 +422,12 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 16:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
     },
     "done": true
   },
@@ -551,9 +617,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting_raw_iron": {
+    "criteria": {
+      "has_item": "2024-12-20 17:25:38 +0000"
+    },
+    "done": true
+  },
   "survive:recipes/main/soap_mix": {
     "criteria": {
       "has_ingredients": "2024-12-20 16:37:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
     },
     "done": true
   },
@@ -653,6 +731,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2024-12-20 17:24:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_red": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 16:52:36 +0000"
@@ -694,6 +778,12 @@
       "pants": "2024-12-20 16:55:51 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 17:21:55 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/timber_brace": {
     "criteria": {
@@ -815,6 +905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-20 17:25:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -899,9 +995,21 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/decorations/light_gray_floating_carpet": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_sign": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2024-12-20 17:24:52 +0000"
     },
     "done": true
   },
@@ -962,6 +1070,12 @@
   "betterend:recipes/misc/infusion_pedestal": {
     "criteria": {
       "has_obsidian": "2024-12-20 16:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-20 17:24:52 +0000"
     },
     "done": true
   },
@@ -1073,6 +1187,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/decorations/lime_floating_carpet": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-20 17:01:31 +0000"
@@ -1088,6 +1208,12 @@
   "travelersbackpack:recipes/misc/fox": {
     "criteria": {
       "has_sweet_berries": "2024-12-20 16:56:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2024-12-20 17:25:53 +0000"
     },
     "done": true
   },
@@ -1157,9 +1283,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/faucet": {
     "criteria": {
       "forge:rods/wooden": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2024-12-20 17:21:55 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/stone_column": {
+    "criteria": {
+      "has_item": "2024-12-20 17:24:52 +0000"
     },
     "done": true
   },
@@ -1199,6 +1343,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2024-12-20 17:25:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 16:52:36 +0000"
@@ -1214,6 +1364,12 @@
   "domum_ornamentum:recipes/building_blocks/blockbarreldeco_onside": {
     "criteria": {
       "has_planks": "2024-12-20 16:44:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2024-12-20 17:22:28 +0000"
     },
     "done": true
   },
@@ -1325,6 +1481,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2024-12-20 17:25:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 17:01:32 +0000"
@@ -1340,6 +1502,12 @@
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2024-12-20 16:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-20 17:24:52 +0000"
     },
     "done": true
   },
@@ -1439,6 +1607,12 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/stone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-20 17:24:52 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/end_lotus_gate": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -1460,6 +1634,18 @@
   "ancient_aether:recipes/transportation/sakura_boat": {
     "criteria": {
       "in_water": "2024-12-20 16:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 17:24:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-20 17:29:28 +0000"
     },
     "done": true
   },
@@ -1493,6 +1679,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/decorations/pink_floating_carpet": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/terminite_sword_handle": {
     "criteria": {
       "has_item.minecraft.stick": "2024-12-20 16:52:27 +0000"
@@ -1514,6 +1706,12 @@
   "supplementaries:recipes/iron_gate": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 16:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 17:24:52 +0000"
     },
     "done": true
   },
@@ -1541,9 +1739,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 17:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 17:01:32 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/light_blue_floating_carpet": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
     },
     "done": true
   },
@@ -1580,6 +1790,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2024-12-20 16:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-20 17:25:38 +0000"
     },
     "done": true
   },
@@ -1622,6 +1838,18 @@
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2024-12-20 16:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 17:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 17:24:52 +0000"
     },
     "done": true
   },
@@ -1676,6 +1904,12 @@
   "betterend:recipes/decorations/jellyshroom_taburet": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2024-12-20 17:25:53 +0000"
     },
     "done": true
   },
@@ -1779,6 +2013,12 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-12-20 17:06:09 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/stone_pillar": {
+    "criteria": {
+      "has_stone": "2024-12-20 17:24:52 +0000"
     },
     "done": true
   },
@@ -1934,6 +2174,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2024-12-20 17:23:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_fence": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -1976,9 +2222,21 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/decorations/purple_floating_carpet": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/terminite_bulb_lantern_yellow": {
     "criteria": {
       "has_yellow_dye": "2024-12-20 16:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-20 17:24:52 +0000"
     },
     "done": true
   },
@@ -2012,6 +2270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-20 17:22:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 16:52:36 +0000"
@@ -2027,6 +2291,12 @@
   "betterend:recipes/decorations/lacugrove_ladder": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2024-12-20 17:22:38 +0000"
     },
     "done": true
   },
@@ -2114,9 +2384,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2024-12-20 17:25:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2024-12-20 16:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 17:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 17:24:52 +0000"
     },
     "done": true
   },
@@ -2135,6 +2423,18 @@
   "survive:recipes/main/soap_bottle": {
     "criteria": {
       "has_ingredients": "2024-12-20 16:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-20 17:24:52 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/gray_floating_carpet": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
     },
     "done": true
   },
@@ -2201,6 +2501,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-20 17:20:21 +0000",
+      "minecraft:cave_spider": "2024-12-20 17:27:10 +0000",
       "minecraft:stray": "2024-12-20 17:19:35 +0000",
       "minecraft:zombie": "2024-12-20 17:14:28 +0000",
       "minecraft:drowned": "2024-12-20 17:07:02 +0000"
@@ -2237,6 +2538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-20 17:24:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 16:52:36 +0000"
@@ -2270,6 +2577,12 @@
   "supplementaries:recipes/bomb": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 16:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-20 17:24:52 +0000"
     },
     "done": true
   },
@@ -2312,6 +2625,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-20 16:44:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/cyan_floating_carpet": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
     },
     "done": true
   },
@@ -2378,6 +2697,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 17:01:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 17:21:55 +0000"
     },
     "done": true
   },
@@ -2465,6 +2790,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2024-12-20 17:22:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 17:01:32 +0000"
@@ -2543,6 +2874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 17:21:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 16:52:36 +0000"
@@ -2573,6 +2910,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/decorations/yellow_floating_carpet": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "forge:rods/wooden": "2024-12-20 16:52:27 +0000"
@@ -2582,6 +2925,12 @@
   "skilltree:recipes/combat/bone_quiver": {
     "criteria": {
       "has_bone": "2024-12-20 17:19:36 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2024-12-20 17:27:30 +0000"
     },
     "done": true
   },
@@ -2597,6 +2946,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_evoker_trophy": "2024-12-20 17:24:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
       "has_item": "2024-12-20 17:06:27 +0000"
@@ -2606,6 +2961,12 @@
   "minecolonies:recipes/misc/chainmailhelmet": {
     "criteria": {
       "has_iron": "2024-12-20 16:52:36 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/red_floating_carpet": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
     },
     "done": true
   },
@@ -2621,6 +2982,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sponge_smithing": {
+    "criteria": {
+      "has_sponge": "2024-12-20 17:20:23 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/umbrella_tree_sign": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -2630,6 +2997,12 @@
   "handcrafted:recipes/misc/yellow_crockery_combo": {
     "criteria": {
       "has_yellow_crockery_combo": "2024-12-20 16:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-20 17:25:53 +0000"
     },
     "done": true
   },
@@ -2648,6 +3021,12 @@
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2024-12-20 16:49:46 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/brown_floating_carpet": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
     },
     "done": true
   },
@@ -2687,6 +3066,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_pillager_trophy": "2024-12-20 17:24:52 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_ladder": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -2696,6 +3081,12 @@
   "betterend:recipes/decorations/helix_tree_taburet": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 17:21:55 +0000"
     },
     "done": true
   },
@@ -2711,9 +3102,21 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/decorations/black_floating_carpet": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
   "survive:recipes/main/blue_washcloth": {
     "criteria": {
       "has_white_washcloth": "2024-12-20 16:37:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
     },
     "done": true
   },
@@ -2744,6 +3147,12 @@
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2024-12-20 16:44:48 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2024-12-20 17:24:52 +0000"
     },
     "done": true
   },
@@ -2807,6 +3216,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-20 17:31:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-20 17:14:17 +0000"
@@ -2843,9 +3258,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_stone_corner_trim": "2024-12-20 17:24:52 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 17:21:55 +0000"
     },
     "done": true
   },
@@ -2897,9 +3324,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 17:21:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 17:21:55 +0000"
     },
     "done": true
   },
@@ -2912,6 +3351,18 @@
   "betterend:recipes/misc/copy_terminite_upgrade": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/white_floating_carpet": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2024-12-20 17:22:28 +0000"
     },
     "done": true
   },
@@ -2975,9 +3426,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 17:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-20 17:21:55 +0000"
     },
     "done": true
   },
@@ -3039,6 +3502,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/transportation/tag_rail": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -3066,6 +3535,12 @@
   "handcrafted:recipes/misc/fox_trophy": {
     "criteria": {
       "has_fox_trophy": "2024-12-20 16:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-20 17:24:52 +0000"
     },
     "done": true
   },
@@ -3156,6 +3631,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-20 16:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 17:21:55 +0000"
     },
     "done": true
   },
@@ -3387,6 +3868,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_witch_trophy": "2024-12-20 17:24:52 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_bench": "2024-12-20 16:52:36 +0000"
@@ -3483,9 +3970,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-20 17:24:52 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_stone_pillar_trim": "2024-12-20 17:24:52 +0000"
     },
     "done": true
   },
@@ -3493,6 +3992,24 @@
     "criteria": {
       "has_the_recipe": "2024-12-20 16:52:36 +0000",
       "has_iron_ingot": "2024-12-20 16:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2024-12-20 17:22:28 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/blue_floating_carpet": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
     },
     "done": true
   },
@@ -3531,7 +4048,8 @@
       "minecraft:old_growth_pine_taiga": "2024-12-20 16:37:22 +0000",
       "minecraft:river": "2024-12-20 16:46:00 +0000",
       "minecraft:cold_ocean": "2024-12-20 17:00:00 +0000",
-      "minecraft:old_growth_spruce_taiga": "2024-12-20 16:45:02 +0000"
+      "minecraft:old_growth_spruce_taiga": "2024-12-20 16:45:02 +0000",
+      "minecraft:deep_dark": "2024-12-20 17:31:00 +0000"
     },
     "done": false
   },
@@ -3556,6 +4074,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-20 17:01:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-20 17:21:55 +0000"
     },
     "done": true
   },
@@ -3607,6 +4131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-20 16:49:46 +0000"
@@ -3640,6 +4170,12 @@
   "betterend:recipes/misc/copy_leather_handle_attachment": {
     "criteria": {
       "has_diamond": "2024-12-20 16:49:46 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/magenta_floating_carpet": {
+    "criteria": {
+      "has_string": "2024-12-20 17:22:38 +0000"
     },
     "done": true
   },
