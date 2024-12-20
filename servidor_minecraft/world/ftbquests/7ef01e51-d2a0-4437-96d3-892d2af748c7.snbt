@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "7ef01e51d2a0443796d3892d2af748c7"
+	name: "ClanNP#7ef01e51"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

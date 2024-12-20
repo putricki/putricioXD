@@ -3,11 +3,11 @@
 [general]
 	#The CurseForge project ID for the modpack
 	#Range: > 0
-	modpackProjectID = 490660
+	modpackProjectID = 876851
 	#The name of the modpack
-	modpackName = "DeceasedCraft"
+	modpackName = "Medieval MC [FORGE] 1.20.1"
 	#The version of the modpack
-	modpackVersion = "v5.5.4"
+	modpackVersion = "v30"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false
