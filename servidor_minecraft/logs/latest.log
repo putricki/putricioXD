@@ -5598,3 +5598,10 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [20Dec2024 17:30:11.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> COMO ES EL GRITO MEXICANO
 [20Dec2024 17:30:22.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Source of Evil]
 [20Dec2024 17:30:34.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[20Dec2024 17:36:54.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[20Dec2024 17:37:34.164] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Sir Lorraine the Marbles Winner'/24440, l='ServerLevel[world]', x=692.61, y=-42.00, z=965.65] died: Sir Lorraine the Marbles Winner was slain by ELROMPECLITOS
+[20Dec2024 17:37:35.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has completed the challenge [He Wasn't So Strong]
+[20Dec2024 17:38:58.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was burnt to a crisp whilst fighting Necromancer
+[20Dec2024 17:39:08.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Far From Perfect]
+[20Dec2024 17:39:29.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Sneak 100]
+[20Dec2024 17:41:54.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Into Fire]
