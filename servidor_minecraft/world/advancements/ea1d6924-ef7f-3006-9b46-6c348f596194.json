@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-20 20:23:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_mycelium": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -470,6 +476,12 @@
   "handcrafted:recipes/misc/spruce_table": {
     "criteria": {
       "has_spruce_table": "2024-12-20 16:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-20 20:19:38 +0000"
     },
     "done": true
   },
@@ -632,6 +644,12 @@
   "domum_ornamentum:recipes/decorations/green_floating_carpet": {
     "criteria": {
       "has_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-20 20:23:18 +0000"
     },
     "done": true
   },
@@ -861,6 +879,12 @@
   "twigs:recipes/tuff/tuff_slab_stonecutting": {
     "criteria": {
       "has_item": "2024-12-20 19:05:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-20 20:23:18 +0000"
     },
     "done": true
   },
@@ -1147,6 +1171,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-20 20:17:22 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-20 18:11:25 +0000"
@@ -1168,6 +1198,12 @@
   "aether:recipes/redstone/skyroot_tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_pillar_trim": {
+    "criteria": {
+      "has_granite_pillar_trim": "2024-12-20 20:23:18 +0000"
     },
     "done": true
   },
@@ -1336,6 +1372,12 @@
   "georenouveau:recipes/misc/coal_geore_dowsing_rod": {
     "criteria": {
       "has_ore": "2024-12-20 16:41:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_corner_trim": {
+    "criteria": {
+      "has_granite_corner_trim": "2024-12-20 20:23:18 +0000"
     },
     "done": true
   },
@@ -1804,6 +1846,12 @@
   "ars_nouveau:recipes/misc/ritual_containment": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-20 20:23:18 +0000"
     },
     "done": true
   },
@@ -2632,6 +2680,12 @@
   "betterend:recipes/decorations/lucernia_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_watch_tower": "2024-12-20 20:17:49 +0000"
     },
     "done": true
   },
@@ -3599,6 +3653,12 @@
   "supplementaries:recipes/candle_holders/candle_holder": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 16:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-20 20:23:18 +0000"
     },
     "done": true
   },
@@ -4638,6 +4698,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_watch_tower": "2024-12-20 20:17:49 +0000"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/decorations/sourcestone_10": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -4940,6 +5006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-20 20:23:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/source_gem_block_2": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -5198,6 +5270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-20 20:23:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/conjuration_essence_to_soul_sand": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -5255,6 +5333,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-20 16:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-20 20:23:18 +0000"
     },
     "done": true
   },
@@ -5372,6 +5456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-20 20:23:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2024-12-20 17:36:31 +0000"
@@ -5435,6 +5525,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-12-20 17:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-20 20:23:18 +0000"
     },
     "done": true
   },
@@ -5881,6 +5977,12 @@
       "has_stick": "2024-12-20 16:52:27 +0000"
     },
     "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "yellow": "2024-12-20 20:17:54 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/stone_tile": {
     "criteria": {
@@ -6610,12 +6712,14 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2024-12-20 20:14:56 +0000",
       "cold_desert": "2024-12-20 20:05:40 +0000",
       "field": "2024-12-20 16:48:47 +0000",
       "coniferous_forest": "2024-12-20 16:51:29 +0000",
       "forested_field": "2024-12-20 16:41:48 +0000",
       "seasonal_forest": "2024-12-20 17:19:18 +0000",
       "fir_clearing": "2024-12-20 20:05:54 +0000",
+      "snowy_fir_clearing": "2024-12-20 20:14:51 +0000",
       "glowing_grotto": "2024-12-20 19:45:11 +0000",
       "gravel_beach": "2024-12-20 16:59:49 +0000"
     },
@@ -7685,6 +7789,7 @@
       "minecraft:taiga": "2024-12-20 19:40:07 +0000",
       "minecraft:frozen_river": "2024-12-20 20:05:18 +0000",
       "minecraft:river": "2024-12-20 16:46:00 +0000",
+      "minecraft:snowy_plains": "2024-12-20 20:17:34 +0000",
       "minecraft:dripstone_caves": "2024-12-20 19:17:21 +0000",
       "minecraft:cold_ocean": "2024-12-20 17:00:00 +0000",
       "minecraft:forest": "2024-12-20 19:17:43 +0000",
