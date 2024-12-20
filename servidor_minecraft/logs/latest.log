@@ -5630,3 +5630,54 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [20Dec2024 18:14:05.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Timed out
 [20Dec2024 18:14:05.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
 [20Dec2024 18:14:05.226] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
+[20Dec2024 18:14:27.999] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[20Dec2024 18:14:28.073] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[20Dec2024 18:14:28.101] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[20Dec2024 18:14:28.167] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[20Dec2024 18:14:28.221] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[20Dec2024 18:14:28.269] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[20Dec2024 18:14:28.325] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[20Dec2024 18:14:28.369] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[20Dec2024 18:14:28.424] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[20Dec2024 18:14:28.471] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[20Dec2024 18:14:28.527] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[20Dec2024 18:14:28.571] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[20Dec2024 18:14:30.706] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[20Dec2024 18:14:30.706] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[20Dec2024 18:14:30.784] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[20Dec2024 18:14:30.934] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[20Dec2024 18:14:31.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geotrush[/100.84.125.88:59168] logged in with entity id 39629 at (466.07965631832917, 66.0, 64.65258538304346)
+[20Dec2024 18:14:31.442] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to geotrush
+[20Dec2024 18:14:31.443] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to geotrush
+[20Dec2024 18:14:31.443] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to geotrush
+[20Dec2024 18:14:31.444] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to geotrush
+[20Dec2024 18:14:31.446] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to geotrush
+[20Dec2024 18:14:31.449] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to geotrush
+[20Dec2024 18:14:31.449] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to geotrush
+[20Dec2024 18:14:31.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush joined the game
+[20Dec2024 18:14:31.653] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to geotrush
+[20Dec2024 18:14:31.705] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[20Dec2024 18:14:31.711] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: geotrush
+[20Dec2024 18:14:31.738] [Server thread/INFO] [Jade/]: Syncing config to geotrush (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[20Dec2024 18:14:31.902] [Server thread/INFO] [survive/]: Syncing All Data To Client (geotrush)
+[20Dec2024 18:14:31.903] [Server thread/INFO] [survive/]: Syncing Armor Data
+[20Dec2024 18:14:31.907] [Server thread/INFO] [survive/]: Done with Armors
+[20Dec2024 18:14:31.907] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[20Dec2024 18:14:31.907] [Server thread/INFO] [survive/]: Done with Fluids
+[20Dec2024 18:14:31.907] [Server thread/INFO] [survive/]: Syncing Biome Data
+[20Dec2024 18:14:31.908] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[20Dec2024 18:14:32.693] [Server thread/INFO] [ping-wheel/]: Channel update: geotrush -> default
+[20Dec2024 18:14:32.694] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[20Dec2024 18:14:50.564] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Chi'/28934, l='ServerLevel[world]', x=509.70, y=62.17, z=437.24] died, message: 'Chi was slain by Zombie'
+[20Dec2024 18:14:50.566] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Chi'/28934, l='ServerLevel[world]', x=509.70, y=62.17, z=437.24] died: Chi was slain by Zombie
+[20Dec2024 18:15:39.258] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Alexander'/28933, l='ServerLevel[world]', x=532.23, y=56.46, z=458.62] died, message: 'Alexander was slain by Chi'
+[20Dec2024 18:15:39.259] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Alexander'/28933, l='ServerLevel[world]', x=532.23, y=56.46, z=458.62] died: Alexander was slain by Chi
+[20Dec2024 18:16:29.227] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Carroll'/28932, l='ServerLevel[world]', x=540.70, y=70.08, z=477.30] died, message: 'Carroll was slain by Zombie'
+[20Dec2024 18:16:29.228] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Carroll'/28932, l='ServerLevel[world]', x=540.70, y=70.08, z=477.30] died: Carroll was slain by Zombie
+[20Dec2024 18:16:30.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> mi pene
+[20Dec2024 18:16:40.571] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute ''
+[20Dec2024 18:17:02.322] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Carroll'/41224, l='ServerLevel[world]', x=540.33, y=70.00, z=477.30] died: Carroll was slain by ELROMPECLITOS
+[20Dec2024 18:17:53.409] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Stella'/28959, l='ServerLevel[world]', x=517.70, y=64.00, z=473.70] died, message: 'Stella was shot by Everette'
+[20Dec2024 18:17:53.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Stella'/28959, l='ServerLevel[world]', x=517.70, y=64.00, z=473.70] died: Stella was shot by Everette
+[20Dec2024 18:19:51.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> apotheosis
+[20Dec2024 18:20:55.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [What a Deal!]
