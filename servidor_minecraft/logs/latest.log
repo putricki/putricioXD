@@ -5440,3 +5440,80 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [20Dec2024 16:48:42.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2191ms or 43 ticks behind
 [20Dec2024 16:49:01.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3934ms or 78 ticks behind
 [20Dec2024 16:49:22.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6110ms or 122 ticks behind
+[20Dec2024 16:49:43.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Suit Up]
+[20Dec2024 16:49:45.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Ice Bucket Challenge]
+[20Dec2024 16:49:46.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Diamonds!]
+[20Dec2024 16:49:47.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10076ms or 201 ticks behind
+[20Dec2024 16:49:47.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Isn't It Iron Pick]
+[20Dec2024 16:49:58.517] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=494, y=64, z=451} from item 0 air and block wheat_seeds: 
+[20Dec2024 16:50:12.246] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=-11, z=-115}
+[20Dec2024 16:50:12.271] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=-11, z=-129}
+[20Dec2024 16:50:19.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17316ms or 346 ticks behind
+[20Dec2024 16:50:38.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4277ms or 85 ticks behind
+[20Dec2024 16:50:39.519] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=11, y=-12, z=-116}
+[20Dec2024 16:50:39.679] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=11, y=-12, z=-131}
+[20Dec2024 16:50:39.680] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=21, y=-11, z=-129}
+[20Dec2024 16:50:47.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Book of Monsters]
+[20Dec2024 16:50:58.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Dec2024 16:50:58.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: opooop geotrush<--[HERE]
+[20Dec2024 16:51:00.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6360ms or 127 ticks behind
+[20Dec2024 16:51:02.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ELROMPECLITOS a server operator
+[20Dec2024 16:51:15.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made geotrush a server operator
+[20Dec2024 16:51:22.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[20Dec2024 16:51:31.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16069ms or 321 ticks behind
+[20Dec2024 16:51:57.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Crops of the Wild]
+[20Dec2024 16:52:25.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [The Finest Dagger]
+[20Dec2024 16:52:36.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Acquire Hardware]
+[20Dec2024 16:52:49.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [A Seedy Place]
+[20Dec2024 16:53:19.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[20Dec2024 16:53:23.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Suit Up]
+[20Dec2024 16:53:34.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [The Finest Dagger]
+[20Dec2024 16:54:05.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[20Dec2024 16:55:07.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2906ms or 58 ticks behind
+[20Dec2024 16:57:36.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> SOOOOOS
+[20Dec2024 16:57:37.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> SOSOSOSOSO
+[20Dec2024 16:57:38.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> SOSOS
+[20Dec2024 16:57:38.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> OSS
+[20Dec2024 16:57:39.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> OSOS
+[20Dec2024 16:57:40.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> OSOSOS
+[20Dec2024 16:57:41.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> SOS
+[20Dec2024 16:57:41.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> SOS
+[20Dec2024 16:57:42.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> SO
+[20Dec2024 16:57:42.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> SO
+[20Dec2024 16:57:42.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> SOS
+[20Dec2024 16:57:43.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> OS
+[20Dec2024 16:57:43.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> SOS
+[20Dec2024 16:57:49.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> XDD
+[20Dec2024 16:57:55.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> SOOOOOOOOS
+[20Dec2024 16:58:04.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> COMO ES EL GRITO MEXICANO
+[20Dec2024 16:59:17.567] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[20Dec2024 16:59:21.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[20Dec2024 16:59:38.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20Dec2024 16:59:56.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3105ms or 62 ticks behind
+[20Dec2024 17:00:15.489] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[20Dec2024 17:00:15.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Long Gone]
+[20Dec2024 17:00:18.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6735ms or 134 ticks behind
+[20Dec2024 17:00:39.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6062ms or 121 ticks behind
+[20Dec2024 17:00:45.773] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[20Dec2024 17:00:57.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2671ms or 53 ticks behind
+[20Dec2024 17:01:15.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3815ms or 76 ticks behind
+[20Dec2024 17:01:31.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Stone Age]
+[20Dec2024 17:01:36.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5633ms or 112 ticks behind
+[20Dec2024 17:01:57.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5621ms or 112 ticks behind
+[20Dec2024 17:01:59.114] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=124, y=-11, z=-85}
+[20Dec2024 17:01:59.242] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=125, y=-11, z=-79}
+[20Dec2024 17:02:14.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Thermal Container]
+[20Dec2024 17:02:14.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Thermal Transfer]
+[20Dec2024 17:02:18.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6707ms or 134 ticks behind
+[20Dec2024 17:02:19.411] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-13, z=-248}
+[20Dec2024 17:02:19.454] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-12, z=-241}
+[20Dec2024 17:02:19.455] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=569, y=-12, z=-242}
+[20Dec2024 17:02:24.138] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=559, y=-26, z=-250}
+[20Dec2024 17:02:24.140] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-26, z=-248}
+[20Dec2024 17:02:24.141] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-12, z=-248}
+[20Dec2024 17:02:24.141] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-12, z=-249}
+[20Dec2024 17:02:24.204] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=562, y=-26, z=-242}
+[20Dec2024 17:02:24.205] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=562, y=-12, z=-242}
+[20Dec2024 17:02:24.205] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=563, y=-13, z=-242}
+[20Dec2024 17:02:39.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5681ms or 113 ticks behind
+[20Dec2024 17:02:41.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Monster Hunter]
