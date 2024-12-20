@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-20 18:46:54 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_chair": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -503,6 +509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-20 18:51:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-20 17:24:52 +0000"
@@ -512,6 +524,12 @@
   "ars_nouveau:recipes/misc/sunrise_2": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-20 18:50:56 +0000"
     },
     "done": true
   },
@@ -590,6 +608,13 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/beige_stone_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_beige_stone_bricks": "2024-12-20 18:52:22 +0000",
+      "has_item2_domum_ornamentum_beige_stone_bricks": "2024-12-20 18:52:22 +0000"
     },
     "done": true
   },
@@ -785,6 +810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-20 18:51:32 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/wipe_spell_parchment": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -812,6 +843,12 @@
   "betterarcheology:recipes/recipe_iron_brush": {
     "criteria": {
       "has_item": "2024-12-20 16:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2024-12-20 18:50:44 +0000"
     },
     "done": true
   },
@@ -884,6 +921,12 @@
   "handcrafted:recipes/misc/bear_trophy": {
     "criteria": {
       "has_bear_trophy": "2024-12-20 16:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-20 18:52:22 +0000"
     },
     "done": true
   },
@@ -1037,6 +1080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-20 18:50:44 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_forestation": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -1082,6 +1131,12 @@
   "betterend:recipes/decorations/umbrella_tree_ladder": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-20 18:52:22 +0000"
     },
     "done": true
   },
@@ -1208,6 +1263,12 @@
   "betterend:recipes/decorations/end_lotus_taburet": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/granite_pedestal": {
+    "criteria": {
+      "has_polished_granite": "2024-12-20 18:50:44 +0000"
     },
     "done": true
   },
@@ -1367,6 +1428,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-20 18:51:32 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -1406,6 +1473,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-20 16:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-20 18:52:22 +0000"
     },
     "done": true
   },
@@ -1520,6 +1593,12 @@
   "ars_nouveau:recipes/misc/ritual_containment": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-20 18:52:22 +0000"
     },
     "done": true
   },
@@ -1709,9 +1788,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-20 18:52:22 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
+    "criteria": {
+      "has_item": "2024-12-20 18:51:32 +0000"
     },
     "done": true
   },
@@ -2219,6 +2310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-20 18:52:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_bench": {
     "criteria": {
       "has_oak_bench": "2024-12-20 17:54:14 +0000"
@@ -2567,6 +2664,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-20 18:51:32 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/pink_floating_carpet": {
     "criteria": {
       "has_string": "2024-12-20 17:22:38 +0000"
@@ -2576,6 +2679,12 @@
   "betterend:recipes/misc/terminite_sword_handle": {
     "criteria": {
       "has_item.minecraft.stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2024-12-20 18:50:44 +0000"
     },
     "done": true
   },
@@ -2636,6 +2745,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2024-12-20 18:52:22 +0000"
     },
     "done": true
   },
@@ -2879,6 +2994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-20 18:51:32 +0000"
+    },
+    "done": true
+  },
   "eidolon:athame": {
     "criteria": {
       "has_athame": "2024-12-20 16:52:25 +0000"
@@ -2894,6 +3015,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 17:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-20 18:50:56 +0000"
     },
     "done": true
   },
@@ -3108,6 +3235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-20 18:52:22 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_fence": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -3117,6 +3250,12 @@
   "handcrafted:recipes/misc/oak_cupboard": {
     "criteria": {
       "has_oak_cupboard": "2024-12-20 17:54:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2024-12-20 18:52:22 +0000"
     },
     "done": true
   },
@@ -3344,6 +3483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-20 18:51:32 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_desert": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -3359,6 +3504,12 @@
   "aether_redux:recipes/transportation/glacia_boat": {
     "criteria": {
       "in_water": "2024-12-20 16:44:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-20 18:51:32 +0000"
     },
     "done": true
   },
@@ -3560,6 +3711,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/mossy_cobblestone_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 18:51:32 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/charcoal_block": {
     "criteria": {
       "has_charcoal": "2024-12-20 18:34:33 +0000"
@@ -3599,6 +3756,12 @@
   "tetra:recipes/string": {
     "criteria": {
       "got_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-20 18:52:22 +0000"
     },
     "done": true
   },
@@ -3746,6 +3909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-20 18:52:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2024-12-20 17:54:14 +0000"
@@ -3836,9 +4005,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-20 18:52:22 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_pickaxe_repairing": {
     "criteria": {
       "has_stone_pickaxe": "2024-12-20 17:19:54 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2024-12-20 18:52:22 +0000"
     },
     "done": true
   },
@@ -4032,6 +4213,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-20 17:46:44 +0000",
       "minecraft:skeleton": "2024-12-20 17:20:21 +0000",
+      "minecraft:creeper": "2024-12-20 18:42:36 +0000",
       "minecraft:cave_spider": "2024-12-20 17:27:10 +0000",
       "minecraft:stray": "2024-12-20 17:19:35 +0000",
       "minecraft:zombie": "2024-12-20 17:14:28 +0000",
@@ -4142,6 +4324,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-20 18:51:32 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/decorations/sourcestone_21": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -4163,6 +4351,12 @@
   "supplementaries:recipes/bomb": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 16:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-20 18:50:56 +0000"
     },
     "done": true
   },
@@ -4298,6 +4492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-20 18:50:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2024-12-20 17:16:51 +0000"
@@ -4370,6 +4570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-20 18:51:32 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_fence": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -4433,6 +4639,12 @@
   "skilltree:recipes/combat/diamond_quiver": {
     "criteria": {
       "has_gems_diamond": "2024-12-20 16:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-20 18:52:22 +0000"
     },
     "done": true
   },
@@ -4844,6 +5056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-20 18:51:32 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sponge_smithing": {
     "criteria": {
       "has_sponge": "2024-12-20 17:20:23 +0000"
@@ -4895,6 +5113,12 @@
   "handcrafted:recipes/misc/yellow_crockery_combo": {
     "criteria": {
       "has_yellow_crockery_combo": "2024-12-20 16:45:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+    "criteria": {
+      "has_item": "2024-12-20 18:51:32 +0000"
     },
     "done": true
   },
@@ -5072,6 +5296,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-20 18:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-20 18:52:22 +0000"
+    },
+    "done": true
+  },
   "georenouveau:recipes/misc/redstone_geore_dowsing_rod": {
     "criteria": {
       "has_ore": "2024-12-20 17:36:31 +0000"
@@ -5216,6 +5452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-20 18:50:56 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -5291,6 +5533,18 @@
   "domum_ornamentum:recipes/tools/blue_cobblestone_extra": {
     "criteria": {
       "has_material": "2024-12-20 17:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-20 18:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-20 18:52:22 +0000"
     },
     "done": true
   },
@@ -5408,6 +5662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-20 18:52:22 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
       "killed_illusioner": "2024-12-20 17:45:47 +0000"
@@ -5441,6 +5701,18 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-20 17:21:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2024-12-20 18:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-20 18:52:22 +0000"
     },
     "done": true
   },
@@ -5886,6 +6158,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-20 18:48:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 17:01:32 +0000"
@@ -5907,6 +6185,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-20 16:44:56 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2024-12-20 18:47:01 +0000"
     },
     "done": true
   },
@@ -6087,6 +6371,12 @@
   "ars_nouveau:recipes/misc/scryers_crystal": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-20 18:51:34 +0000"
     },
     "done": true
   },
@@ -6396,6 +6686,13 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/beige_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_beige_bricks": "2024-12-20 18:52:22 +0000",
+      "has_item2_domum_ornamentum_beige_bricks": "2024-12-20 18:52:22 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/allow_scroll": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -6532,6 +6829,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 16:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-20 18:52:22 +0000"
     },
     "done": true
   },
@@ -6716,6 +7019,12 @@
   "ars_nouveau:recipes/misc/magebloom_to_pink": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-20 18:50:56 +0000"
     },
     "done": true
   },
