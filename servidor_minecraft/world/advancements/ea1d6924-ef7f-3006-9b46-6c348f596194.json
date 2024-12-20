@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 19:20:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -3945,6 +3951,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 19:20:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-20 16:52:36 +0000"
@@ -4080,6 +4092,12 @@
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-20 18:11:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 19:20:42 +0000"
     },
     "done": true
   },
@@ -6082,6 +6100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-20 19:20:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_cascading_sapling": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -7274,7 +7298,9 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-20 16:37:22 +0000",
       "minecraft:river": "2024-12-20 16:46:00 +0000",
+      "minecraft:dripstone_caves": "2024-12-20 19:17:21 +0000",
       "minecraft:cold_ocean": "2024-12-20 17:00:00 +0000",
+      "minecraft:forest": "2024-12-20 19:17:43 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 16:45:02 +0000",
       "minecraft:deep_dark": "2024-12-20 17:31:00 +0000"
     },
