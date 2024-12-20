@@ -274,11 +274,13 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-20 16:35:08 +0000",
       "minecraft:taiga": "2024-12-20 17:04:57 +0000",
+      "minecraft:frozen_river": "2024-12-20 20:06:20 +0000",
       "minecraft:river": "2024-12-20 16:46:36 +0000",
       "minecraft:cold_ocean": "2024-12-20 17:45:15 +0000",
       "minecraft:forest": "2024-12-20 19:40:32 +0000",
       "minecraft:lush_caves": "2024-12-20 17:03:25 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 17:02:40 +0000",
+      "minecraft:frozen_peaks": "2024-12-20 20:11:24 +0000",
       "minecraft:deep_dark": "2024-12-20 17:27:45 +0000"
     },
     "done": false
@@ -292,12 +294,16 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2024-12-20 17:02:01 +0000",
+      "cold_desert": "2024-12-20 20:06:38 +0000",
       "field": "2024-12-20 16:51:24 +0000",
       "coniferous_forest": "2024-12-20 16:51:38 +0000",
       "forested_field": "2024-12-20 16:36:07 +0000",
+      "spider_nest": "2024-12-20 20:05:01 +0000",
       "seasonal_forest": "2024-12-20 17:23:03 +0000",
+      "fir_clearing": "2024-12-20 20:05:23 +0000",
       "glowing_grotto": "2024-12-20 17:03:10 +0000",
-      "gravel_beach": "2024-12-20 17:44:20 +0000"
+      "gravel_beach": "2024-12-20 17:44:20 +0000",
+      "crag": "2024-12-20 20:10:49 +0000"
     },
     "done": false
   },
@@ -3338,6 +3344,7 @@
       "minecraft:pillager": "2024-12-20 17:25:12 +0000",
       "minecraft:skeleton": "2024-12-20 17:02:41 +0000",
       "minecraft:vindicator": "2024-12-20 18:54:55 +0000",
+      "minecraft:creeper": "2024-12-20 20:11:30 +0000",
       "minecraft:evoker": "2024-12-20 19:33:40 +0000",
       "minecraft:silverfish": "2024-12-20 17:08:31 +0000",
       "minecraft:vex": "2024-12-20 19:33:40 +0000",
@@ -5557,6 +5564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-20 20:10:36 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/paper_extra": {
     "criteria": {
       "has_material": "2024-12-20 19:34:57 +0000"
@@ -5614,6 +5627,12 @@
   "domum_ornamentum:recipes/tools/lime_brick_extra": {
     "criteria": {
       "has_material": "2024-12-20 19:08:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2024-12-20 20:10:15 +0000"
     },
     "done": true
   },
@@ -5818,6 +5837,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-20 19:02:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2024-12-20 20:12:52 +0000"
     },
     "done": true
   },
@@ -6052,6 +6077,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2024-12-20 19:13:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2024-12-20 20:10:15 +0000"
     },
     "done": true
   },

@@ -2557,6 +2557,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-20 20:10:20 +0000"
+    },
+    "done": true
+  },
   "survive:recipes/main/wool_hat": {
     "criteria": {
       "has_wool": "2024-12-20 16:37:21 +0000"
@@ -3848,6 +3854,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2024-12-20 20:08:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-12-20 19:12:59 +0000"
@@ -4425,6 +4437,12 @@
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2024-12-20 16:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-20 20:10:20 +0000"
     },
     "done": true
   },
@@ -5477,6 +5495,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-20 16:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2024-12-20 20:12:57 +0000"
     },
     "done": true
   },
@@ -6586,10 +6610,12 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "cold_desert": "2024-12-20 20:05:40 +0000",
       "field": "2024-12-20 16:48:47 +0000",
       "coniferous_forest": "2024-12-20 16:51:29 +0000",
       "forested_field": "2024-12-20 16:41:48 +0000",
       "seasonal_forest": "2024-12-20 17:19:18 +0000",
+      "fir_clearing": "2024-12-20 20:05:54 +0000",
       "glowing_grotto": "2024-12-20 19:45:11 +0000",
       "gravel_beach": "2024-12-20 16:59:49 +0000"
     },
@@ -7303,6 +7329,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2024-12-20 20:08:02 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/dark_boat": {
     "criteria": {
       "in_water": "2024-12-20 16:44:56 +0000"
@@ -7651,6 +7683,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-20 16:37:22 +0000",
       "minecraft:taiga": "2024-12-20 19:40:07 +0000",
+      "minecraft:frozen_river": "2024-12-20 20:05:18 +0000",
       "minecraft:river": "2024-12-20 16:46:00 +0000",
       "minecraft:dripstone_caves": "2024-12-20 19:17:21 +0000",
       "minecraft:cold_ocean": "2024-12-20 17:00:00 +0000",
@@ -7898,6 +7931,12 @@
   "betterend:recipes/decorations/dragon_tree_sign": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-20 20:10:20 +0000"
     },
     "done": true
   },
