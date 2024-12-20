@@ -5618,3 +5618,11 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [20Dec2024 17:53:21.806] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/28951, l='ServerLevel[world]', x=583.24, y=95.04, z=445.21] died: Honeyed Archer suffocated in a wall
 [20Dec2024 17:53:26.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Tools of the Trade]
 [20Dec2024 17:53:40.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20Dec2024 17:53:57.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2328ms or 46 ticks behind
+[20Dec2024 17:54:29.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20Dec2024 17:58:05.627] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[20Dec2024 17:58:05.629] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[20Dec2024 18:01:02.998] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Susannah'/28944, l='ServerLevel[world]', x=544.30, y=59.00, z=463.85] died, message: 'Susannah was slain by Zombie'
+[20Dec2024 18:01:02.999] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Susannah'/28944, l='ServerLevel[world]', x=544.30, y=59.00, z=463.85] died: Susannah was slain by Zombie
+[20Dec2024 18:02:38.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Once Upon a Cave]
+[20Dec2024 18:03:19.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Acquire Hardware]
