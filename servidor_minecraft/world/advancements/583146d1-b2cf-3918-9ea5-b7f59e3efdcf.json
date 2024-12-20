@@ -5285,6 +5285,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2024-12-20 20:33:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2024-12-20 19:59:27 +0000"
@@ -5364,9 +5370,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-20 20:30:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 20:22:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-20 20:33:39 +0000"
     },
     "done": true
   },
@@ -5409,6 +5427,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 18:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-20 20:30:27 +0000"
     },
     "done": true
   },
@@ -5496,6 +5520,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:51 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/leather_to_stripes": {
     "criteria": {
       "has_leather": "2024-12-20 19:02:32 +0000"
@@ -5514,9 +5544,21 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 20:30:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-12-20 19:20:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-20 20:31:13 +0000"
     },
     "done": true
   },
@@ -5634,6 +5676,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-20 20:33:39 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/light_blue_brick_extra": {
     "criteria": {
       "has_material": "2024-12-20 19:08:38 +0000"
@@ -5643,6 +5691,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 18:47:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2024-12-20 20:33:51 +0000"
     },
     "done": true
   },
@@ -5736,6 +5790,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 18:47:55 +0000"
@@ -5754,6 +5814,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:51 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/oak_palisade": {
     "criteria": {
       "has_log": "2024-12-20 19:13:47 +0000"
@@ -5769,6 +5835,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 18:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-20 20:31:13 +0000"
     },
     "done": true
   },
@@ -5865,6 +5937,12 @@
   "domum_ornamentum:recipes/tools/light_gray_brick_extra": {
     "criteria": {
       "has_material": "2024-12-20 19:08:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:51 +0000"
     },
     "done": true
   },
@@ -5994,6 +6072,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-12-20 20:33:39 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/paper_lanterns/paper_lantern": {
     "criteria": {
       "has_item": "2024-12-20 19:34:57 +0000"
@@ -6009,6 +6093,12 @@
   "handcrafted:recipes/misc/oven": {
     "criteria": {
       "has_oven": "2024-12-20 19:08:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2024-12-20 20:30:27 +0000"
     },
     "done": true
   },
@@ -6114,6 +6204,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 20:30:27 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/oak_banister": {
     "criteria": {
       "has_item": "2024-12-20 19:20:04 +0000"
@@ -6129,6 +6225,18 @@
   "illagerinvasion:recipes/misc/platinum_sheet": {
     "criteria": {
       "has_platinum_chunk": "2024-12-20 19:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-20 20:30:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 20:30:27 +0000"
     },
     "done": true
   },
@@ -6322,6 +6430,12 @@
   "dungeons_arise:find_monasteries": {
     "criteria": {
       "location0": "2024-12-20 19:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-20 20:31:13 +0000"
     },
     "done": true
   },

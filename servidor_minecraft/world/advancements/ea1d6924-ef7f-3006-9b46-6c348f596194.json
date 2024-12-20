@@ -167,9 +167,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2024-12-20 20:30:09 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/gilded_quiver": {
     "criteria": {
       "has_ingots_gold": "2024-12-20 16:52:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:56 +0000"
     },
     "done": true
   },
@@ -1081,6 +1093,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:55 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/source_berry_pie": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -1186,6 +1204,12 @@
   "survive:recipes/main/soap_mix": {
     "criteria": {
       "has_ingredients": "2024-12-20 16:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-20 20:29:44 +0000"
     },
     "done": true
   },
@@ -1390,6 +1414,12 @@
   "ars_nouveau:recipes/misc/blank_parchment": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2024-12-20 20:33:56 +0000"
     },
     "done": true
   },
@@ -1717,6 +1747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-20 20:29:44 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-12-20 16:37:21 +0000"
@@ -1786,6 +1822,12 @@
   "aether_redux:recipes/transportation/blightwillow_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-20 18:11:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-20 20:30:09 +0000"
     },
     "done": true
   },
@@ -1945,6 +1987,12 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/combat/bomb": {
+    "criteria": {
+      "has_gunpowder": "2024-12-20 20:30:09 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_desk": {
     "criteria": {
       "has_spruce_desk": "2024-12-20 16:44:43 +0000"
@@ -2062,6 +2110,12 @@
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2024-12-20 16:44:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_tune_enchanting": {
+    "criteria": {
+      "has_disc": "2024-12-20 20:30:09 +0000"
     },
     "done": true
   },
@@ -2425,6 +2479,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonsteel_lightning_chestplate": {
     "criteria": {
       "has_item": "2024-12-20 19:01:13 +0000"
@@ -2572,6 +2632,12 @@
   "supplementaries:recipes/checker": {
     "criteria": {
       "has_cobblestone": "2024-12-20 17:01:31 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 20:29:44 +0000"
     },
     "done": true
   },
@@ -3692,6 +3758,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2024-12-20 20:33:53 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_fence": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -3990,9 +4062,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:56 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_desert": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:55 +0000"
     },
     "done": true
   },
@@ -4230,6 +4314,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-20 19:20:42 +0000"
@@ -4353,6 +4443,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:53 +0000"
     },
     "done": true
   },
@@ -4557,6 +4653,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2024-12-20 17:24:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2024-12-20 20:30:09 +0000"
     },
     "done": true
   },
@@ -4841,6 +4943,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 16:52:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:56 +0000"
     },
     "done": true
   },
@@ -5174,6 +5282,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-20 17:36:31 +0000"
@@ -5225,6 +5339,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-20 17:36:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:56 +0000"
     },
     "done": true
   },
@@ -5321,6 +5441,18 @@
   "supplementaries:recipes/flags/flag_pink": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:56 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/bomb": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 20:30:09 +0000"
     },
     "done": true
   },
@@ -5822,6 +5954,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "revenant": "2024-12-20 20:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-20 17:36:31 +0000"
@@ -5843,6 +5981,12 @@
   "apotheosis:affix/rare_gem": {
     "criteria": {
       "gem": "2024-12-20 19:36:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:56 +0000"
     },
     "done": true
   },
@@ -6080,6 +6224,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2024-12-20 20:29:44 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/andesite_pedestal": {
     "criteria": {
       "has_polished_andesite": "2024-12-20 19:05:57 +0000"
@@ -6179,6 +6329,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-20 16:48:30 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2024-12-20 20:29:40 +0000"
     },
     "done": true
   },
@@ -6506,6 +6662,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:56 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_golden_thick_pot": "2024-12-20 17:22:28 +0000"
@@ -6587,6 +6749,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2024-12-20 19:24:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 20:29:44 +0000"
     },
     "done": true
   },
@@ -6791,6 +6959,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-20 20:29:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 20:29:44 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/repository": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -6836,6 +7016,12 @@
   "travelersbackpack:recipes/misc/spider": {
     "criteria": {
       "has_string": "2024-12-20 17:22:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:56 +0000"
     },
     "done": true
   },
@@ -7040,6 +7226,12 @@
   "decorative_blocks:recipes/building_blocks/rocky_dirt": {
     "criteria": {
       "has_dirt": "2024-12-20 18:47:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:56 +0000"
     },
     "done": true
   },
@@ -7693,6 +7885,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2024-12-20 20:33:56 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/brown_brick_extra": {
     "criteria": {
       "has_material": "2024-12-20 19:24:23 +0000"
@@ -7791,6 +7989,7 @@
       "minecraft:river": "2024-12-20 16:46:00 +0000",
       "minecraft:snowy_plains": "2024-12-20 20:17:34 +0000",
       "minecraft:dripstone_caves": "2024-12-20 19:17:21 +0000",
+      "minecraft:snowy_taiga": "2024-12-20 20:26:20 +0000",
       "minecraft:cold_ocean": "2024-12-20 17:00:00 +0000",
       "minecraft:forest": "2024-12-20 19:17:43 +0000",
       "minecraft:lush_caves": "2024-12-20 19:26:44 +0000",
@@ -7916,6 +8115,12 @@
   "betterend:recipes/decorations/umbrella_tree_taburet": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-20 20:30:09 +0000"
     },
     "done": true
   },
