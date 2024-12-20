@@ -5605,3 +5605,16 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [20Dec2024 17:39:08.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Far From Perfect]
 [20Dec2024 17:39:29.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Sneak 100]
 [20Dec2024 17:41:54.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Into Fire]
+[20Dec2024 17:44:46.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Diamonds!]
+[20Dec2024 17:45:19.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was doomed to fall by Illusioner
+[20Dec2024 17:45:19.830] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ELROMPECLITOS with unique ID travelersbackpack.sponge_20.12.2024-17.45.19.dat
+[20Dec2024 17:45:47.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [World of illusion]
+[20Dec2024 17:45:47.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was blown up by Skeleton Creeper
+[20Dec2024 17:47:36.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has reached the goal [Worthy Equipment]
+[20Dec2024 17:51:17.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[20Dec2024 17:51:35.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
+[20Dec2024 17:51:53.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20Dec2024 17:52:20.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[20Dec2024 17:53:21.806] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/28951, l='ServerLevel[world]', x=583.24, y=95.04, z=445.21] died: Honeyed Archer suffocated in a wall
+[20Dec2024 17:53:26.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Tools of the Trade]
+[20Dec2024 17:53:40.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind

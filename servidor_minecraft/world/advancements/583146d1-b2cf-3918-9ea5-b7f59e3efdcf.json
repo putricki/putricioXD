@@ -125,6 +125,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
       "in_water": "2024-12-20 16:41:57 +0000"
@@ -317,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/green_floating_carpet": {
     "criteria": {
       "has_string": "2024-12-20 17:24:13 +0000"
@@ -410,6 +428,12 @@
   "handcrafted:recipes/misc/spruce_dining_bench": {
     "criteria": {
       "has_spruce_dining_bench": "2024-12-20 16:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -543,6 +567,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-20 16:42:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -840,6 +870,12 @@
     },
     "done": true
   },
+  "georenouveau:recipes/misc/diamond_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2024-12-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-20 17:06:35 +0000"
@@ -885,6 +921,12 @@
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2024-12-20 16:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -1161,6 +1203,12 @@
   "celestisynth:recipes/misc/celestial_core": {
     "criteria": {
       "has_item": "2024-12-20 17:06:48 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_plate_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -1572,6 +1620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2024-12-20 17:02:35 +0000"
@@ -1635,6 +1689,12 @@
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_amethyst_shard": "2024-12-20 17:06:48 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/diamond_magnum_torch": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -1809,6 +1869,12 @@
   "biomesoplenty:recipes/transportation/empyreal_boat": {
     "criteria": {
       "in_water": "2024-12-20 16:41:57 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/recipe_diamond_brush": {
+    "criteria": {
+      "has_item": "2024-12-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -2032,6 +2098,13 @@
   "delightful:recipes/food/cooking/sinigang_no_ginger_citrus": {
     "criteria": {
       "has_ginger": "2024-12-20 16:51:54 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/tools/diamond_brush": {
+    "criteria": {
+      "has_the_recipe": "2024-12-20 17:44:46 +0000",
+      "has_diamond": "2024-12-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -2278,6 +2351,12 @@
   "minecraft:recipes/building_blocks/blightwillow_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-12-20 16:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -2560,6 +2639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/chicken": {
     "criteria": {
       "has_feather": "2024-12-20 17:02:39 +0000"
@@ -2674,6 +2759,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/diamond_quiver": {
+    "criteria": {
+      "has_gems_diamond": "2024-12-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-20 16:46:46 +0000"
@@ -2770,6 +2861,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2024-12-20 17:47:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_frame": {
     "criteria": {
       "forge:rods/wooden": "2024-12-20 16:44:03 +0000"
@@ -2848,6 +2945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/golden_hammer": {
     "criteria": {
       "has_stick": "2024-12-20 16:44:03 +0000"
@@ -2899,6 +3002,12 @@
   "domum_ornamentum:recipes/decorations/red_floating_carpet": {
     "criteria": {
       "has_string": "2024-12-20 17:24:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -2968,6 +3077,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/brown_floating_carpet": {
     "criteria": {
       "has_string": "2024-12-20 17:24:13 +0000"
@@ -3001,6 +3116,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2024-12-20 17:24:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -3100,6 +3221,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/mending_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-20 16:43:09 +0000"
@@ -3166,6 +3293,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2024-12-20 16:41:57 +0000"
@@ -3193,6 +3326,12 @@
   "betterend:recipes/decorations/end_lotus_chair": {
     "criteria": {
       "has_stick": "2024-12-20 16:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -3298,6 +3437,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/copy_terminite_upgrade": {
     "criteria": {
       "has_stick": "2024-12-20 16:44:03 +0000"
@@ -3340,6 +3485,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "survive:recipes/main/magenta_washcloth": {
     "criteria": {
       "has_white_washcloth": "2024-12-20 16:33:15 +0000"
@@ -3373,6 +3524,12 @@
   "aether:recipes/combat/golden_dart": {
     "criteria": {
       "has_feather": "2024-12-20 17:02:39 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/diamond_blacksmith_gavel": {
+    "criteria": {
+      "has_gems/diamond": "2024-12-20 17:44:46 +0000"
     },
     "done": true
   },
@@ -3443,7 +3600,8 @@
       "coniferous_forest": "2024-12-20 16:51:38 +0000",
       "forested_field": "2024-12-20 16:36:07 +0000",
       "seasonal_forest": "2024-12-20 17:23:03 +0000",
-      "glowing_grotto": "2024-12-20 17:03:10 +0000"
+      "glowing_grotto": "2024-12-20 17:03:10 +0000",
+      "gravel_beach": "2024-12-20 17:44:20 +0000"
     },
     "done": false
   },
@@ -4053,6 +4211,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-20 16:35:08 +0000",
       "minecraft:taiga": "2024-12-20 17:04:57 +0000",
       "minecraft:river": "2024-12-20 16:46:36 +0000",
+      "minecraft:cold_ocean": "2024-12-20 17:45:15 +0000",
       "minecraft:lush_caves": "2024-12-20 17:03:25 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 17:02:40 +0000",
       "minecraft:deep_dark": "2024-12-20 17:27:45 +0000"
@@ -4155,6 +4314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/frozen/cutting/ice_bow": {
     "criteria": {
       "has_bow": "2024-12-20 17:05:08 +0000"
@@ -4170,6 +4335,12 @@
   "domum_ornamentum:recipes/tools/purple_cobblestone_extra": {
     "criteria": {
       "has_material": "2024-12-20 16:44:23 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_leather_handle_attachment": {
+    "criteria": {
+      "has_diamond": "2024-12-20 17:44:46 +0000"
     },
     "done": true
   },

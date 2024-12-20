@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2024-12-20 17:49:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-20 17:25:38 +0000"
@@ -248,6 +254,12 @@
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2024-12-20 16:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-20 17:41:54 +0000"
     },
     "done": true
   },
@@ -1433,6 +1445,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-20 17:41:54 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_fence": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -1883,6 +1901,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2024-12-20 17:49:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-12-20 16:49:45 +0000"
@@ -2228,6 +2252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-20 17:41:54 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/torch_from_chandelier": {
     "criteria": {
       "has_torch": "2024-12-20 16:48:30 +0000"
@@ -2504,6 +2534,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/brazier": {
+    "criteria": {
+      "has_bar": "2024-12-20 17:49:46 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2024-12-20 16:44:06 +0000"
@@ -2554,6 +2590,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-20 17:46:44 +0000",
       "minecraft:skeleton": "2024-12-20 17:20:21 +0000",
       "minecraft:cave_spider": "2024-12-20 17:27:10 +0000",
       "minecraft:stray": "2024-12-20 17:19:35 +0000",
@@ -2715,6 +2752,12 @@
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2024-12-20 17:16:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2024-12-20 17:50:10 +0000"
     },
     "done": true
   },
@@ -3378,6 +3421,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2024-12-20 17:49:46 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -3431,6 +3480,12 @@
       "has_stick": "2024-12-20 16:52:27 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2024-12-20 17:45:47 +0000"
+    },
+    "done": false
   },
   "blue_skies:recipes/food/cake_compat": {
     "criteria": {
@@ -3595,6 +3650,12 @@
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2024-12-20 17:06:10 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2024-12-20 17:46:45 +0000"
     },
     "done": true
   },
@@ -3958,6 +4019,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2024-12-20 17:45:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 17:01:32 +0000"
@@ -4133,9 +4200,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-20 17:41:54 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_golden_wide_pot": "2024-12-20 17:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-20 17:41:54 +0000"
     },
     "done": true
   },
@@ -4185,9 +4264,21 @@
     },
     "done": false
   },
+  "aether:recipes/tools/stone_axe_repairing": {
+    "criteria": {
+      "has_stone_axe": "2024-12-20 17:49:59 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2024-12-20 16:44:43 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_bar": "2024-12-20 17:49:46 +0000"
     },
     "done": true
   },
