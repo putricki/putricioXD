@@ -2595,6 +2595,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2024-12-20 18:30:13 +0000",
+      "baked_potato": "2024-12-20 18:32:34 +0000",
       "apple": "2024-12-20 18:15:44 +0000",
       "bread": "2024-12-20 16:49:18 +0000"
     },
@@ -5139,6 +5140,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-20 18:39:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-20 18:18:48 +0000"
@@ -5148,6 +5155,12 @@
   "betterarcheology:recipes/combat/bomb": {
     "criteria": {
       "has_gunpowder": "2024-12-20 18:18:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2024-12-20 18:40:30 +0000"
     },
     "done": true
   },
