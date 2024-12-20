@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 19:34:04 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_sign": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -332,6 +338,12 @@
   "twigs:recipes/tables/spruce_table": {
     "criteria": {
       "has_bamboo": "2024-12-20 16:44:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_hoe_repairing": {
+    "criteria": {
+      "has_diamond_hoe": "2024-12-20 19:34:27 +0000"
     },
     "done": true
   },
@@ -801,6 +813,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-20 18:11:25 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/jungle_palisade": {
+    "criteria": {
+      "has_log": "2024-12-20 19:34:04 +0000"
     },
     "done": true
   },
@@ -1861,6 +1879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-20 19:33:14 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_white": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -2395,6 +2419,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/divine": {
+    "criteria": {
+      "has_item": "2024-12-20 19:36:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2024-12-20 19:10:33 +0000"
@@ -2446,6 +2476,12 @@
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2024-12-20 16:44:43 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2024-12-20 19:31:55 +0000"
     },
     "done": true
   },
@@ -2662,6 +2698,12 @@
   "delightful:recipes/knives/bone_knife": {
     "criteria": {
       "has_bones": "2024-12-20 17:19:36 +0000"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/misc/synthetic_point": {
+    "criteria": {
+      "has_nugget": "2024-12-20 19:33:14 +0000"
     },
     "done": true
   },
@@ -3766,6 +3808,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2024-12-20 19:34:32 +0000",
       "apple": "2024-12-20 16:48:46 +0000",
       "bread": "2024-12-20 17:01:48 +0000"
     },
@@ -4604,6 +4647,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-20 17:46:44 +0000",
       "minecraft:skeleton": "2024-12-20 17:20:21 +0000",
+      "minecraft:vindicator": "2024-12-20 19:33:19 +0000",
       "minecraft:creeper": "2024-12-20 18:42:36 +0000",
       "minecraft:cave_spider": "2024-12-20 17:27:10 +0000",
       "minecraft:stray": "2024-12-20 17:19:35 +0000",
@@ -5606,6 +5650,12 @@
   "ars_nouveau:recipes/misc/challenge_2": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-12-20 19:36:24 +0000"
     },
     "done": true
   },
@@ -6957,6 +7007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-20 19:31:55 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard": {
     "criteria": {
       "has_chest": "2024-12-20 18:03:55 +0000"
@@ -7083,6 +7139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 19:34:04 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/stripped_blue_archwood_wood": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -7206,6 +7268,12 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2024-12-20 18:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 19:31:55 +0000"
     },
     "done": true
   },
@@ -7496,6 +7564,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-20 16:37:22 +0000",
+      "minecraft:taiga": "2024-12-20 19:40:07 +0000",
       "minecraft:river": "2024-12-20 16:46:00 +0000",
       "minecraft:dripstone_caves": "2024-12-20 19:17:21 +0000",
       "minecraft:cold_ocean": "2024-12-20 17:00:00 +0000",
@@ -7569,6 +7638,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-20 17:01:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-20 19:33:14 +0000"
     },
     "done": true
   },
@@ -7761,6 +7836,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/iron_ring": {
+    "criteria": {
+      "has_nuggets_iron": "2024-12-20 19:33:14 +0000"
     },
     "done": true
   },

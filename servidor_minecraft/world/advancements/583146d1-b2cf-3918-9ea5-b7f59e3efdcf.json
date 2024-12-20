@@ -276,6 +276,7 @@
       "minecraft:taiga": "2024-12-20 17:04:57 +0000",
       "minecraft:river": "2024-12-20 16:46:36 +0000",
       "minecraft:cold_ocean": "2024-12-20 17:45:15 +0000",
+      "minecraft:forest": "2024-12-20 19:40:32 +0000",
       "minecraft:lush_caves": "2024-12-20 17:03:25 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 17:02:40 +0000",
       "minecraft:deep_dark": "2024-12-20 17:27:45 +0000"
@@ -3336,7 +3337,9 @@
       "minecraft:pillager": "2024-12-20 17:25:12 +0000",
       "minecraft:skeleton": "2024-12-20 17:02:41 +0000",
       "minecraft:vindicator": "2024-12-20 18:54:55 +0000",
+      "minecraft:evoker": "2024-12-20 19:33:40 +0000",
       "minecraft:silverfish": "2024-12-20 17:08:31 +0000",
+      "minecraft:vex": "2024-12-20 19:33:40 +0000",
       "minecraft:zombie": "2024-12-20 17:04:31 +0000"
     },
     "done": false
@@ -5325,6 +5328,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-20 19:34:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-20 18:18:48 +0000"
@@ -5376,6 +5385,12 @@
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2024-12-20 19:02:32 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/white_paper_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 19:34:57 +0000"
     },
     "done": true
   },
@@ -5472,6 +5487,12 @@
   "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
     "criteria": {
       "has_item": "2024-12-20 18:47:55 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/paper_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 19:34:57 +0000"
     },
     "done": true
   },
@@ -5649,6 +5670,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-12-20 19:38:42 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/light_gray_brick_extra": {
     "criteria": {
       "has_material": "2024-12-20 19:08:38 +0000"
@@ -5703,6 +5730,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2024-12-20 19:34:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_helmet_repairing": {
     "criteria": {
       "has_chainmail_helmet": "2024-12-20 19:24:47 +0000"
@@ -5721,6 +5754,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2024-12-20 19:34:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
       "has_stone_sword": "2024-12-20 19:02:39 +0000"
@@ -5730,6 +5769,12 @@
   "aether:recipes/decorations/skyroot_fletching_table": {
     "criteria": {
       "has_flint": "2024-12-20 18:47:57 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2024-12-20 19:34:57 +0000"
     },
     "done": true
   },
@@ -5781,6 +5826,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-20 19:34:57 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/magenta_brick_extra": {
     "criteria": {
       "has_material": "2024-12-20 19:08:38 +0000"
@@ -5798,6 +5849,12 @@
       "has_gravel": "2024-12-20 18:47:55 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2024-12-20 19:33:40 +0000"
+    },
+    "done": false
   },
   "deep_aether:recipes/misc/squash_seeds_enchanting": {
     "criteria": {
@@ -5853,6 +5910,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
+    "criteria": {
+      "requirement": "2024-12-20 19:33:54 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_gloves": "2024-12-20 18:59:30 +0000"
@@ -5905,6 +5968,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 18:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-20 19:34:57 +0000"
     },
     "done": true
   },

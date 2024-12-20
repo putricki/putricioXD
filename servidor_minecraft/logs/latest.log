@@ -5877,3 +5877,13 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [20Dec2024 19:32:55.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Vindicator
 [20Dec2024 19:33:13.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Vindicator
 [20Dec2024 19:33:54.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has completed the challenge [Grimoire of Evokation]
+[20Dec2024 19:36:12.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[20Dec2024 19:36:24.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Far From Perfect]
+[20Dec2024 19:37:27.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Vindicator
+[20Dec2024 19:37:27.109] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ELROMPECLITOS with unique ID travelersbackpack.sponge_20.12.2024-19.37.27.dat
+[20Dec2024 19:38:42.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [A Throwaway Joke]
+[20Dec2024 19:42:06.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[20Dec2024 19:43:15.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[20Dec2024 19:43:30.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELROMPECLITOS moved wrongly!
+[20Dec2024 19:43:33.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[20Dec2024 19:43:54.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
