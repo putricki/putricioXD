@@ -810,6 +810,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2024-12-20 20:53:18 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2024-12-20 16:44:56 +0000"
@@ -1528,6 +1534,12 @@
   "ars_nouveau:recipes/misc/warp_scroll": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2024-12-20 20:34:39 +0000"
     },
     "done": true
   },
@@ -4003,7 +4015,9 @@
       "baked_potato": "2024-12-20 19:34:32 +0000",
       "apple": "2024-12-20 16:48:46 +0000",
       "bread": "2024-12-20 17:01:48 +0000",
-      "golden_apple": "2024-12-20 19:48:44 +0000"
+      "golden_apple": "2024-12-20 19:48:44 +0000",
+      "cooked_chicken": "2024-12-20 20:49:19 +0000",
+      "enchanted_golden_apple": "2024-12-20 20:38:52 +0000"
     },
     "done": false
   },
@@ -4581,6 +4595,12 @@
   "supplementaries:recipes/soap": {
     "criteria": {
       "has_water_bucket": "2024-12-20 17:25:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-20 20:46:51 +0000"
     },
     "done": true
   },
@@ -6584,6 +6604,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2024-12-20 20:48:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 18:52:22 +0000"
@@ -6887,9 +6913,11 @@
       "forested_field": "2024-12-20 16:41:48 +0000",
       "seasonal_forest": "2024-12-20 17:19:18 +0000",
       "fir_clearing": "2024-12-20 20:05:54 +0000",
+      "snowy_coniferous_forest": "2024-12-20 20:35:38 +0000",
       "snowy_fir_clearing": "2024-12-20 20:14:51 +0000",
       "glowing_grotto": "2024-12-20 19:45:11 +0000",
-      "gravel_beach": "2024-12-20 16:59:49 +0000"
+      "gravel_beach": "2024-12-20 16:59:49 +0000",
+      "snowy_maple_woods": "2024-12-20 20:35:37 +0000"
     },
     "done": false
   },
@@ -8025,6 +8053,12 @@
   "decorative_blocks:recipes/decorations/soul_brazier": {
     "criteria": {
       "has_bar": "2024-12-20 17:49:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-20 20:46:51 +0000"
     },
     "done": true
   },

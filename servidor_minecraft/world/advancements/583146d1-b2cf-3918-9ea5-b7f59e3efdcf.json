@@ -304,10 +304,12 @@
       "seasonal_forest": "2024-12-20 17:23:03 +0000",
       "fir_clearing": "2024-12-20 20:05:23 +0000",
       "pumpkin_patch": "2024-12-20 20:15:08 +0000",
+      "snowy_coniferous_forest": "2024-12-20 20:35:36 +0000",
       "snowy_fir_clearing": "2024-12-20 20:14:49 +0000",
       "glowing_grotto": "2024-12-20 17:03:10 +0000",
       "gravel_beach": "2024-12-20 17:44:20 +0000",
-      "crag": "2024-12-20 20:10:49 +0000"
+      "crag": "2024-12-20 20:10:49 +0000",
+      "snowy_maple_woods": "2024-12-20 20:35:31 +0000"
     },
     "done": false
   },
@@ -2611,7 +2613,9 @@
       "apple": "2024-12-20 18:15:44 +0000",
       "bread": "2024-12-20 16:49:18 +0000",
       "golden_apple": "2024-12-20 19:47:43 +0000",
-      "mushroom_stew": "2024-12-20 19:10:54 +0000"
+      "mushroom_stew": "2024-12-20 19:10:54 +0000",
+      "rabbit_stew": "2024-12-20 20:46:51 +0000",
+      "carrot": "2024-12-20 20:36:57 +0000"
     },
     "done": false
   },
@@ -5279,6 +5283,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2024-12-20 20:53:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/netherite_hoe_repairing": {
     "criteria": {
       "has_netherite_hoe": "2024-12-20 19:09:47 +0000"
@@ -5388,9 +5398,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-20 20:36:11 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/oak_table": {
     "criteria": {
       "has_the_recipe": "2024-12-20 19:20:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-20 20:53:34 +0000"
     },
     "done": true
   },
@@ -5544,6 +5566,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2024-12-20 20:53:34 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-20 20:30:27 +0000"
@@ -5676,6 +5704,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-20 20:46:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2024-12-20 20:33:39 +0000"
@@ -5799,6 +5833,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 18:47:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2024-12-20 20:53:34 +0000"
     },
     "done": true
   },
@@ -5976,6 +6016,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2024-12-20 20:53:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 18:47:55 +0000"
@@ -6117,6 +6163,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-20 18:18:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2024-12-20 20:46:51 +0000"
     },
     "done": true
   },
