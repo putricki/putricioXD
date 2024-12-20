@@ -5626,3 +5626,7 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [20Dec2024 18:01:02.999] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Susannah'/28944, l='ServerLevel[world]', x=544.30, y=59.00, z=463.85] died: Susannah was slain by Zombie
 [20Dec2024 18:02:38.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Once Upon a Cave]
 [20Dec2024 18:03:19.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Acquire Hardware]
+[20Dec2024 18:12:14.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ELROMPECLITOS) moved wrongly! 0.2519779393437602
+[20Dec2024 18:14:05.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Timed out
+[20Dec2024 18:14:05.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
+[20Dec2024 18:14:05.226] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
