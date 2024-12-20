@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/brick_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 19:24:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_fir": {
     "criteria": {
       "has_planks": "2024-12-20 18:03:31 +0000"
@@ -425,6 +431,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_dripstone_pillar_trim": "2024-12-20 19:30:18 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/pythadendron_fence": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -641,6 +653,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-20 19:22:25 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/pink_brick_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 19:24:23 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_diorite": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -819,6 +843,13 @@
   "betterend:recipes/decorations/umbrella_tree_fence": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/roan_stone_bricks": {
+    "criteria": {
+      "has_item2_domum_ornamentum_roan_stone_bricks": "2024-12-20 19:24:23 +0000",
+      "has_item1_domum_ornamentum_roan_stone_bricks": "2024-12-20 19:24:23 +0000"
     },
     "done": true
   },
@@ -1476,6 +1507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-20 19:22:25 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_wood": {
     "criteria": {
       "has_log": "2024-12-20 17:59:44 +0000"
@@ -1491,6 +1528,12 @@
   "betterend:recipes/decorations/dragon_tree_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-20 19:26:01 +0000"
     },
     "done": true
   },
@@ -1893,6 +1936,12 @@
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2024-12-20 17:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-20 19:25:49 +0000"
     },
     "done": true
   },
@@ -2526,6 +2575,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/purple_brick_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 19:24:23 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/helix_tree_gate": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -2712,6 +2767,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2024-12-20 19:30:18 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-20 18:11:25 +0000"
@@ -2727,6 +2788,12 @@
   "biomesoplenty:recipes/decorations/fir_sign": {
     "criteria": {
       "has_planks": "2024-12-20 18:03:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2024-12-20 19:24:23 +0000"
     },
     "done": true
   },
@@ -2802,6 +2869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-20 19:24:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-20 17:24:52 +0000"
@@ -2829,6 +2902,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-20 16:49:46 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/white_brick_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 19:24:23 +0000"
     },
     "done": true
   },
@@ -3384,6 +3463,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/light_blue_brick_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 19:24:23 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_bar_stool": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -3529,6 +3614,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/gray_brick_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 19:24:23 +0000"
+    },
+    "done": true
+  },
   "bloodmagic:recipes/misc/blood_altar": {
     "criteria": {
       "has_gold": "2024-12-20 16:52:36 +0000"
@@ -3661,6 +3752,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/lime_brick_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 19:24:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-12-20 19:12:59 +0000"
@@ -3673,6 +3770,12 @@
       "bread": "2024-12-20 17:01:48 +0000"
     },
     "done": false
+  },
+  "domum_ornamentum:recipes/tools/red_brick_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 19:24:23 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
@@ -3795,6 +3898,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/orange_brick_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 19:24:23 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
@@ -3906,6 +4015,12 @@
   "bclib:recipes/tools/tag_compass": {
     "criteria": {
       "has_tag_c_iron_ingots": "2024-12-20 16:52:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2024-12-20 19:26:01 +0000"
     },
     "done": true
   },
@@ -4050,6 +4165,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-20 17:08:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-20 19:29:20 +0000"
     },
     "done": true
   },
@@ -4834,6 +4955,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/light_gray_brick_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 19:24:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2024-12-20 18:38:07 +0000"
@@ -4879,6 +5006,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_moss_block": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_brick": "2024-12-20 19:24:23 +0000"
     },
     "done": true
   },
@@ -5137,6 +5270,12 @@
   "bclib:recipes/transportation/tag_minecart": {
     "criteria": {
       "has_tag_c_iron_ingots": "2024-12-20 16:52:36 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/blue_brick_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 19:24:23 +0000"
     },
     "done": true
   },
@@ -5410,6 +5549,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_helmet_repairing": {
+    "criteria": {
+      "has_chainmail_helmet": "2024-12-20 19:24:01 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/yellow_crockery_combo": {
     "criteria": {
       "has_yellow_crockery_combo": "2024-12-20 16:45:50 +0000"
@@ -5608,6 +5753,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/blacksmith_gavel_head": {
+    "criteria": {
+      "has_clay_ball": "2024-12-20 19:22:25 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/pythadendron_taburet": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
@@ -5665,6 +5816,12 @@
   "betterend:recipes/decorations/tenanea_chair": {
     "criteria": {
       "has_stick": "2024-12-20 16:52:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2024-12-20 19:24:23 +0000"
     },
     "done": true
   },
@@ -5872,6 +6029,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/green_brick_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 19:24:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-20 18:52:22 +0000"
@@ -5983,6 +6146,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-20 17:01:32 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/magenta_brick_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 19:24:23 +0000"
     },
     "done": true
   },
@@ -6157,6 +6326,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-20 18:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-12-20 19:24:23 +0000"
     },
     "done": true
   },
@@ -6386,6 +6561,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/cyan_brick_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 19:24:23 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2024-12-20 16:45:13 +0000"
@@ -6431,6 +6612,12 @@
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_leather": "2024-12-20 19:07:33 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/black_brick_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 19:24:23 +0000"
     },
     "done": true
   },
@@ -7216,6 +7403,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/brown_brick_extra": {
+    "criteria": {
+      "has_material": "2024-12-20 19:24:23 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blaze": {
     "criteria": {
       "has_blaze_rod": "2024-12-20 17:41:54 +0000"
@@ -7237,6 +7430,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-12-20 17:41:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-20 19:29:20 +0000"
     },
     "done": true
   },
@@ -7301,6 +7500,7 @@
       "minecraft:dripstone_caves": "2024-12-20 19:17:21 +0000",
       "minecraft:cold_ocean": "2024-12-20 17:00:00 +0000",
       "minecraft:forest": "2024-12-20 19:17:43 +0000",
+      "minecraft:lush_caves": "2024-12-20 19:26:44 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 16:45:02 +0000",
       "minecraft:deep_dark": "2024-12-20 17:31:00 +0000"
     },
@@ -7321,6 +7521,12 @@
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2024-12-20 16:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-20 19:24:23 +0000"
     },
     "done": true
   },

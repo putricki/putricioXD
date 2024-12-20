@@ -5807,3 +5807,73 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [20Dec2024 19:24:21.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3181ms or 63 ticks behind
 [20Dec2024 19:24:50.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [20Dec2024 19:25:46.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20Dec2024 19:26:03.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[20Dec2024 19:26:13.034] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66351, l='ServerLevel[world]', x=229.15, y=106.00, z=261.85] died: the gnome was slain by ELROMPECLITOS
+[20Dec2024 19:26:16.796] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66363, l='ServerLevel[world]', x=229.15, y=106.00, z=260.89] died: the gnome was slain by ELROMPECLITOS
+[20Dec2024 19:26:16.803] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66375, l='ServerLevel[world]', x=230.30, y=106.00, z=261.15] died: the gnome was slain by ELROMPECLITOS
+[20Dec2024 19:26:17.492] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66360, l='ServerLevel[world]', x=229.15, y=106.00, z=261.08] died: the gnome was slain by ELROMPECLITOS
+[20Dec2024 19:26:17.508] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66335, l='ServerLevel[world]', x=229.15, y=106.00, z=260.15] died: the gnome was slain by ELROMPECLITOS
+[20Dec2024 19:26:22.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66362, l='ServerLevel[world]', x=222.66, y=101.00, z=245.83] died: the gnome hit the ground too hard whilst trying to escape ELROMPECLITOS
+[20Dec2024 19:26:23.296] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66345, l='ServerLevel[world]', x=218.63, y=86.00, z=239.39] died: the gnome fell from a high place
+[20Dec2024 19:26:23.344] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66365, l='ServerLevel[world]', x=217.68, y=81.00, z=237.09] died: the gnome fell from a high place
+[20Dec2024 19:26:23.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66339, l='ServerLevel[world]', x=218.06, y=83.00, z=238.55] died: the gnome fell from a high place
+[20Dec2024 19:26:23.617] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66350, l='ServerLevel[world]', x=219.49, y=96.00, z=244.09] died: the gnome was doomed to fall by ELROMPECLITOS
+[20Dec2024 19:26:25.771] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66357, l='ServerLevel[world]', x=222.32, y=96.00, z=243.10] died: the gnome was doomed to fall by ELROMPECLITOS
+[20Dec2024 19:26:26.533] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66348, l='ServerLevel[world]', x=222.68, y=90.00, z=237.92] died: the gnome was doomed to fall by ELROMPECLITOS
+[20Dec2024 19:26:26.638] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66353, l='ServerLevel[world]', x=217.64, y=81.00, z=237.85] died: the gnome fell from a high place
+[20Dec2024 19:26:26.756] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66355, l='ServerLevel[world]', x=220.11, y=93.00, z=241.62] died: the gnome was doomed to fall by ELROMPECLITOS
+[20Dec2024 19:26:27.040] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66340, l='ServerLevel[world]', x=219.48, y=87.00, z=239.30] died: the gnome was doomed to fall by ELROMPECLITOS
+[20Dec2024 19:26:27.146] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66369, l='ServerLevel[world]', x=217.15, y=97.00, z=247.57] died: the gnome was doomed to fall by ELROMPECLITOS
+[20Dec2024 19:26:27.660] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66337, l='ServerLevel[world]', x=214.40, y=83.00, z=239.19] died: the gnome fell from a high place
+[20Dec2024 19:26:28.376] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66338, l='ServerLevel[world]', x=210.89, y=77.00, z=236.96] died: the gnome fell from a high place
+[20Dec2024 19:26:28.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66341, l='ServerLevel[world]', x=213.65, y=80.00, z=238.39] died: the gnome fell from a high place
+[20Dec2024 19:26:29.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20Dec2024 19:26:29.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66366, l='ServerLevel[world]', x=209.97, y=76.00, z=241.68] died: the gnome fell from a high place
+[20Dec2024 19:26:30.576] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66368, l='ServerLevel[world]', x=211.48, y=85.00, z=243.73] died: the gnome fell from a high place
+[20Dec2024 19:26:30.739] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66373, l='ServerLevel[world]', x=219.75, y=83.00, z=238.05] died: the gnome fell from a high place
+[20Dec2024 19:26:30.800] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66354, l='ServerLevel[world]', x=215.75, y=80.00, z=237.21] died: the gnome fell from a high place
+[20Dec2024 19:26:31.748] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66370, l='ServerLevel[world]', x=211.05, y=76.00, z=239.75] died: the gnome fell from a high place
+[20Dec2024 19:26:34.088] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66364, l='ServerLevel[world]', x=210.77, y=78.00, z=275.42] died: the gnome fell from a high place
+[20Dec2024 19:26:34.507] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66358, l='ServerLevel[world]', x=221.85, y=101.75, z=247.85] died: the gnome was frozen to death
+[20Dec2024 19:26:34.761] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66372, l='ServerLevel[world]', x=216.37, y=81.00, z=237.68] died: the gnome fell from a high place
+[20Dec2024 19:26:36.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66343, l='ServerLevel[world]', x=205.75, y=65.00, z=274.80] died: the gnome fell from a high place
+[20Dec2024 19:26:39.771] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66346, l='ServerLevel[world]', x=207.77, y=67.00, z=222.14] died: the gnome was slain by ELROMPECLITOS
+[20Dec2024 19:26:42.094] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66371, l='ServerLevel[world]', x=209.00, y=63.00, z=244.99] died: the gnome fell from a high place
+[20Dec2024 19:26:42.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66359, l='ServerLevel[world]', x=208.10, y=67.00, z=222.24] died: the gnome was slain by ELROMPECLITOS
+[20Dec2024 19:26:42.892] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66352, l='ServerLevel[world]', x=200.43, y=69.00, z=257.43] died: the gnome fell from a high place
+[20Dec2024 19:26:44.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was doomed to fall by the gnome
+[20Dec2024 19:26:44.545] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ELROMPECLITOS with unique ID travelersbackpack.sponge_20.12.2024-19.26.44.dat
+[20Dec2024 19:26:46.969] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66361, l='ServerLevel[world]', x=206.48, y=68.00, z=273.21] died: the gnome fell from a high place
+[20Dec2024 19:26:48.975] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66356, l='ServerLevel[world]', x=209.36, y=73.00, z=272.18] died: the gnome fell from a high place
+[20Dec2024 19:26:52.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66347, l='ServerLevel[world]', x=219.66, y=71.00, z=231.46] died: the gnome fell from a high place
+[20Dec2024 19:27:00.031] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66367, l='ServerLevel[world]', x=208.46, y=82.00, z=268.02] died: the gnome fell from a high place
+[20Dec2024 19:27:03.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3281ms or 65 ticks behind
+[20Dec2024 19:27:09.388] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66336, l='ServerLevel[world]', x=212.08, y=71.00, z=233.44] died: the gnome hit the ground too hard
+[20Dec2024 19:27:18.440] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66342, l='ServerLevel[world]', x=206.73, y=67.00, z=274.81] died: the gnome fell from a high place
+[20Dec2024 19:27:29.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Perfectly Balanced]
+[20Dec2024 19:27:47.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Wraith
+[20Dec2024 19:27:47.937] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20Dec2024 19:27:47.939] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[20Dec2024 19:27:47.940] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[20Dec2024 19:27:47.940] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[20Dec2024 19:27:47.940] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 7
+[20Dec2024 19:27:48.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[20Dec2024 19:28:03.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Ol' Betsy]
+[20Dec2024 19:28:03.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Take Aim]
+[20Dec2024 19:28:43.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66374, l='ServerLevel[world]', x=210.94, y=82.00, z=269.15] died: the gnome hit the ground too hard
+[20Dec2024 19:29:12.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[20Dec2024 19:29:49.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[20Dec2024 19:31:11.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Basher
+[20Dec2024 19:31:15.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20Dec2024 19:31:17.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[20Dec2024 19:31:35.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[20Dec2024 19:32:01.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Vindicator
+[20Dec2024 19:32:08.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Vindicator
+[20Dec2024 19:32:08.454] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ELROMPECLITOS with unique ID travelersbackpack.sponge_20.12.2024-19.32.08.dat
+[20Dec2024 19:32:21.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[20Dec2024 19:32:29.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2960ms or 59 ticks behind
+[20Dec2024 19:32:34.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Vindicator
+[20Dec2024 19:32:48.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['the gnome'/66344, l='ServerLevel[world]', x=242.15, y=80.00, z=276.06] died: the gnome fell from a high place
+[20Dec2024 19:32:55.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Vindicator
+[20Dec2024 19:33:13.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Vindicator
+[20Dec2024 19:33:54.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has completed the challenge [Grimoire of Evokation]
