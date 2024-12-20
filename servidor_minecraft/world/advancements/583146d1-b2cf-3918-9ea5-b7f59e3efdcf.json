@@ -2594,6 +2594,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2024-12-20 18:30:13 +0000",
       "apple": "2024-12-20 18:15:44 +0000",
       "bread": "2024-12-20 16:49:18 +0000"
     },
@@ -5150,6 +5151,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-12-20 18:28:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-20 18:31:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-12-20 18:18:48 +0000"
@@ -5195,6 +5208,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-20 18:20:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-20 18:31:30 +0000"
     },
     "done": true
   },
