@@ -5153,6 +5153,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_fir": {
+    "criteria": {
+      "has_planks": "2024-12-20 19:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
     "criteria": {
       "has_vine": "2024-12-20 19:45:04 +0000"
@@ -5262,6 +5268,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2024-12-20 19:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-20 19:02:32 +0000"
@@ -5287,6 +5299,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2024-12-20 19:59:27 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2024-12-20 19:02:32 +0000"
@@ -5296,6 +5314,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
     "criteria": {
       "has_vine": "2024-12-20 19:45:04 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/biomesoplenty/item_shelf_fir": {
+    "criteria": {
+      "has_planks": "2024-12-20 19:59:27 +0000"
     },
     "done": true
   },
@@ -5413,6 +5437,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2024-12-20 19:59:27 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/white_paper_extra": {
     "criteria": {
       "has_material": "2024-12-20 19:34:57 +0000"
@@ -5485,6 +5515,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_planks": "2024-12-20 19:59:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/skillet": {
     "criteria": {
       "has_brick": "2024-12-20 19:08:38 +0000"
@@ -5554,6 +5590,12 @@
   "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
     "criteria": {
       "has_item": "2024-12-20 18:47:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-20 19:59:27 +0000"
     },
     "done": true
   },
@@ -5707,6 +5749,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2024-12-20 19:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2024-12-20 19:38:42 +0000"
@@ -5722,6 +5770,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2024-12-20 19:28:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-20 19:59:27 +0000"
     },
     "done": true
   },
@@ -5929,6 +5983,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-20 19:59:27 +0000"
+    },
+    "done": true
+  },
   "illagerinvasion:recipes/misc/platinum_sheet": {
     "criteria": {
       "has_platinum_chunk": "2024-12-20 19:02:33 +0000"
@@ -6011,6 +6071,12 @@
   "endrem:main/root": {
     "criteria": {
       "lost_eye": "2024-12-20 19:49:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-20 19:59:27 +0000"
     },
     "done": true
   },
