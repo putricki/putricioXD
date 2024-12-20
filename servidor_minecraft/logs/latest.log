@@ -6121,3 +6121,19 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [20Dec2024 20:53:18.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Dragonslayer]
 [20Dec2024 20:54:41.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
 [20Dec2024 20:55:19.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[20Dec2024 20:59:23.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[20Dec2024 21:02:18.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Frostmaw
+[20Dec2024 21:02:19.013] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[20Dec2024 21:02:19.013] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[20Dec2024 21:02:19.014] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[20Dec2024 21:02:19.014] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[20Dec2024 21:02:19.014] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[20Dec2024 21:02:19.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has completed the challenge [Rude Awakening]
+[20Dec2024 21:02:28.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
+[20Dec2024 21:02:43.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELROMPECLITOS lost connection: Disconnected
+[20Dec2024 21:02:43.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS left the game
+[20Dec2024 21:02:43.776] [Server thread/INFO] [survive/]: Removing Client (ELROMPECLITOS) From Survive Data Sync List
+[20Dec2024 21:02:45.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2525ms or 50 ticks behind
+[20Dec2024 21:03:43.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Disconnected
+[20Dec2024 21:03:43.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
+[20Dec2024 21:03:43.298] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
