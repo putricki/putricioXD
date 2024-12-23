@@ -5351,3 +5351,61 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [23Dec2024 17:40:56.005] [Server thread/INFO] [survive/]: Done syncing 15 biomes
 [23Dec2024 17:41:17.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7387ms or 147 ticks behind
 [23Dec2024 17:46:11.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/515, l='ServerLevel[world]', x=611.78, y=92.85, z=549.02] died: Honeyed Archer suffocated in a wall
+[23Dec2024 17:47:12.532] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[23Dec2024 17:47:12.539] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[23Dec2024 17:47:12.547] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[23Dec2024 17:47:12.589] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[23Dec2024 17:47:12.652] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[23Dec2024 17:47:12.696] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[23Dec2024 17:47:12.748] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[23Dec2024 17:47:12.790] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[23Dec2024 17:47:13.305] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[23Dec2024 17:47:13.306] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[23Dec2024 17:47:13.308] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[23Dec2024 17:47:13.308] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[23Dec2024 17:47:15.461] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[23Dec2024 17:47:15.462] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[23Dec2024 17:47:15.462] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[23Dec2024 17:47:15.479] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[23Dec2024 17:47:16.099] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geotrush[/100.84.125.88:51402] logged in with entity id 1436 at (465.095214565066, 71.5, 86.29210849109747)
+[23Dec2024 17:47:16.269] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to geotrush
+[23Dec2024 17:47:16.270] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to geotrush
+[23Dec2024 17:47:16.271] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to geotrush
+[23Dec2024 17:47:16.272] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to geotrush
+[23Dec2024 17:47:16.276] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to geotrush
+[23Dec2024 17:47:16.278] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to geotrush
+[23Dec2024 17:47:16.279] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to geotrush
+[23Dec2024 17:47:16.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush joined the game
+[23Dec2024 17:47:16.698] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to geotrush
+[23Dec2024 17:47:16.778] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[23Dec2024 17:47:16.790] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: geotrush
+[23Dec2024 17:47:16.831] [Server thread/INFO] [Jade/]: Syncing config to geotrush (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[23Dec2024 17:47:17.083] [Server thread/INFO] [survive/]: Syncing All Data To Client (geotrush)
+[23Dec2024 17:47:17.084] [Server thread/INFO] [survive/]: Syncing Armor Data
+[23Dec2024 17:47:17.084] [Server thread/INFO] [survive/]: Done with Armors
+[23Dec2024 17:47:17.085] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[23Dec2024 17:47:17.085] [Server thread/INFO] [survive/]: Done with Fluids
+[23Dec2024 17:47:17.086] [Server thread/INFO] [survive/]: Syncing Biome Data
+[23Dec2024 17:47:17.086] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[23Dec2024 17:47:18.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[23Dec2024 17:47:22.489] [Server thread/INFO] [ping-wheel/]: Channel update: geotrush -> default
+[23Dec2024 17:47:22.491] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[23Dec2024 17:47:39.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6583ms or 131 ticks behind
+[23Dec2024 17:50:00.541] [Worker-Main-2/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[23Dec2024 17:50:00.576] [Worker-Main-2/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 35ms
+[23Dec2024 17:50:00.579] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[23Dec2024 17:50:00.580] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[23Dec2024 17:50:00.580] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[23Dec2024 17:50:01.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[23Dec2024 17:50:21.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4851ms or 97 ticks behind
+[23Dec2024 17:50:46.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[23Dec2024 17:51:15.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[23Dec2024 17:51:40.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[23Dec2024 17:52:12.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Dec2024 17:52:39.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[23Dec2024 17:53:04.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[23Dec2024 17:53:22.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[23Dec2024 17:55:30.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23Dec2024 17:55:53.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[23Dec2024 17:56:12.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3956ms or 79 ticks behind
+[23Dec2024 17:56:54.349] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element betterfortresses:fortress took 6 ms
