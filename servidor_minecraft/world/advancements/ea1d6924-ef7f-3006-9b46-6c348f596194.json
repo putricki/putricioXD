@@ -10030,5 +10030,11 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-23 18:15:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

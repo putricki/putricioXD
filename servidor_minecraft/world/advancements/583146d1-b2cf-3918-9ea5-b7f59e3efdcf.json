@@ -298,6 +298,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2024-12-20 20:15:02 +0000",
+      "erupting_inferno": "2024-12-23 18:13:15 +0000",
       "highland": "2024-12-20 17:02:01 +0000",
       "cold_desert": "2024-12-20 20:06:38 +0000",
       "withered_abyss": "2024-12-23 18:03:33 +0000",
@@ -7628,9 +7629,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-23 18:05:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-23 18:05:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2024-12-23 17:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-23 18:05:53 +0000"
     },
     "done": true
   },
@@ -7643,6 +7662,12 @@
   "celestisynth:recipes/combat/solar_crystal_chestplate": {
     "criteria": {
       "has_item": "2024-12-23 18:04:53 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2024-12-23 18:07:35 +0000"
     },
     "done": true
   },
@@ -7676,6 +7701,12 @@
     },
     "done": true
   },
+  "bygonenether:catacomb": {
+    "criteria": {
+      "in_catacomb": "2024-12-23 18:06:43 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/end": {
     "criteria": {
       "has_ender_eye": "2024-12-23 17:57:40 +0000"
@@ -7685,6 +7716,12 @@
   "celestisynth:recipes/combat/solar_crystal_leggings": {
     "criteria": {
       "has_item": "2024-12-23 18:04:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-23 18:05:53 +0000"
     },
     "done": true
   },
@@ -7700,9 +7737,33 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/healing_quiver": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-23 18:05:56 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/healer_necklace": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-23 18:05:56 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/scholar_necklace": {
     "criteria": {
       "has_ender_pearl": "2024-12-23 17:57:41 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-23 18:05:53 +0000"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-23 18:05:53 +0000"
     },
     "done": true
   },
@@ -7717,6 +7778,12 @@
       "has_ender_eye": "2024-12-23 17:57:40 +0000"
     },
     "done": true
+  },
+  "bygonenether:explore_structures": {
+    "criteria": {
+      "in_catacomb": "2024-12-23 18:06:43 +0000"
+    },
+    "done": false
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
