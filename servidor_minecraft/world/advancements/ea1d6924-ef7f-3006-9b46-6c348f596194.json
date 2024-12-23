@@ -269,13 +269,17 @@
       "minecraft:old_growth_pine_taiga": "2024-12-20 16:37:22 +0000",
       "minecraft:taiga": "2024-12-20 19:40:07 +0000",
       "minecraft:frozen_river": "2024-12-20 20:05:18 +0000",
+      "minecraft:beach": "2024-12-23 14:47:05 +0000",
+      "minecraft:dark_forest": "2024-12-23 14:52:19 +0000",
       "minecraft:river": "2024-12-20 16:46:00 +0000",
       "minecraft:snowy_plains": "2024-12-20 20:17:34 +0000",
       "minecraft:dripstone_caves": "2024-12-20 19:17:21 +0000",
       "minecraft:snowy_taiga": "2024-12-20 20:26:20 +0000",
+      "minecraft:swamp": "2024-12-23 14:55:53 +0000",
       "minecraft:cold_ocean": "2024-12-20 17:00:00 +0000",
       "minecraft:forest": "2024-12-20 19:17:43 +0000",
       "minecraft:lush_caves": "2024-12-20 19:26:44 +0000",
+      "minecraft:ocean": "2024-12-23 14:45:38 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 16:45:02 +0000",
       "minecraft:deep_dark": "2024-12-20 17:31:00 +0000"
     },
@@ -350,8 +354,10 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2024-12-20 20:14:56 +0000",
+      "marsh": "2024-12-23 14:55:00 +0000",
       "cold_desert": "2024-12-20 20:05:40 +0000",
       "field": "2024-12-20 16:48:47 +0000",
+      "overgrown_greens": "2024-12-23 14:52:30 +0000",
       "coniferous_forest": "2024-12-20 16:51:29 +0000",
       "forested_field": "2024-12-20 16:41:48 +0000",
       "spider_nest": "2024-12-23 13:43:22 +0000",
@@ -359,6 +365,7 @@
       "seasonal_forest": "2024-12-20 17:19:18 +0000",
       "fir_clearing": "2024-12-20 20:05:54 +0000",
       "pumpkin_patch": "2024-12-23 14:04:37 +0000",
+      "grassland": "2024-12-23 14:52:44 +0000",
       "snowy_coniferous_forest": "2024-12-20 20:35:38 +0000",
       "snowy_fir_clearing": "2024-12-20 20:14:51 +0000",
       "glowing_grotto": "2024-12-20 19:45:11 +0000",
@@ -8361,6 +8368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-23 13:32:55 +0000"
@@ -8370,6 +8383,24 @@
   "iceandfire:recipes/combat/tide_deepblue_helmet": {
     "criteria": {
       "has_item": "2024-12-23 14:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_palisade": {
+    "criteria": {
+      "has_log": "2024-12-23 14:42:48 +0000"
     },
     "done": true
   },
@@ -8391,9 +8422,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/guide_book": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_seat": {
+    "criteria": {
+      "has_plank": "2024-12-23 14:43:02 +0000"
     },
     "done": true
   },
@@ -8412,6 +8461,12 @@
   "iceandfire:recipes/tools/dragonsteel_ice_shovel": {
     "criteria": {
       "has_item": "2024-12-23 13:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-23 14:43:02 +0000"
     },
     "done": true
   },
@@ -8436,6 +8491,18 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
       "has_sea_serpent_scales_deepblue": "2024-12-23 14:15:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-23 14:42:48 +0000"
     },
     "done": true
   },
@@ -8466,6 +8533,12 @@
   "betterend:recipes/misc/frost_walker_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2024-12-23 14:43:02 +0000"
     },
     "done": true
   },
@@ -8517,6 +8590,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
@@ -8538,6 +8617,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2024-12-23 14:50:35 +0000"
     },
     "done": true
   },
@@ -8571,6 +8656,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/birch_support": {
+    "criteria": {
+      "has_plank": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
       "entered_ice_pit": "2024-12-23 13:43:38 +0000"
@@ -8601,9 +8692,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-23 14:50:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2024-12-23 13:32:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2024-12-23 14:55:16 +0000"
     },
     "done": true
   },
@@ -8616,6 +8725,12 @@
   "iceandfire:recipes/combat/dragonsteel_ice_chestplate": {
     "criteria": {
       "has_item": "2024-12-23 13:29:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-23 14:55:59 +0000"
     },
     "done": true
   },
@@ -8673,6 +8788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-23 14:55:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-23 13:32:55 +0000"
@@ -8691,9 +8812,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs": {
     "criteria": {
       "has_item": "2024-12-23 14:34:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-23 14:50:35 +0000"
     },
     "done": true
   },
@@ -8745,6 +8884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-23 14:50:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blightwillow_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
@@ -8760,6 +8905,12 @@
   "minecolonies:recipes/food/pasta_plain": {
     "criteria": {
       "has_durum": "2024-12-23 14:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-23 14:43:02 +0000"
     },
     "done": true
   },
@@ -8781,9 +8932,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 14:42:48 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/maple_bookshelf": {
     "criteria": {
       "has_item": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2024-12-23 14:43:02 +0000"
     },
     "done": true
   },
@@ -8805,6 +8974,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_planks": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/riptide_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
@@ -8814,6 +8989,12 @@
   "blue_skies:recipes/building_blocks/chiseled_turquoise_stonebrick_stonecutting_turquoise_stonebrick": {
     "criteria": {
       "has_item": "2024-12-23 14:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-23 14:43:02 +0000"
     },
     "done": true
   },
@@ -8835,6 +9016,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-23 14:37:20 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/pythadendron_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
@@ -8847,9 +9034,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-12-23 13:32:55 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2024-12-23 14:49:03 +0000"
     },
     "done": true
   },
@@ -8907,6 +9106,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/mending_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
@@ -8934,6 +9139,12 @@
   "iceandfire:recipes/combat/tide_blue_leggings": {
     "criteria": {
       "has_item": "2024-12-23 14:15:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2024-12-23 14:43:02 +0000"
     },
     "done": true
   },
@@ -8979,6 +9190,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_the_recipe": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_birch": {
+    "criteria": {
+      "has_planks": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/projectile_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
@@ -8991,9 +9214,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-23 14:50:35 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_stonebrick_wall_stonecutting_lunar_stonebrick": {
     "criteria": {
       "has_item": "2024-12-23 14:34:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2024-12-23 14:43:02 +0000"
     },
     "done": true
   },
@@ -9012,6 +9247,12 @@
   "ancient_aether:recipes/building_blocks/sakura_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-12-23 14:50:35 +0000"
     },
     "done": true
   },
@@ -9036,6 +9277,12 @@
   "betterend:recipes/misc/soul_speed_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2024-12-23 14:43:02 +0000"
     },
     "done": true
   },
@@ -9066,6 +9313,12 @@
   "blue_skies:recipes/building_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stonebrick": {
     "criteria": {
       "has_item": "2024-12-23 14:34:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2024-12-23 14:43:02 +0000"
     },
     "done": true
   },
@@ -9111,6 +9364,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab": {
     "criteria": {
       "has_item": "2024-12-23 14:34:29 +0000"
@@ -9141,6 +9400,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/birch_table": {
+    "criteria": {
+      "has_bamboo": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/pottage": {
     "criteria": {
       "has_durum": "2024-12-23 14:08:06 +0000"
@@ -9156,6 +9421,12 @@
   "minecraft:recipes/building_blocks/fieldsproot_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-23 14:43:02 +0000"
     },
     "done": true
   },

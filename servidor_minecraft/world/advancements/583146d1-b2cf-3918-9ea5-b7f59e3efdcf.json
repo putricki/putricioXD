@@ -2657,7 +2657,8 @@
   "alexscaves:alexscaves/diving_armor": {
     "criteria": {
       "shirt": "2024-12-20 16:51:49 +0000",
-      "pants": "2024-12-20 17:39:49 +0000"
+      "pants": "2024-12-20 17:39:49 +0000",
+      "boots": "2024-12-23 14:48:04 +0000"
     },
     "done": false
   },
@@ -3364,6 +3365,7 @@
       "minecraft:stray": "2024-12-23 13:54:55 +0000",
       "minecraft:vex": "2024-12-20 19:33:40 +0000",
       "minecraft:zombie": "2024-12-20 17:04:31 +0000",
+      "minecraft:drowned": "2024-12-23 14:48:26 +0000",
       "minecraft:zombie_villager": "2024-12-23 13:49:56 +0000"
     },
     "done": false
@@ -6571,6 +6573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-23 14:48:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonsteel_ice_boots": {
     "criteria": {
       "has_item": "2024-12-23 14:21:21 +0000"
@@ -6601,6 +6609,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2024-12-23 14:48:04 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
     "criteria": {
       "has_chain": "2024-12-23 13:28:10 +0000"
@@ -6622,6 +6636,12 @@
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_castle": "2024-12-23 13:32:19 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/obsidian_skull": {
+    "criteria": {
+      "has_obsidian": "2024-12-23 14:48:04 +0000"
     },
     "done": true
   },
@@ -6715,9 +6735,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-23 14:48:56 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/novelty_hat": {
     "criteria": {
       "sopa_de_macaco": "2024-12-23 13:25:38 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-23 14:48:56 +0000"
     },
     "done": true
   },
@@ -6745,6 +6777,12 @@
     },
     "done": false
   },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2024-12-23 14:48:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_sapphire_boots": {
     "criteria": {
       "has_item": "2024-12-23 13:42:23 +0000"
@@ -6754,6 +6792,12 @@
   "iceandfire:recipes/combat/tide_red_leggings": {
     "criteria": {
       "has_item": "2024-12-23 14:15:56 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2024-12-23 14:54:22 +0000"
     },
     "done": true
   },
@@ -6778,6 +6822,12 @@
   "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
       "has_item": "2024-12-23 13:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-23 14:48:04 +0000"
     },
     "done": true
   },
@@ -6841,6 +6891,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-23 14:56:36 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/veggie_ravioli": {
     "criteria": {
       "has_durum": "2024-12-23 14:13:32 +0000"
@@ -6898,6 +6954,12 @@
   "betterend:recipes/decorations/pythadendron_hanging_sign": {
     "criteria": {
       "has_chain": "2024-12-23 13:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-23 14:48:04 +0000"
     },
     "done": true
   },
