@@ -355,8 +355,10 @@
       "coniferous_forest": "2024-12-20 16:51:29 +0000",
       "forested_field": "2024-12-20 16:41:48 +0000",
       "spider_nest": "2024-12-23 13:43:22 +0000",
+      "aspen_glade": "2024-12-23 14:04:53 +0000",
       "seasonal_forest": "2024-12-20 17:19:18 +0000",
       "fir_clearing": "2024-12-20 20:05:54 +0000",
+      "pumpkin_patch": "2024-12-23 14:04:37 +0000",
       "snowy_coniferous_forest": "2024-12-20 20:35:38 +0000",
       "snowy_fir_clearing": "2024-12-20 20:14:51 +0000",
       "glowing_grotto": "2024-12-20 19:45:11 +0000",
@@ -8490,6 +8492,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/fish_n_chips": {
+    "criteria": {
+      "has_durum": "2024-12-23 14:08:06 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/starlit_bookshelf": {
     "criteria": {
       "has_item": "2024-12-23 13:58:57 +0000"
@@ -8586,6 +8594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-23 14:14:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-23 13:32:55 +0000"
@@ -8658,6 +8672,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/pasta_plain": {
+    "criteria": {
+      "has_durum": "2024-12-23 14:08:06 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/impaling_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
@@ -8709,6 +8729,12 @@
   "betterend:recipes/building_blocks/pythadendron_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/pasta_tomato": {
+    "criteria": {
+      "has_durum": "2024-12-23 14:08:06 +0000"
     },
     "done": true
   },
@@ -8766,6 +8792,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/chicken_broth": {
+    "criteria": {
+      "has_durum": "2024-12-23 14:08:06 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/lucernia_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
@@ -8820,6 +8852,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/veggie_ravioli": {
+    "criteria": {
+      "has_durum": "2024-12-23 14:08:06 +0000"
+    },
+    "done": true
+  },
   "ancient_aether:recipes/building_blocks/sakura_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
@@ -8835,6 +8873,12 @@
   "betterend:recipes/misc/respiration_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/cheese_ravioli": {
+    "criteria": {
+      "has_durum": "2024-12-23 14:08:06 +0000"
     },
     "done": true
   },
@@ -8922,6 +8966,18 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/pottage": {
+    "criteria": {
+      "has_durum": "2024-12-23 14:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/raw_noodle": {
+    "criteria": {
+      "has_durum": "2024-12-23 14:08:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/fieldsproot_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
@@ -8937,6 +8993,12 @@
   "betterend:recipes/misc/multishot_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/meat_ravioli": {
+    "criteria": {
+      "has_durum": "2024-12-23 14:08:06 +0000"
     },
     "done": true
   },
