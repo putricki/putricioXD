@@ -7629,69 +7629,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/ghast": {
-    "criteria": {
-      "has_ghast_tear": "2024-12-23 18:05:56 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/netherite_trapdoor": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-23 18:05:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2024-12-23 17:57:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-23 18:05:53 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/ender_perl_to_block": {
-    "criteria": {
-      "has_ender_pearl": "2024-12-23 17:57:41 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/solar_crystal_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-23 18:04:53 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/nether_eye": {
-    "criteria": {
-      "nether_eye": "2024-12-23 18:07:35 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/ender_eye_amber": {
-    "criteria": {
-      "has_ender_pearl": "2024-12-23 17:57:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/gold_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2024-12-23 18:02:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2024-12-23 17:58:50 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/solar_crystal_helmet": {
-    "criteria": {
-      "has_item": "2024-12-23 18:04:53 +0000"
     },
     "done": true
   },
@@ -7701,39 +7641,9 @@
     },
     "done": true
   },
-  "bygonenether:catacomb": {
-    "criteria": {
-      "in_catacomb": "2024-12-23 18:06:43 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/end": {
     "criteria": {
       "has_ender_eye": "2024-12-23 17:57:40 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/solar_crystal_leggings": {
-    "criteria": {
-      "has_item": "2024-12-23 18:04:53 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/netherite_door": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-23 18:05:53 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/combat/solar_crystal_boots": {
-    "criteria": {
-      "has_item": "2024-12-23 18:04:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_ghost": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-23 18:37:10 +0000"
     },
     "done": true
   },
@@ -7743,21 +7653,105 @@
     },
     "done": true
   },
-  "skilltree:recipes/combat/healing_quiver": {
+  "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
-      "has_ghast_tear": "2024-12-23 18:05:56 +0000"
+      "has_ender_eye": "2024-12-23 17:57:40 +0000"
     },
     "done": true
   },
-  "skilltree:recipes/misc/healer_necklace": {
+  "delightful:recipes/food/cooking/ender_nectar": {
     "criteria": {
-      "has_ghast_tear": "2024-12-23 18:05:56 +0000"
+      "has_ender_eye": "2024-12-23 17:57:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-23 17:57:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-23 17:57:41 +0000"
     },
     "done": true
   },
   "skilltree:recipes/misc/scholar_necklace": {
     "criteria": {
       "has_ender_pearl": "2024-12-23 17:57:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2024-12-23 17:57:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-23 17:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-23 17:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-23 18:01:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-23 18:02:13 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-23 18:04:53 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_helmet": {
+    "criteria": {
+      "has_item": "2024-12-23 18:04:53 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_leggings": {
+    "criteria": {
+      "has_item": "2024-12-23 18:04:53 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_boots": {
+    "criteria": {
+      "has_item": "2024-12-23 18:04:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-23 18:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-23 18:05:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-23 18:05:53 +0000"
     },
     "done": true
   },
@@ -7773,15 +7767,27 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/ender_pearl_to_dust": {
+  "travelersbackpack:recipes/misc/ghast": {
     "criteria": {
-      "has_item.minecraft.ender_pearl": "2024-12-23 17:57:41 +0000"
+      "has_ghast_tear": "2024-12-23 18:05:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ender_chest": {
+  "skilltree:recipes/combat/healing_quiver": {
     "criteria": {
-      "has_ender_eye": "2024-12-23 17:57:40 +0000"
+      "has_ghast_tear": "2024-12-23 18:05:56 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/healer_necklace": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-23 18:05:56 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:catacomb": {
+    "criteria": {
+      "in_catacomb": "2024-12-23 18:06:43 +0000"
     },
     "done": true
   },
@@ -7791,21 +7797,15 @@
     },
     "done": false
   },
-  "minecraft:nether/find_fortress": {
+  "endrem:main/nether_eye": {
     "criteria": {
-      "in_better_fortress": "2024-12-23 18:01:12 +0000"
+      "nether_eye": "2024-12-23 18:07:35 +0000"
     },
     "done": true
   },
-  "delightful:recipes/food/cooking/ender_nectar": {
+  "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
-      "has_ender_eye": "2024-12-23 17:57:40 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/enderman": {
-    "criteria": {
-      "has_ender_pearl": "2024-12-23 17:57:41 +0000"
+      "killed_fire_dragon": "2024-12-23 18:37:10 +0000"
     },
     "done": true
   },
