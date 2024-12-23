@@ -354,6 +354,7 @@
       "field": "2024-12-20 16:48:47 +0000",
       "coniferous_forest": "2024-12-20 16:51:29 +0000",
       "forested_field": "2024-12-20 16:41:48 +0000",
+      "spider_nest": "2024-12-23 13:43:22 +0000",
       "seasonal_forest": "2024-12-20 17:19:18 +0000",
       "fir_clearing": "2024-12-20 20:05:54 +0000",
       "snowy_coniferous_forest": "2024-12-20 20:35:38 +0000",
@@ -8016,6 +8017,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_ice_pit": "2024-12-23 13:43:38 +0000",
       "entered_watch_tower": "2024-12-20 20:17:49 +0000"
     },
     "done": false
@@ -8386,6 +8388,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_ice_pit": "2024-12-23 13:43:38 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2024-12-23 13:32:55 +0000"
@@ -8479,6 +8487,12 @@
   "tetra:spelunking/find_scroll": {
     "criteria": {
       "find": "2024-12-23 13:36:42 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:chilled_halls": {
+    "criteria": {
+      "entered_ice_pit": "2024-12-23 13:43:38 +0000"
     },
     "done": true
   },
