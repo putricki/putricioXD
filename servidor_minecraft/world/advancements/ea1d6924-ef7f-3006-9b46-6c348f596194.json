@@ -362,6 +362,7 @@
       "marsh": "2024-12-23 14:55:00 +0000",
       "mystic_grove": "2024-12-23 14:59:58 +0000",
       "cold_desert": "2024-12-20 20:05:40 +0000",
+      "withered_abyss": "2024-12-23 15:57:17 +0000",
       "field": "2024-12-20 16:48:47 +0000",
       "overgrown_greens": "2024-12-23 14:52:30 +0000",
       "coniferous_forest": "2024-12-20 16:51:29 +0000",
@@ -8377,6 +8378,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_side_table": {
+    "criteria": {
+      "has_crimson_side_table": "2024-12-23 15:54:14 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/crimson_support": {
+    "criteria": {
+      "has_plank": "2024-12-23 15:54:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-23 14:43:02 +0000"
@@ -8439,6 +8452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-23 15:54:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_blue_chestplate": {
     "criteria": {
       "has_item": "2024-12-23 14:15:33 +0000"
@@ -8484,6 +8503,12 @@
   "iceandfire:recipes/combat/dragonsteel_ice_leggings": {
     "criteria": {
       "has_item": "2024-12-23 13:29:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_crimson": {
+    "criteria": {
+      "has_planks": "2024-12-23 15:54:14 +0000"
     },
     "done": true
   },
@@ -8541,6 +8566,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_corner_trim": {
+    "criteria": {
+      "has_crimson_corner_trim": "2024-12-23 15:54:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-12-23 14:42:48 +0000"
@@ -8550,6 +8581,18 @@
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2024-12-23 14:15:14 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/deviled_egg": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 15:53:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_cupboard": {
+    "criteria": {
+      "has_crimson_cupboard": "2024-12-23 15:54:14 +0000"
     },
     "done": true
   },
@@ -8673,6 +8716,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_dining_bench": {
+    "criteria": {
+      "has_crimson_dining_bench": "2024-12-23 15:54:14 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
@@ -8682,6 +8731,12 @@
   "betterend:recipes/misc/infinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2024-12-23 15:54:14 +0000"
     },
     "done": true
   },
@@ -8787,6 +8842,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_table": {
+    "criteria": {
+      "has_crimson_table": "2024-12-23 15:54:14 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/helix_tree_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
@@ -8802,6 +8863,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_desk": {
+    "criteria": {
+      "has_crimson_desk": "2024-12-23 15:54:14 +0000"
     },
     "done": true
   },
@@ -8832,6 +8899,12 @@
   "aether:recipes/combat/chainmail_boots_repairing": {
     "criteria": {
       "has_chainmail_boots": "2024-12-23 14:55:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-23 15:57:09 +0000"
     },
     "done": true
   },
@@ -8871,6 +8944,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/food/hoglin_loin_cooking": {
+    "criteria": {
+      "hoglin_loin": "2024-12-23 15:53:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-12-23 15:37:27 +0000"
@@ -8886,6 +8965,12 @@
   "aether:recipes/combat/chainmail_chestplate_repairing": {
     "criteria": {
       "has_chainmail_chestplate": "2024-12-23 14:26:01 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_loin": "2024-12-23 15:53:52 +0000"
     },
     "done": true
   },
@@ -9039,6 +9124,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_nightstand": {
+    "criteria": {
+      "has_crimson_nightstand": "2024-12-23 15:54:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-23 13:32:55 +0000"
@@ -9060,6 +9151,12 @@
   "betterend:recipes/misc/luck_of_sea_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_hoglin_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 15:53:52 +0000"
     },
     "done": true
   },
@@ -9105,15 +9202,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2024-12-23 15:57:09 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/swift_sneak_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_couch": {
+    "criteria": {
+      "has_crimson_couch": "2024-12-23 15:54:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_pillar_trim": {
+    "criteria": {
+      "has_crimson_pillar_trim": "2024-12-23 15:54:14 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_crimson": {
+    "criteria": {
+      "has_planks": "2024-12-23 15:54:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-12-23 14:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2024-12-23 15:54:14 +0000"
     },
     "done": true
   },
@@ -9162,6 +9289,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2024-12-23 15:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2024-12-23 15:54:14 +0000"
     },
     "done": true
   },
@@ -9231,6 +9364,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
+    "criteria": {
+      "hoglin_loin": "2024-12-23 15:53:52 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/pythadendron_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
@@ -9240,6 +9379,12 @@
   "minecolonies:recipes/food/pasta_tomato": {
     "criteria": {
       "has_durum": "2024-12-23 14:08:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_crimson": {
+    "criteria": {
+      "has_the_recipe": "2024-12-23 15:54:14 +0000"
     },
     "done": true
   },
@@ -9270,6 +9415,48 @@
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_paper": "2024-12-23 15:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-23 15:58:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_fancy_bed": {
+    "criteria": {
+      "has_crimson_fancy_bed": "2024-12-23 15:54:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_counter": {
+    "criteria": {
+      "has_crimson_counter": "2024-12-23 15:54:14 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/crimson_seat": {
+    "criteria": {
+      "has_plank": "2024-12-23 15:54:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_drawer": {
+    "criteria": {
+      "has_crimson_drawer": "2024-12-23 15:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2024-12-23 15:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-23 15:57:09 +0000"
     },
     "done": true
   },
@@ -9345,6 +9532,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
+    "criteria": {
+      "has_hoglin_loin": "2024-12-23 15:53:52 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_corner_trim": {
     "criteria": {
       "has_birch_corner_trim": "2024-12-23 14:43:02 +0000"
@@ -9381,15 +9574,33 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/fried_hoglin_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 15:53:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_blue_leggings": {
     "criteria": {
       "has_item": "2024-12-23 14:15:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2024-12-23 15:54:14 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2024-12-23 15:43:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-23 15:54:14 +0000"
     },
     "done": true
   },
@@ -9438,6 +9649,12 @@
   "iceandfire:recipes/combat/tide_blue_boots": {
     "criteria": {
       "has_item": "2024-12-23 14:15:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_shelf": {
+    "criteria": {
+      "has_crimson_shelf": "2024-12-23 15:54:14 +0000"
     },
     "done": true
   },
@@ -9531,6 +9748,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/crimson_beam": {
+    "criteria": {
+      "has_stripped_log": "2024-12-23 15:57:09 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweeping_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
@@ -9546,6 +9769,12 @@
   "minecolonies:recipes/food/cheese_ravioli": {
     "criteria": {
       "has_durum": "2024-12-23 14:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-23 15:54:14 +0000"
     },
     "done": true
   },
@@ -9585,6 +9814,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/crimson_table": {
+    "criteria": {
+      "has_bamboo": "2024-12-23 15:54:14 +0000"
+    },
+    "done": true
+  },
   "tetra:spelunking/find_scroll": {
     "criteria": {
       "find": "2024-12-23 13:36:42 +0000"
@@ -9606,6 +9841,12 @@
   "handcrafted:recipes/misc/birch_chair": {
     "criteria": {
       "has_birch_chair": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_chair": {
+    "criteria": {
+      "has_crimson_chair": "2024-12-23 15:54:14 +0000"
     },
     "done": true
   },
@@ -9663,6 +9904,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-12-23 15:53:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_bench": {
     "criteria": {
       "has_birch_bench": "2024-12-23 14:43:02 +0000"
@@ -9672,6 +9919,12 @@
   "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab": {
     "criteria": {
       "has_item": "2024-12-23 14:34:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_bench": {
+    "criteria": {
+      "has_crimson_bench": "2024-12-23 15:54:14 +0000"
     },
     "done": true
   },
@@ -9696,6 +9949,12 @@
   "iceandfire:recipes/combat/tide_deepblue_boots": {
     "criteria": {
       "has_item": "2024-12-23 14:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-23 15:54:14 +0000"
     },
     "done": true
   },

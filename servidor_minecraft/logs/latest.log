@@ -5823,3 +5823,38 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [23Dec2024 15:51:46.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
 [23Dec2024 15:51:46.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Those Were the Days]
 [23Dec2024 15:51:48.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Nightmare Fuel]
+[23Dec2024 15:52:43.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [War Pigs]
+[23Dec2024 15:53:10.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[23Dec2024 15:55:24.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[23Dec2024 15:55:41.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was blown to smithereens by geotrush
+[23Dec2024 15:55:41.012] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ELROMPECLITOS with unique ID travelersbackpack.sponge_23.12.2024-15.55.41.dat
+[23Dec2024 15:56:00.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[23Dec2024 15:56:10.939] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[23Dec2024 15:56:27.136] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[23Dec2024 15:57:48.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush withered away whilst fighting Giddy Blaze
+[23Dec2024 15:58:17.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [War Pigs]
+[23Dec2024 15:58:17.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23Dec2024 15:58:34.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2412ms or 48 ticks behind
+[23Dec2024 15:58:41.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Giddy Blaze
+[23Dec2024 15:58:56.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[23Dec2024 15:58:59.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Giddy Blaze
+[23Dec2024 15:59:02.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Piglin Brute
+[23Dec2024 15:59:02.946] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ELROMPECLITOS with unique ID travelersbackpack.sponge_23.12.2024-15.59.02.dat
+[23Dec2024 15:59:15.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3891ms or 77 ticks behind
+[23Dec2024 15:59:54.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Piglin Brute
+[23Dec2024 15:59:54.261] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ELROMPECLITOS with unique ID travelersbackpack.sponge_23.12.2024-15.59.54.dat
+[23Dec2024 15:59:54.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[23Dec2024 15:59:54.317] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Dec2024 15:59:54.317] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[23Dec2024 15:59:54.317] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[23Dec2024 15:59:54.317] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Dec2024 15:59:54.317] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[23Dec2024 16:00:03.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[23Dec2024 16:00:34.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Epic!]
+[23Dec2024 16:01:02.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Piglin
+[23Dec2024 16:01:02.352] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ELROMPECLITOS with unique ID travelersbackpack.sponge_23.12.2024-16.01.02.dat
+[23Dec2024 16:01:14.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[23Dec2024 16:01:41.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Piglin
+[23Dec2024 16:02:03.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Hoglin
+[23Dec2024 16:02:36.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Imp
+[23Dec2024 16:02:39.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Imp
