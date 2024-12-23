@@ -3485,7 +3485,9 @@
       "minecraft:spider": "2024-12-23 14:15:15 +0000",
       "minecraft:creeper": "2024-12-20 18:42:36 +0000",
       "quark:forgotten": "2024-12-23 15:23:40 +0000",
+      "minecraft:zombified_piglin": "2024-12-23 15:48:57 +0000",
       "minecraft:cave_spider": "2024-12-20 17:27:10 +0000",
+      "minecraft:piglin": "2024-12-23 15:42:39 +0000",
       "minecraft:stray": "2024-12-20 17:19:35 +0000",
       "minecraft:zombie": "2024-12-20 17:14:28 +0000",
       "minecraft:drowned": "2024-12-20 17:07:02 +0000",
@@ -8383,6 +8385,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-23 15:42:00 +0000",
       "minecraft:nether_wastes": "2024-12-23 15:37:06 +0000",
       "minecraft:basalt_deltas": "2024-12-23 15:40:51 +0000"
     },
@@ -8397,6 +8400,12 @@
   "iceandfire:recipes/combat/tide_deepblue_helmet": {
     "criteria": {
       "has_item": "2024-12-23 14:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-23 15:47:18 +0000"
     },
     "done": true
   },
@@ -8421,6 +8430,12 @@
   "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
     "criteria": {
       "has_item": "2024-12-23 14:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/soy_milk": {
+    "criteria": {
+      "has_soy": "2024-12-23 15:45:59 +0000"
     },
     "done": true
   },
@@ -8610,6 +8625,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-23 15:45:12 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
       "has_paper": "2024-12-23 15:15:55 +0000"
@@ -8670,6 +8691,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/strider_and_grilled_fungus": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 15:42:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
@@ -8715,6 +8742,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-23 15:37:03 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/eyebomination": {
+    "criteria": {
+      "has_item": "2024-12-23 15:47:18 +0000"
     },
     "done": true
   },
@@ -8790,6 +8823,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2024-12-23 15:47:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_boots_repairing": {
     "criteria": {
       "has_chainmail_boots": "2024-12-23 14:55:16 +0000"
@@ -8856,15 +8895,39 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/soysauce": {
+    "criteria": {
+      "has_soy": "2024-12-23 15:45:59 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs_stonecutting_lunar_stonebrick": {
     "criteria": {
       "has_item": "2024-12-23 14:34:29 +0000"
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/crimson_stroganoff": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 15:42:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-23 15:45:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2024-12-23 14:15:45 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2024-12-23 15:44:24 +0000"
     },
     "done": true
   },
@@ -8889,6 +8952,12 @@
   "domum_ornamentum:recipes/tools/paper_extra": {
     "criteria": {
       "has_material": "2024-12-23 15:15:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-23 15:44:24 +0000"
     },
     "done": true
   },
@@ -8982,6 +9051,12 @@
     },
     "done": true
   },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2024-12-23 15:47:18 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/luck_of_sea_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
@@ -9060,6 +9135,12 @@
     },
     "done": true
   },
+  "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
+    "criteria": {
+      "has_item": "2024-12-23 15:42:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
@@ -9129,6 +9210,12 @@
   "blue_skies:recipes/building_blocks/lunar_stonebrick_wall": {
     "criteria": {
       "has_item": "2024-12-23 14:34:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-23 15:50:07 +0000"
     },
     "done": true
   },
@@ -9216,6 +9303,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/tofu": {
+    "criteria": {
+      "has_soy": "2024-12-23 15:45:59 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2024-12-23 15:15:55 +0000"
@@ -9258,6 +9351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-23 15:47:18 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/mending_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
@@ -9285,6 +9384,12 @@
   "iceandfire:recipes/combat/tide_blue_leggings": {
     "criteria": {
       "has_item": "2024-12-23 14:15:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-23 15:43:44 +0000"
     },
     "done": true
   },
@@ -9456,6 +9561,12 @@
     },
     "done": true
   },
+  "delightful:recipes/food/cooking/ender_nectar": {
+    "criteria": {
+      "has_ender_eye": "2024-12-23 15:47:18 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
     "criteria": {
       "has_item": "2024-12-23 13:58:57 +0000"
@@ -9495,6 +9606,12 @@
   "handcrafted:recipes/misc/birch_chair": {
     "criteria": {
       "has_birch_chair": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/strider_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 15:42:51 +0000"
     },
     "done": true
   },
@@ -9603,6 +9720,12 @@
   "minecolonies:recipes/food/pottage": {
     "criteria": {
       "has_durum": "2024-12-23 14:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-23 15:49:34 +0000"
     },
     "done": true
   },

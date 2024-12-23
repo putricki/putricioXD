@@ -6508,6 +6508,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-23 15:43:01 +0000"
+    },
+    "done": false
+  },
   "iceandfire:iceandfire/dragonsteel": {
     "criteria": {
       "steel": "2024-12-23 14:21:21 +0000"
@@ -6517,6 +6523,12 @@
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_creeper_trophy": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-23 15:44:22 +0000"
     },
     "done": true
   },
@@ -6580,6 +6592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-23 15:45:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2024-12-23 13:28:10 +0000"
@@ -6625,6 +6643,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2024-12-23 14:22:33 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2024-12-23 15:43:00 +0000"
     },
     "done": true
   },
@@ -6694,9 +6718,21 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-23 15:43:00 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/columns/stone_column": {
     "criteria": {
       "has_item": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
+  "georenouveau:recipes/misc/quartz_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2024-12-23 15:45:19 +0000"
     },
     "done": true
   },
@@ -6705,6 +6741,18 @@
       "entered_castle": "2024-12-23 13:32:19 +0000"
     },
     "done": false
+  },
+  "delightful:recipes/knives/nether_quartz_knife": {
+    "criteria": {
+      "has_gems/quartz": "2024-12-23 15:45:19 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-23 15:44:22 +0000"
+    },
+    "done": true
   },
   "dungeons_enhanced:root": {
     "criteria": {
@@ -6760,6 +6808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-23 15:45:19 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_shovel_repairing": {
     "criteria": {
       "has_iron_shovel": "2024-12-23 13:29:35 +0000"
@@ -6790,6 +6844,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-23 15:46:32 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/enchanting_stats": {
     "criteria": {
       "enchanted_item": "2024-12-23 15:27:45 +0000"
@@ -6814,6 +6874,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2024-12-23 15:44:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonsteel_ice_ingot_to_dragonsteel_ice_block": {
     "criteria": {
       "has_dragonsteel_ice_ingot": "2024-12-23 14:21:21 +0000"
@@ -6823,6 +6889,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-23 15:44:22 +0000"
     },
     "done": true
   },
@@ -6877,6 +6949,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-23 14:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-23 15:44:22 +0000"
     },
     "done": true
   },
@@ -6970,9 +7048,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-23 15:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-23 15:45:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_leggings": {
     "criteria": {
       "has_item": "2024-12-23 14:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-23 15:45:19 +0000"
     },
     "done": true
   },
@@ -7003,6 +7099,12 @@
   "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
       "has_item": "2024-12-23 13:28:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2024-12-23 15:45:19 +0000"
     },
     "done": true
   },
@@ -7066,6 +7168,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-23 15:51:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
       "has_item": "2024-12-23 13:28:10 +0000"
@@ -7105,6 +7213,18 @@
   "forbidden_arcanus:recipes/building_blocks/runic_glass": {
     "criteria": {
       "has_rune": "2024-12-23 15:08:00 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2024-12-23 15:45:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2024-12-23 15:45:19 +0000"
     },
     "done": true
   },
@@ -7156,9 +7276,28 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-23 15:45:19 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_expertise": {
+    "criteria": {
+      "fibre_expertise": "2024-12-23 15:42:38 +0000",
+      "wood_expertise": "2024-12-23 15:42:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2024-12-23 14:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-23 15:43:00 +0000"
     },
     "done": true
   },
@@ -7192,15 +7331,39 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-23 15:44:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonsteel_ice_hoe": {
     "criteria": {
       "has_item": "2024-12-23 14:21:21 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-23 15:44:22 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2024-12-23 15:45:19 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/pottage": {
     "criteria": {
       "has_durum": "2024-12-23 14:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-23 15:51:46 +0000"
     },
     "done": true
   },
