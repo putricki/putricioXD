@@ -5532,3 +5532,46 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [23Dec2024 13:57:51.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8477ms or 169 ticks behind
 [23Dec2024 13:58:13.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6790ms or 135 ticks behind
 [23Dec2024 13:58:31.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3332ms or 66 ticks behind
+[23Dec2024 13:58:53.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6669ms or 133 ticks behind
+[23Dec2024 13:59:15.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7214ms or 144 ticks behind
+[23Dec2024 13:59:37.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6487ms or 129 ticks behind
+[23Dec2024 13:59:51.870] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=-42, z=-299}
+[23Dec2024 13:59:59.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7654ms or 153 ticks behind
+[23Dec2024 14:00:25.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10983ms or 219 ticks behind
+[23Dec2024 14:00:52.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11693ms or 233 ticks behind
+[23Dec2024 14:01:04.185] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[23Dec2024 14:01:04.188] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[23Dec2024 14:01:17.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10290ms or 205 ticks behind
+[23Dec2024 14:01:41.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8689ms or 173 ticks behind
+[23Dec2024 14:02:04.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8067ms or 161 ticks behind
+[23Dec2024 14:02:27.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8702ms or 174 ticks behind
+[23Dec2024 14:02:50.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7748ms or 154 ticks behind
+[23Dec2024 14:03:11.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6211ms or 124 ticks behind
+[23Dec2024 14:03:34.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7518ms or 150 ticks behind
+[23Dec2024 14:03:58.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9098ms or 181 ticks behind
+[23Dec2024 14:04:21.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8470ms or 169 ticks behind
+[23Dec2024 14:04:44.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7260ms or 145 ticks behind
+[23Dec2024 14:04:52.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[23Dec2024 14:04:53.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[23Dec2024 14:05:04.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5706ms or 114 ticks behind
+[23Dec2024 14:05:21.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[23Dec2024 14:05:31.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Sea Serpent
+[23Dec2024 14:05:31.253] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ELROMPECLITOS with unique ID travelersbackpack.sponge_23.12.2024-14.05.31.dat
+[23Dec2024 14:05:39.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
+[23Dec2024 14:05:42.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Sea Serpent
+[23Dec2024 14:06:06.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[23Dec2024 14:06:09.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Sea Serpent
+[23Dec2024 14:06:16.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Sea Serpent
+[23Dec2024 14:06:20.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[23Dec2024 14:06:35.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Sea Serpent
+[23Dec2024 14:06:53.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Sea Serpent
+[23Dec2024 14:07:02.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Sea Serpent
+[23Dec2024 14:07:53.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Sea Serpent
+[23Dec2024 14:08:01.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Sea Serpent
+[23Dec2024 14:08:06.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23Dec2024 14:08:27.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[23Dec2024 14:08:31.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Sea Serpent
+[23Dec2024 14:08:31.025] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ELROMPECLITOS with unique ID travelersbackpack.sponge_23.12.2024-14.08.31.dat
+[23Dec2024 14:08:41.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Sea Serpent
+[23Dec2024 14:08:46.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2328ms or 46 ticks behind
+[23Dec2024 14:08:49.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Sea Serpent
