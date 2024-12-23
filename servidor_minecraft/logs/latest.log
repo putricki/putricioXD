@@ -5858,3 +5858,115 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [23Dec2024 16:02:03.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Hoglin
 [23Dec2024 16:02:36.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Imp
 [23Dec2024 16:02:39.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Imp
+[23Dec2024 16:02:46.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[23Dec2024 16:02:58.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Imp
+[23Dec2024 16:02:59.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Imp
+[23Dec2024 16:03:04.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3730ms or 74 ticks behind
+[23Dec2024 16:03:14.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Imp Guard
+[23Dec2024 16:03:27.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Imp
+[23Dec2024 16:03:35.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Piglin
+[23Dec2024 16:03:42.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3588ms or 71 ticks behind
+[23Dec2024 16:04:05.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Demon
+[23Dec2024 16:04:10.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23Dec2024 16:04:12.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Imp
+[23Dec2024 16:04:25.667] [Server thread/ERROR] [ModdingLegacy/blue_skies/]: Blue Skies' player capability wasn't present for ServerPlayer['geotrush'/445, l='ServerLevel[world]', x=-289.30, y=34.75, z=-239.56, removed=KILLED] when doing a progression check for "break". This should be reported if happening consistently!
+[23Dec2024 16:04:58.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Imp
+[23Dec2024 16:05:20.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Timed out
+[23Dec2024 16:05:20.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
+[23Dec2024 16:05:20.529] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
+[23Dec2024 16:05:20.565] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Dec2024 16:05:20.571] [Netty Epoll Server IO #3/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x0000714da1595580.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.mddaa14e$connectivity$lambda$on$0$4(Connection.java:3610) ~[server-1.20.1-20230612.114412-srg.jar%23787!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.mddaa14e$connectivity$lambda$on$1$3(Connection.java:3588) ~[server-1.20.1-20230612.114412-srg.jar%23787!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[23Dec2024 16:05:40.566] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[23Dec2024 16:05:40.608] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[23Dec2024 16:05:40.652] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[23Dec2024 16:05:40.708] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[23Dec2024 16:05:40.770] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[23Dec2024 16:05:40.821] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[23Dec2024 16:05:40.871] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[23Dec2024 16:05:40.928] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[23Dec2024 16:05:40.959] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[23Dec2024 16:05:41.016] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[23Dec2024 16:05:41.059] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[23Dec2024 16:05:41.107] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[23Dec2024 16:05:49.652] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[23Dec2024 16:05:49.653] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[23Dec2024 16:05:49.666] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[23Dec2024 16:05:50.327] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[23Dec2024 16:05:50.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geotrush[/100.84.125.88:54540] logged in with entity id 103111 at (452.5, 66.0, 86.5)
+[23Dec2024 16:05:50.844] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to geotrush
+[23Dec2024 16:05:50.844] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to geotrush
+[23Dec2024 16:05:50.845] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to geotrush
+[23Dec2024 16:05:50.845] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to geotrush
+[23Dec2024 16:05:50.847] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to geotrush
+[23Dec2024 16:05:50.849] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to geotrush
+[23Dec2024 16:05:50.849] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to geotrush
+[23Dec2024 16:05:50.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush joined the game
+[23Dec2024 16:05:51.019] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to geotrush
+[23Dec2024 16:05:51.061] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[23Dec2024 16:05:51.069] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: geotrush
+[23Dec2024 16:05:51.091] [Server thread/INFO] [Jade/]: Syncing config to geotrush (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[23Dec2024 16:05:51.337] [Server thread/INFO] [survive/]: Syncing All Data To Client (geotrush)
+[23Dec2024 16:05:51.338] [Server thread/INFO] [survive/]: Syncing Armor Data
+[23Dec2024 16:05:51.338] [Server thread/INFO] [survive/]: Done with Armors
+[23Dec2024 16:05:51.339] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[23Dec2024 16:05:51.340] [Server thread/INFO] [survive/]: Done with Fluids
+[23Dec2024 16:05:51.340] [Server thread/INFO] [survive/]: Syncing Biome Data
+[23Dec2024 16:05:51.341] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[23Dec2024 16:05:52.999] [Server thread/INFO] [ping-wheel/]: Channel update: geotrush -> default
+[23Dec2024 16:05:53.000] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[23Dec2024 16:06:10.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23Dec2024 16:06:27.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[23Dec2024 16:06:47.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Demon
+[23Dec2024 16:06:47.944] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ELROMPECLITOS with unique ID travelersbackpack.sponge_23.12.2024-16.06.47.dat
+[23Dec2024 16:06:57.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Dec2024 16:07:04.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Demon
+[23Dec2024 16:07:13.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -368.500000, 38.000000, -294.500000]
+[23Dec2024 16:07:16.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3734ms or 74 ticks behind
+[23Dec2024 16:07:30.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Demon
+[23Dec2024 16:07:36.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to -368.500000, 38.000000, -294.500000]
+[23Dec2024 16:07:44.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[23Dec2024 16:07:51.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Demon
+[23Dec2024 16:08:07.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Demon
+[23Dec2024 16:08:26.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Demon
+[23Dec2024 16:09:19.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Timed out
+[23Dec2024 16:09:19.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
+[23Dec2024 16:09:19.074] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
+[23Dec2024 16:09:19.185] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[23Dec2024 16:09:46.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Demon
+[23Dec2024 16:10:42.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Demon
+[23Dec2024 16:10:42.852] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ELROMPECLITOS with unique ID travelersbackpack.sponge_23.12.2024-16.10.42.dat
+[23Dec2024 16:10:42.860] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Dec2024 16:10:42.860] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[23Dec2024 16:10:42.861] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[23Dec2024 16:10:42.861] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Dec2024 16:10:42.861] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[23Dec2024 16:11:16.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Imp
+[23Dec2024 16:12:04.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Demon
+[23Dec2024 16:12:32.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Demon
