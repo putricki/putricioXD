@@ -5574,3 +5574,21 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [23Dec2024 19:25:20.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
 [23Dec2024 19:25:20.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
 [23Dec2024 19:26:11.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[23Dec2024 19:27:36.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[23Dec2024 19:27:43.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> tome of scrapping
+[23Dec2024 19:28:45.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[23Dec2024 19:30:00.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[23Dec2024 19:30:19.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3873ms or 77 ticks behind
+[23Dec2024 19:30:37.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[23Dec2024 19:31:32.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Spooky Scary Skeleton]
+[23Dec2024 19:32:40.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[23Dec2024 19:33:19.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[23Dec2024 19:33:40.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [A Seedy Place]
+[23Dec2024 19:34:14.475] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Ronny'/10, l='ServerLevel[world]', x=469.00, y=64.00, z=52.30] died, message: 'Ronny was slain by Acolyte'
+[23Dec2024 19:34:14.477] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ronny'/10, l='ServerLevel[world]', x=469.00, y=64.00, z=52.30] died: Ronny was slain by Acolyte
+[23Dec2024 19:34:18.427] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Taylor'/11, l='ServerLevel[world]', x=470.24, y=64.25, z=60.33] died, message: 'Taylor was slain by Acolyte'
+[23Dec2024 19:34:18.428] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Taylor'/11, l='ServerLevel[world]', x=470.24, y=64.25, z=60.33] died: Taylor was slain by Acolyte
+[23Dec2024 19:34:18.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[23Dec2024 19:36:36.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELROMPECLITOS lost connection: Timed out
+[23Dec2024 19:36:36.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS left the game
+[23Dec2024 19:36:36.691] [Server thread/INFO] [survive/]: Removing Client (ELROMPECLITOS) From Survive Data Sync List
