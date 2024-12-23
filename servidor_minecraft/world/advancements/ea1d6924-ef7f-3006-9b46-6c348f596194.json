@@ -8373,6 +8373,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-23 14:34:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_blue_chestplate": {
     "criteria": {
       "has_item": "2024-12-23 14:15:33 +0000"
@@ -8394,6 +8400,12 @@
   "iceandfire:recipes/combat/dragonsteel_ice_leggings": {
     "criteria": {
       "has_item": "2024-12-23 13:29:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2024-12-23 14:34:29 +0000"
     },
     "done": true
   },
@@ -8457,6 +8469,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_from_smelting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-23 14:34:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonsteel_ice_boots": {
     "criteria": {
       "has_item": "2024-12-23 13:29:03 +0000"
@@ -8478,6 +8496,12 @@
   "betterend:recipes/building_blocks/lacugrove_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2024-12-23 14:34:29 +0000"
     },
     "done": true
   },
@@ -8607,9 +8631,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-12-23 14:26:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-23 14:34:29 +0000"
     },
     "done": true
   },
@@ -8652,6 +8688,12 @@
   "betterend:recipes/misc/lure_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2024-12-23 14:34:29 +0000"
     },
     "done": true
   },
@@ -8769,9 +8811,27 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/chiseled_turquoise_stonebrick_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-23 14:34:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
     "criteria": {
       "has_sea_serpent_scales_blue": "2024-12-23 14:15:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2024-12-23 14:34:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-23 14:34:29 +0000"
     },
     "done": true
   },
@@ -8802,6 +8862,12 @@
   "minecraft:recipes/building_blocks/crystal_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-23 14:34:29 +0000"
     },
     "done": true
   },
@@ -8871,6 +8937,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_from_smelting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-23 14:34:29 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/feather_falling_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
@@ -8916,6 +8988,12 @@
   "blue_skies:recipes/building_blocks/comet_bookshelf": {
     "criteria": {
       "has_item": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-23 14:34:29 +0000"
     },
     "done": true
   },
@@ -8985,6 +9063,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-23 14:34:29 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/bane_of_arthropods_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
@@ -9018,6 +9102,18 @@
   "betterend:recipes/building_blocks/jellyshroom_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2024-12-23 14:34:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2024-12-23 14:34:29 +0000"
     },
     "done": true
   },
@@ -9066,6 +9162,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-23 13:32:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2024-12-23 14:34:29 +0000"
     },
     "done": true
   },
