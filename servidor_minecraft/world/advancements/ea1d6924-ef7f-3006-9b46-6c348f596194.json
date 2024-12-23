@@ -283,7 +283,8 @@
       "minecraft:lush_caves": "2024-12-20 19:26:44 +0000",
       "minecraft:ocean": "2024-12-23 14:45:38 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 16:45:02 +0000",
-      "minecraft:deep_dark": "2024-12-20 17:31:00 +0000"
+      "minecraft:deep_dark": "2024-12-20 17:31:00 +0000",
+      "minecraft:plains": "2024-12-23 18:58:06 +0000"
     },
     "done": false
   },
@@ -10468,6 +10469,30 @@
   "travelersbackpack:recipes/misc/nether": {
     "criteria": {
       "has_nether_wart": "2024-12-23 18:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-23 18:58:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 18:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-23 18:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-23 18:58:58 +0000"
     },
     "done": true
   },
