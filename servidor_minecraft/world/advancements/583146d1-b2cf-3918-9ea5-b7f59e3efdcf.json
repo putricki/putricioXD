@@ -2868,6 +2868,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2024-12-23 15:23:42 +0000",
       "wheat": "2024-12-20 16:52:49 +0000",
       "carrot": "2024-12-20 16:53:12 +0000"
     },
@@ -6513,6 +6514,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2024-12-23 15:08:04 +0000"
@@ -6579,6 +6592,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_codex": {
     "criteria": {
       "cave_codex": "2024-12-23 15:15:30 +0000"
@@ -6615,6 +6634,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
       "has_diamond_pickaxe": "2024-12-23 15:03:43 +0000"
@@ -6639,6 +6664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/rune_block_from_rune": {
     "criteria": {
       "has_rune": "2024-12-23 15:08:00 +0000"
@@ -6657,6 +6688,12 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/stone_column": {
+    "criteria": {
+      "has_item": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
       "entered_castle": "2024-12-23 13:32:19 +0000"
@@ -6666,6 +6703,12 @@
   "dungeons_enhanced:root": {
     "criteria": {
       "entered_castle": "2024-12-23 13:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-23 15:31:17 +0000"
     },
     "done": true
   },
@@ -6687,6 +6730,12 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/stone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2024-12-23 13:28:10 +0000"
@@ -6696,6 +6745,12 @@
   "supplementaries:husbandry/sus_stew": {
     "criteria": {
       "stew": "2024-12-23 13:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-23 15:31:17 +0000"
     },
     "done": true
   },
@@ -6711,9 +6766,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
     "criteria": {
       "has_chain": "2024-12-23 13:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2024-12-23 15:27:45 +0000"
     },
     "done": true
   },
@@ -6741,6 +6814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-23 15:16:11 +0000"
@@ -6762,6 +6841,12 @@
   "betterend:recipes/decorations/end_lotus_hanging_sign": {
     "criteria": {
       "has_chain": "2024-12-23 13:28:10 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/stone_pillar": {
+    "criteria": {
+      "has_stone": "2024-12-23 15:31:17 +0000"
     },
     "done": true
   },
@@ -6795,6 +6880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/novelty_hat": {
     "criteria": {
       "sopa_de_macaco": "2024-12-23 13:25:38 +0000"
@@ -6813,9 +6904,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonsteel_ice_helmet": {
     "criteria": {
       "has_item": "2024-12-23 14:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-23 15:31:17 +0000"
     },
     "done": true
   },
@@ -6830,6 +6933,18 @@
       "entered_castle": "2024-12-23 13:32:19 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
   },
   "apotheosis:enchanting/enchanter": {
     "criteria": {
@@ -6885,6 +7000,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_evoker_trophy": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
       "has_item": "2024-12-23 13:45:22 +0000"
@@ -6897,9 +7018,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_pillager_trophy": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/andesite_pedestal": {
     "criteria": {
       "has_polished_andesite": "2024-12-23 14:22:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_stone": "2024-12-23 15:31:17 +0000"
     },
     "done": true
   },
@@ -6912,6 +7045,12 @@
   "skilltree:recipes/misc/golden_ring": {
     "criteria": {
       "has_nuggets_gold": "2024-12-23 13:45:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_stone_corner_trim": "2024-12-23 15:31:17 +0000"
     },
     "done": true
   },
@@ -6975,6 +7114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2024-12-23 15:08:25 +0000"
@@ -7011,9 +7156,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_witch_trophy": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_red_chestplate": {
     "criteria": {
       "has_item": "2024-12-23 14:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-23 15:31:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_stone_pillar_trim": "2024-12-23 15:31:17 +0000"
     },
     "done": true
   },

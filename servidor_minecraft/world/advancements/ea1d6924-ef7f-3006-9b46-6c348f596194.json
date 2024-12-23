@@ -3483,6 +3483,7 @@
       "minecraft:vindicator": "2024-12-20 19:33:19 +0000",
       "minecraft:spider": "2024-12-23 14:15:15 +0000",
       "minecraft:creeper": "2024-12-20 18:42:36 +0000",
+      "quark:forgotten": "2024-12-23 15:23:40 +0000",
       "minecraft:cave_spider": "2024-12-20 17:27:10 +0000",
       "minecraft:stray": "2024-12-20 17:19:35 +0000",
       "minecraft:zombie": "2024-12-20 17:14:28 +0000",
@@ -8619,6 +8620,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-23 15:30:18 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
@@ -9300,6 +9307,12 @@
   "iceandfire:recipes/combat/tide_blue_helmet": {
     "criteria": {
       "has_item": "2024-12-23 14:15:33 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-23 15:23:40 +0000"
     },
     "done": true
   },
