@@ -5688,3 +5688,22 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [23Dec2024 15:00:08.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7102ms or 142 ticks behind
 [23Dec2024 15:00:29.239] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [23Dec2024 15:00:29.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6328ms or 126 ticks behind
+[23Dec2024 15:00:54.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9280ms or 185 ticks behind
+[23Dec2024 15:01:11.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2580ms or 51 ticks behind
+[23Dec2024 15:01:14.389] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[23Dec2024 15:01:34.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[23Dec2024 15:01:53.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3724ms or 74 ticks behind
+[23Dec2024 15:02:12.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3739ms or 74 ticks behind
+[23Dec2024 15:02:30.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3841ms or 76 ticks behind
+[23Dec2024 15:02:37.865] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[23Dec2024 15:02:52.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6259ms or 125 ticks behind
+[23Dec2024 15:03:17.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10299ms or 205 ticks behind
+[23Dec2024 15:03:40.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23Dec2024 15:04:11.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[23Dec2024 15:04:55.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[23Dec2024 15:05:58.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[23Dec2024 15:07:47.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Alex's Caves]
+[23Dec2024 15:08:03.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[23Dec2024 15:08:04.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Alex's Caves]
+[23Dec2024 15:08:22.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Once Upon a Cave]
+[23Dec2024 15:08:25.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [It Belongs in a Museum]

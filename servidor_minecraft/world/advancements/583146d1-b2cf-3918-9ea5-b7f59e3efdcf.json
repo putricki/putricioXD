@@ -6513,6 +6513,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-23 15:08:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-23 13:56:26 +0000"
@@ -6597,6 +6603,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-23 15:03:43 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_hanging_sign": {
     "criteria": {
       "has_chain": "2024-12-23 13:28:10 +0000"
@@ -6612,6 +6624,12 @@
   "betterend:recipes/misc/infusion_pedestal": {
     "criteria": {
       "has_obsidian": "2024-12-23 14:48:04 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/rune_block_from_rune": {
+    "criteria": {
+      "has_rune": "2024-12-23 15:08:00 +0000"
     },
     "done": true
   },
@@ -6693,6 +6711,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2024-12-23 15:01:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonsteel_ice_ingot_to_dragonsteel_ice_block": {
     "criteria": {
       "has_dragonsteel_ice_ingot": "2024-12-23 14:21:21 +0000"
@@ -6738,6 +6762,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-23 14:48:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2024-12-23 15:02:46 +0000"
     },
     "done": true
   },
@@ -6867,6 +6897,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/test_tube": {
+    "criteria": {
+      "has_item": "2024-12-23 15:08:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_sapphire_leggings": {
     "criteria": {
       "has_item": "2024-12-23 13:42:23 +0000"
@@ -6891,6 +6927,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/building_blocks/runic_glass": {
+    "criteria": {
+      "has_rune": "2024-12-23 15:08:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-23 14:56:36 +0000"
@@ -6900,6 +6942,18 @@
   "minecolonies:recipes/food/veggie_ravioli": {
     "criteria": {
       "has_durum": "2024-12-23 14:13:32 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/dark_rune": {
+    "criteria": {
+      "has_rune": "2024-12-23 15:08:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-23 15:08:25 +0000"
     },
     "done": true
   },
@@ -6924,6 +6978,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2024-12-23 14:22:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-23 15:08:22 +0000"
     },
     "done": true
   },
