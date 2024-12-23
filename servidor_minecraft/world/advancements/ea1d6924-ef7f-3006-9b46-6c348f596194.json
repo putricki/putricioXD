@@ -3469,6 +3469,7 @@
       "minecraft:pillager": "2024-12-20 17:46:44 +0000",
       "minecraft:skeleton": "2024-12-20 17:20:21 +0000",
       "minecraft:vindicator": "2024-12-20 19:33:19 +0000",
+      "minecraft:spider": "2024-12-23 14:15:15 +0000",
       "minecraft:creeper": "2024-12-20 18:42:36 +0000",
       "minecraft:cave_spider": "2024-12-20 17:27:10 +0000",
       "minecraft:stray": "2024-12-20 17:19:35 +0000",
@@ -8366,6 +8367,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-23 14:15:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-23 14:15:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
@@ -8405,6 +8418,18 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-23 13:32:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2024-12-23 14:15:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-23 14:15:14 +0000"
     },
     "done": true
   },
@@ -8558,6 +8583,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-23 14:15:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonsteel_ice_chestplate": {
     "criteria": {
       "has_item": "2024-12-23 13:29:03 +0000"
@@ -8579,6 +8610,12 @@
   "aether:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-12-23 14:15:45 +0000"
     },
     "done": true
   },
@@ -8633,6 +8670,12 @@
   "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-12-23 14:15:45 +0000"
     },
     "done": true
   },
@@ -8726,6 +8769,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2024-12-23 14:15:33 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/pythadendron_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
@@ -8741,6 +8790,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-12-23 13:32:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-23 14:15:55 +0000"
     },
     "done": true
   },
@@ -8810,6 +8865,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-23 14:15:33 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/feather_falling_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
@@ -8834,6 +8895,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2024-12-23 14:15:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/globe_sepia": {
     "criteria": {
       "has_antique_ink": "2024-12-23 13:30:56 +0000"
@@ -8849,6 +8916,12 @@
   "blue_skies:recipes/building_blocks/comet_bookshelf": {
     "criteria": {
       "has_item": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-23 14:15:33 +0000"
     },
     "done": true
   },
@@ -8957,6 +9030,12 @@
   "iceandfire:recipes/tools/dragonsteel_ice_hoe": {
     "criteria": {
       "has_item": "2024-12-23 13:29:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2024-12-23 14:15:55 +0000"
     },
     "done": true
   },

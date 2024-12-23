@@ -6505,6 +6505,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "steel": "2024-12-23 14:21:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-23 13:56:26 +0000"
@@ -6514,6 +6520,18 @@
   "betterend:recipes/decorations/lucernia_hanging_sign": {
     "criteria": {
       "has_chain": "2024-12-23 13:28:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_leggings": {
+    "criteria": {
+      "has_item": "2024-12-23 14:21:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_shovel": {
+    "criteria": {
+      "has_item": "2024-12-23 14:21:21 +0000"
     },
     "done": true
   },
@@ -6529,9 +6547,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-23 14:22:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2024-12-23 13:28:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-23 14:15:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_sword": {
+    "criteria": {
+      "has_item": "2024-12-23 14:21:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_boots": {
+    "criteria": {
+      "has_item": "2024-12-23 14:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-23 14:22:33 +0000"
     },
     "done": true
   },
@@ -6577,6 +6625,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonsteel_ice_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-23 14:21:21 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2024-12-23 13:28:10 +0000"
@@ -6607,15 +6661,57 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2024-12-23 14:15:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-12-23 14:15:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_ice_ingot_to_dragonsteel_ice_block": {
+    "criteria": {
+      "has_dragonsteel_ice_ingot": "2024-12-23 14:21:21 +0000"
+    },
+    "done": true
+  },
   "dungeons_enhanced:wars_and_kingdoms": {
     "criteria": {
       "entered_castle": "2024-12-23 13:32:19 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonsteel_ice_axe": {
+    "criteria": {
+      "has_item": "2024-12-23 14:21:21 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_hanging_sign": {
     "criteria": {
       "has_chain": "2024-12-23 13:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-23 14:22:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-12-23 14:15:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-23 14:21:21 +0000"
     },
     "done": true
   },
@@ -6628,6 +6724,12 @@
   "minecolonies:recipes/food/pasta_plain": {
     "criteria": {
       "has_durum": "2024-12-23 14:13:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_helmet": {
+    "criteria": {
+      "has_item": "2024-12-23 14:21:21 +0000"
     },
     "done": true
   },
@@ -6649,9 +6751,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-23 14:15:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_sapphire_chestplate": {
     "criteria": {
       "has_item": "2024-12-23 13:42:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-23 14:15:56 +0000"
     },
     "done": true
   },
@@ -6676,6 +6790,12 @@
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2024-12-23 13:28:10 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/andesite_pedestal": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-23 14:22:33 +0000"
     },
     "done": true
   },
@@ -6745,6 +6865,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-23 14:22:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-23 14:15:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_hoe": {
+    "criteria": {
+      "has_item": "2024-12-23 14:21:21 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/pottage": {
     "criteria": {
       "has_durum": "2024-12-23 14:13:32 +0000"
@@ -6760,6 +6898,12 @@
   "betterend:recipes/decorations/pythadendron_hanging_sign": {
     "criteria": {
       "has_chain": "2024-12-23 13:28:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-23 14:15:56 +0000"
     },
     "done": true
   },
