@@ -5409,3 +5409,19 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [23Dec2024 17:55:53.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
 [23Dec2024 17:56:12.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3956ms or 79 ticks behind
 [23Dec2024 17:56:54.349] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element betterfortresses:fortress took 6 ms
+[23Dec2024 17:59:00.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[23Dec2024 17:59:02.471] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element betterfortresses:fortress took 0 ms
+[23Dec2024 17:59:19.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4155ms or 83 ticks behind
+[23Dec2024 17:59:37.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3092ms or 61 ticks behind
+[23Dec2024 18:00:03.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[23Dec2024 18:00:39.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[23Dec2024 18:00:53.182] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[23Dec2024 18:01:12.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [A Terrible Fortress]
+[23Dec2024 18:03:41.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[23Dec2024 18:04:36.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[23Dec2024 18:05:06.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[23Dec2024 18:05:38.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[23Dec2024 18:06:08.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[23Dec2024 18:06:43.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Wither Or Not...]
+[23Dec2024 18:07:06.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[23Dec2024 18:07:35.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Stare Into Despair]

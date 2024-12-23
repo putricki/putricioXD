@@ -300,10 +300,12 @@
       "muskeg": "2024-12-20 20:15:02 +0000",
       "highland": "2024-12-20 17:02:01 +0000",
       "cold_desert": "2024-12-20 20:06:38 +0000",
+      "withered_abyss": "2024-12-23 18:03:33 +0000",
       "field": "2024-12-20 16:51:24 +0000",
       "coniferous_forest": "2024-12-20 16:51:38 +0000",
       "forested_field": "2024-12-20 16:36:07 +0000",
       "spider_nest": "2024-12-20 20:05:01 +0000",
+      "visceral_heap": "2024-12-23 18:00:16 +0000",
       "aspen_glade": "2024-12-23 14:04:10 +0000",
       "seasonal_forest": "2024-12-20 17:23:03 +0000",
       "fir_clearing": "2024-12-20 20:05:23 +0000",
@@ -3357,13 +3359,17 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-20 17:25:12 +0000",
+      "minecraft:blaze": "2024-12-23 18:04:34 +0000",
       "minecraft:skeleton": "2024-12-20 17:02:41 +0000",
+      "minecraft:ghast": "2024-12-23 18:00:32 +0000",
       "minecraft:hoglin": "2024-12-23 15:52:50 +0000",
       "minecraft:vindicator": "2024-12-20 18:54:55 +0000",
       "minecraft:piglin_brute": "2024-12-23 16:00:11 +0000",
       "minecraft:spider": "2024-12-23 13:24:39 +0000",
       "minecraft:creeper": "2024-12-20 20:11:30 +0000",
       "minecraft:evoker": "2024-12-20 19:33:40 +0000",
+      "minecraft:zombified_piglin": "2024-12-23 18:05:09 +0000",
+      "minecraft:wither_skeleton": "2024-12-23 18:03:45 +0000",
       "minecraft:piglin": "2024-12-23 15:52:23 +0000",
       "minecraft:silverfish": "2024-12-20 17:08:31 +0000",
       "minecraft:stray": "2024-12-23 13:54:55 +0000",
@@ -7619,6 +7625,114 @@
   "apotheosis:affix/epic": {
     "criteria": {
       "sword": "2024-12-23 16:00:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-23 17:57:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-23 17:57:41 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-23 18:04:53 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-23 17:57:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2024-12-23 18:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-23 17:58:50 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_helmet": {
+    "criteria": {
+      "has_item": "2024-12-23 18:04:53 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/eyebomination": {
+    "criteria": {
+      "has_item": "2024-12-23 17:57:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2024-12-23 17:57:40 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_leggings": {
+    "criteria": {
+      "has_item": "2024-12-23 18:04:53 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/solar_crystal_boots": {
+    "criteria": {
+      "has_item": "2024-12-23 18:04:53 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2024-12-23 17:57:40 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-23 17:57:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2024-12-23 17:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-23 17:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-12-23 18:01:12 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/ender_nectar": {
+    "criteria": {
+      "has_ender_eye": "2024-12-23 17:57:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-23 17:57:41 +0000"
     },
     "done": true
   },
