@@ -7827,5 +7827,11 @@
     },
     "done": true
   },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2024-12-23 19:15:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

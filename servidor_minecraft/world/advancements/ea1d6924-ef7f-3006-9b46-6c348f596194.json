@@ -10550,6 +10550,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-23 19:23:49 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/misc/blockconstructiontape": {
     "criteria": {
       "has_wool": "2024-12-23 19:12:39 +0000"
