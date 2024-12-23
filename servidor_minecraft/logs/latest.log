@@ -5439,3 +5439,9 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [23Dec2024 18:15:37.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [A Terrible Fortress]
 [23Dec2024 18:16:46.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
 [23Dec2024 18:17:05.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Spooky Scary Skeleton]
+[23Dec2024 18:18:57.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was burnt to a crisp whilst fighting Blaze
+[23Dec2024 18:20:17.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Straddle My Ol' Saddle]
+[23Dec2024 18:20:21.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[23Dec2024 18:24:11.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Wither Skeleton
+[23Dec2024 18:24:11.421] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ELROMPECLITOS with unique ID travelersbackpack.sponge_23.12.2024-18.24.11.dat
+[23Dec2024 18:24:24.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
