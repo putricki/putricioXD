@@ -357,6 +357,7 @@
     "criteria": {
       "muskeg": "2024-12-20 20:14:56 +0000",
       "bayou": "2024-12-23 15:01:26 +0000",
+      "erupting_inferno": "2024-12-23 15:40:56 +0000",
       "floodplain": "2024-12-23 15:01:06 +0000",
       "marsh": "2024-12-23 14:55:00 +0000",
       "mystic_grove": "2024-12-23 14:59:58 +0000",
@@ -8380,6 +8381,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-23 15:37:06 +0000",
+      "minecraft:basalt_deltas": "2024-12-23 15:40:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-23 13:32:55 +0000"
@@ -8494,6 +8502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-23 15:37:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-23 13:32:55 +0000"
@@ -8584,6 +8598,12 @@
     },
     "done": true
   },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2024-12-23 15:37:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/lacugrove_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
@@ -8617,6 +8637,12 @@
   "handcrafted:recipes/misc/birch_desk": {
     "criteria": {
       "has_birch_desk": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-23 15:37:44 +0000"
     },
     "done": true
   },
@@ -8686,9 +8712,21 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-23 15:37:03 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/dusk_bookshelf": {
     "criteria": {
       "has_item": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "georenouveau:recipes/misc/quartz_geore_dowsing_rod": {
+    "criteria": {
+      "has_ore": "2024-12-23 15:37:27 +0000"
     },
     "done": true
   },
@@ -8707,6 +8745,12 @@
   "betterend:recipes/misc/efficiency_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/nether_quartz_knife": {
+    "criteria": {
+      "has_gems/quartz": "2024-12-23 15:37:27 +0000"
     },
     "done": true
   },
@@ -8758,6 +8802,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "supplementaries:blackboard_white": "2024-12-23 15:37:27 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonsteel_ice_chestplate": {
     "criteria": {
       "has_item": "2024-12-23 13:29:03 +0000"
@@ -8779,6 +8829,12 @@
   "minecraft:recipes/building_blocks/jellyshroom_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-23 15:37:27 +0000"
     },
     "done": true
   },
@@ -9010,9 +9066,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-23 15:37:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-23 15:37:27 +0000"
     },
     "done": true
   },
@@ -9031,6 +9099,12 @@
   "betterend:recipes/misc/riptide_book": {
     "criteria": {
       "has_item.minecraft.book": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-23 15:37:27 +0000"
     },
     "done": true
   },
@@ -9085,6 +9159,12 @@
   "handcrafted:recipes/misc/birch_side_table": {
     "criteria": {
       "has_birch_side_table": "2024-12-23 14:43:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2024-12-23 15:37:27 +0000"
     },
     "done": true
   },
@@ -9280,9 +9360,21 @@
     },
     "done": true
   },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2024-12-23 15:37:27 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/comet_bookshelf": {
     "criteria": {
       "has_item": "2024-12-23 13:58:57 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2024-12-23 15:37:27 +0000"
     },
     "done": true
   },
@@ -9388,6 +9480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-23 15:37:27 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stonebrick": {
     "criteria": {
       "has_item": "2024-12-23 14:34:29 +0000"
@@ -9421,6 +9519,12 @@
   "dungeons_enhanced:chilled_halls": {
     "criteria": {
       "entered_ice_pit": "2024-12-23 13:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-23 15:37:03 +0000"
     },
     "done": true
   },
@@ -9463,6 +9567,12 @@
   "iceandfire:recipes/tools/dragonsteel_ice_hoe": {
     "criteria": {
       "has_item": "2024-12-23 13:29:03 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2024-12-23 15:37:27 +0000"
     },
     "done": true
   },
