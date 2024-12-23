@@ -7731,6 +7731,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-23 18:37:10 +0000"
+    },
+    "done": true
+  },
   "endrem:main/eyes_recipe": {
     "criteria": {
       "eyes": "2024-12-23 17:57:40 +0000"
