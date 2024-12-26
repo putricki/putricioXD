@@ -293,8 +293,10 @@
       "minecraft:ocean": "2024-12-23 14:45:38 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 16:45:02 +0000",
       "minecraft:snowy_beach": "2024-12-26 19:03:06 +0000",
+      "minecraft:windswept_savanna": "2024-12-26 21:36:34 +0000",
       "minecraft:frozen_peaks": "2024-12-26 18:44:38 +0000",
       "minecraft:deep_dark": "2024-12-20 17:31:00 +0000",
+      "minecraft:savanna": "2024-12-26 21:36:46 +0000",
       "minecraft:plains": "2024-12-23 18:58:06 +0000"
     },
     "done": false
@@ -378,6 +380,7 @@
       "withered_abyss": "2024-12-23 15:57:17 +0000",
       "field": "2024-12-20 16:48:47 +0000",
       "overgrown_greens": "2024-12-23 14:52:30 +0000",
+      "mediterranean_forest": "2024-12-26 21:38:27 +0000",
       "coniferous_forest": "2024-12-20 16:51:29 +0000",
       "forested_field": "2024-12-20 16:41:48 +0000",
       "spider_nest": "2024-12-23 13:43:22 +0000",
@@ -10666,6 +10669,12 @@
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_planks": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2024-12-26 21:37:25 +0000"
     },
     "done": true
   },
