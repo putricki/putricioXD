@@ -8154,6 +8154,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2024-12-26 20:28:38 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/dark_oak_beam": {
     "criteria": {
       "has_stripped_log": "2024-12-26 18:33:48 +0000"
