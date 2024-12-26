@@ -269,6 +269,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-20 16:37:22 +0000",
       "minecraft:taiga": "2024-12-20 19:40:07 +0000",
       "minecraft:frozen_river": "2024-12-20 20:05:18 +0000",
+      "minecraft:cherry_grove": "2024-12-26 18:35:12 +0000",
       "minecraft:beach": "2024-12-23 14:47:05 +0000",
       "minecraft:dark_forest": "2024-12-23 14:52:19 +0000",
       "minecraft:mangrove_swamp": "2024-12-23 15:02:21 +0000",
@@ -281,6 +282,7 @@
       "minecraft:cold_ocean": "2024-12-20 17:00:00 +0000",
       "minecraft:forest": "2024-12-20 19:17:43 +0000",
       "minecraft:lush_caves": "2024-12-20 19:26:44 +0000",
+      "minecraft:ice_spikes": "2024-12-26 18:33:59 +0000",
       "minecraft:ocean": "2024-12-23 14:45:38 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 16:45:02 +0000",
       "minecraft:deep_dark": "2024-12-20 17:31:00 +0000",
@@ -10589,6 +10591,18 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "supplementaries:flax": "2024-12-23 19:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-26 18:25:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2024-12-26 18:25:20 +0000"
     },
     "done": true
   },
