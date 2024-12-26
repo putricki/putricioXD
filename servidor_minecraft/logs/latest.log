@@ -7146,3 +7146,11 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [26Dec2024 19:45:37.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [26Dec2024 19:46:09.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
 [26Dec2024 19:46:42.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[26Dec2024 19:51:02.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[26Dec2024 19:51:32.205] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at 12998 -58 -9115 in 1s
+[26Dec2024 19:52:54.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[26Dec2024 19:53:25.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[26Dec2024 19:55:06.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Perfectly Balanced]
+[26Dec2024 19:55:35.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Warm Inside]
+[26Dec2024 19:58:25.034] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Olin'/305, l='ServerLevel[world]', x=372.24, y=57.77, z=71.29] died, message: 'Olin was slain by Zombie Brute'
+[26Dec2024 19:58:25.035] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Olin'/305, l='ServerLevel[world]', x=372.24, y=57.77, z=71.29] died: Olin was slain by Zombie Brute
