@@ -7154,3 +7154,26 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [26Dec2024 19:55:35.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Warm Inside]
 [26Dec2024 19:58:25.034] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Olin'/305, l='ServerLevel[world]', x=372.24, y=57.77, z=71.29] died, message: 'Olin was slain by Zombie Brute'
 [26Dec2024 19:58:25.035] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Olin'/305, l='ServerLevel[world]', x=372.24, y=57.77, z=71.29] died: Olin was slain by Zombie Brute
+[26Dec2024 20:01:06.847] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[26Dec2024 20:01:06.848] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[26Dec2024 20:02:20.933] [Worker-Main-2/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[26Dec2024 20:02:20.969] [Worker-Main-2/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 36ms
+[26Dec2024 20:02:20.973] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[26Dec2024 20:02:20.973] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[26Dec2024 20:02:20.973] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[26Dec2024 20:02:40.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[26Dec2024 20:03:50.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was killed by Corpse Warlock using magic
+[26Dec2024 20:04:04.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to 75.500000, 54.000000, 115.500000]
+[26Dec2024 20:04:13.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[26Dec2024 20:04:48.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was doomed to fall by Corpse Warlock
+[26Dec2024 20:05:10.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[26Dec2024 20:07:33.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[26Dec2024 20:08:15.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[26Dec2024 20:08:19.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Piglin Brute
+[26Dec2024 20:08:23.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[26Dec2024 20:08:43.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to 80.500000, 75.000000, 155.500000]
+[26Dec2024 20:09:06.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Piglin Brute
+[26Dec2024 20:09:12.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[26Dec2024 20:09:27.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[26Dec2024 20:09:29.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[26Dec2024 20:09:46.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Piglin Brute
