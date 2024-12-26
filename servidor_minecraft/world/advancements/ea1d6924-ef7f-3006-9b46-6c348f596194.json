@@ -271,6 +271,7 @@
       "minecraft:taiga": "2024-12-20 19:40:07 +0000",
       "minecraft:frozen_river": "2024-12-20 20:05:18 +0000",
       "minecraft:cherry_grove": "2024-12-26 18:35:12 +0000",
+      "minecraft:windswept_hills": "2024-12-26 19:29:11 +0000",
       "minecraft:beach": "2024-12-23 14:47:05 +0000",
       "minecraft:dark_forest": "2024-12-23 14:52:19 +0000",
       "minecraft:mangrove_swamp": "2024-12-23 15:02:21 +0000",
@@ -288,6 +289,7 @@
       "minecraft:ice_spikes": "2024-12-26 18:33:59 +0000",
       "minecraft:frozen_ocean": "2024-12-26 18:59:11 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-26 18:56:48 +0000",
+      "minecraft:windswept_forest": "2024-12-26 19:31:27 +0000",
       "minecraft:ocean": "2024-12-23 14:45:38 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 16:45:02 +0000",
       "minecraft:snowy_beach": "2024-12-26 19:03:06 +0000",
@@ -10778,6 +10780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-26 19:34:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_green_boots": {
     "criteria": {
       "has_item": "2024-12-26 18:55:38 +0000"
@@ -10841,6 +10849,12 @@
   "iceandfire:recipes/combat/tide_green_leggings": {
     "criteria": {
       "has_item": "2024-12-26 18:55:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/compacted_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-26 19:34:41 +0000"
     },
     "done": true
   },
