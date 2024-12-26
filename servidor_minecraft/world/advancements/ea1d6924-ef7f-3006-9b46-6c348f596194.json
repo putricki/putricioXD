@@ -1312,6 +1312,7 @@
     "criteria": {
       "baked_potato": "2024-12-20 19:34:32 +0000",
       "apple": "2024-12-20 16:48:46 +0000",
+      "cooked_cod": "2024-12-26 21:00:49 +0000",
       "bread": "2024-12-20 17:01:48 +0000",
       "golden_apple": "2024-12-20 19:48:44 +0000",
       "cooked_chicken": "2024-12-20 20:49:19 +0000",
@@ -10827,6 +10828,12 @@
   "handcrafted:recipes/misc/dark_oak_chair": {
     "criteria": {
       "has_dark_oak_chair": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2024-12-26 21:10:27 +0000"
     },
     "done": true
   },
