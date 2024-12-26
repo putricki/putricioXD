@@ -7186,3 +7186,11 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [26Dec2024 20:16:20.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [The Basics]
 [26Dec2024 20:19:44.213] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Earleen'/62703, l='ServerLevel[world]', x=531.05, y=74.00, z=483.59] died, message: 'Earleen was slain by Zombie'
 [26Dec2024 20:19:44.214] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Earleen'/62703, l='ServerLevel[world]', x=531.05, y=74.00, z=483.59] died: Earleen was slain by Zombie
+[26Dec2024 20:20:22.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[26Dec2024 20:20:35.405] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Earleen'/63326, l='ServerLevel[world]', x=529.15, y=74.00, z=487.45] died: Earleen was frozen to death
+[26Dec2024 20:20:40.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3145ms or 62 ticks behind
+[26Dec2024 20:25:55.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4083ms or 81 ticks behind
+[26Dec2024 20:27:06.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Imp
+[26Dec2024 20:27:06.502] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ELROMPECLITOS with unique ID travelersbackpack.sponge_26.12.2024-20.27.06.dat
+[26Dec2024 20:28:01.463] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/53016, l='ServerLevel[world]', x=361.98, y=67.77, z=118.38] died: Honeyed Archer burned to death
+[26Dec2024 20:28:33.457] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
