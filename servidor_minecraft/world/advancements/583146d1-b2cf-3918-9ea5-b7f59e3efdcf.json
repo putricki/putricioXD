@@ -312,6 +312,7 @@
       "maple_woods": "2024-12-26 19:30:37 +0000",
       "withered_abyss": "2024-12-23 18:03:33 +0000",
       "field": "2024-12-20 16:51:24 +0000",
+      "orchard": "2024-12-26 21:17:48 +0000",
       "bog": "2024-12-26 19:31:03 +0000",
       "coniferous_forest": "2024-12-20 16:51:38 +0000",
       "forested_field": "2024-12-20 16:36:07 +0000",
@@ -6663,6 +6664,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_druid_circle": "2024-12-26 21:18:32 +0000",
       "entered_castle": "2024-12-23 13:32:19 +0000",
       "entered_watch_tower": "2024-12-26 19:01:38 +0000"
     },
@@ -7906,9 +7908,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonsteel_fire_helmet": {
+    "criteria": {
+      "has_item": "2024-12-26 21:18:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2024-12-26 20:02:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_boots": {
+    "criteria": {
+      "has_item": "2024-12-26 21:18:13 +0000"
     },
     "done": true
   },
@@ -7975,6 +7989,12 @@
   "aether_redux:recipes/transportation/glacia_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-26 20:57:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_fire_ingot_to_dragonsteel_fire_block": {
+    "criteria": {
+      "has_dragonsteel_fire_ingot": "2024-12-26 21:18:13 +0000"
     },
     "done": true
   },
@@ -8074,6 +8094,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2024-12-26 21:16:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-26 19:28:04 +0000"
@@ -8128,6 +8154,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonsteel_fire_hoe": {
+    "criteria": {
+      "has_item": "2024-12-26 21:18:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-26 20:50:27 +0000"
@@ -8149,6 +8181,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-26 20:48:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_sword": {
+    "criteria": {
+      "has_item": "2024-12-26 21:18:13 +0000"
     },
     "done": true
   },
@@ -8194,6 +8232,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonsteel_fire_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-26 21:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-26 21:11:52 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/jellyshroom_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-26 20:57:03 +0000"
@@ -8224,6 +8274,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonsteel_fire_shovel": {
+    "criteria": {
+      "has_item": "2024-12-26 21:18:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
       "has_wool": "2024-12-26 20:45:58 +0000"
@@ -8251,6 +8307,12 @@
   "biomesoplenty:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-26 20:57:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_leggings": {
+    "criteria": {
+      "has_item": "2024-12-26 21:18:13 +0000"
     },
     "done": true
   },
@@ -8293,6 +8355,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-26 20:02:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-26 21:11:52 +0000"
     },
     "done": true
   },
@@ -8362,9 +8430,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2024-12-26 21:16:16 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/dark_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-26 20:57:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-26 21:16:16 +0000"
     },
     "done": true
   },
@@ -8383,6 +8463,18 @@
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-26 18:33:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_axe": {
+    "criteria": {
+      "has_item": "2024-12-26 21:18:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2024-12-26 21:16:16 +0000"
     },
     "done": true
   },
@@ -8512,6 +8604,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2024-12-26 21:16:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-26 20:45:58 +0000"
@@ -8635,6 +8733,12 @@
   "supplementaries:recipes/stonecutting/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-26 20:07:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-26 21:18:13 +0000"
     },
     "done": true
   },
