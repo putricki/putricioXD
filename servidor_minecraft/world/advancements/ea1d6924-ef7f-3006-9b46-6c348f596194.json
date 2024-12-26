@@ -10484,6 +10484,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-23 18:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-23 18:58:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2024-12-23 19:12:23 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/red_cushion": {
     "criteria": {
       "has_red_cushion": "2024-12-23 19:12:39 +0000"
@@ -10493,12 +10511,6 @@
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2024-12-23 19:12:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2024-12-23 18:58:58 +0000"
     },
     "done": true
   },
@@ -10538,27 +10550,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/leather_leggings_repairing": {
-    "criteria": {
-      "has_leather_leggings": "2024-12-23 19:30:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2024-12-23 18:58:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-23 19:12:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2024-12-23 19:23:49 +0000"
     },
     "done": true
   },
@@ -10568,9 +10562,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/murmur": {
+  "immersive_armors:recipes/misc/robe": {
     "criteria": {
-      "killed_by": "2024-12-23 19:12:23 +0000"
+      "has_item": "2024-12-23 19:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-23 19:23:49 +0000"
     },
     "done": true
   },
@@ -10580,9 +10580,9 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/robe": {
+  "aether:recipes/combat/leather_leggings_repairing": {
     "criteria": {
-      "has_item": "2024-12-23 19:12:39 +0000"
+      "has_leather_leggings": "2024-12-23 19:30:54 +0000"
     },
     "done": true
   },

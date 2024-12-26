@@ -7815,15 +7815,27 @@
     },
     "done": true
   },
-  "aether:recipes/misc/aether_tune_enchanting": {
-    "criteria": {
-      "has_disc": "2024-12-23 19:30:04 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/building_blocks/spruce_beam": {
     "criteria": {
       "has_stripped_log": "2024-12-23 19:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-23 19:09:45 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2024-12-23 19:15:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_tune_enchanting": {
+    "criteria": {
+      "has_disc": "2024-12-23 19:30:04 +0000"
     },
     "done": true
   },
@@ -7839,12 +7851,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-23 19:09:45 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/wither": {
     "criteria": {
       "has_wither_skeleton_skull": "2024-12-23 19:31:32 +0000"
@@ -7857,9 +7863,21 @@
     },
     "done": true
   },
-  "quark:mine_toretoise": {
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
-      "mine_toretoise": "2024-12-23 19:15:21 +0000"
+      "has_item": "2024-12-23 19:36:09 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table_slab": {
+    "criteria": {
+      "has_bamboo": "2024-12-23 19:36:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-23 19:37:49 +0000"
     },
     "done": true
   },
