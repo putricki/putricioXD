@@ -7971,6 +7971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-26 20:52:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-12-26 20:48:49 +0000"
@@ -8010,6 +8016,12 @@
   "delightful:recipes/cantaloupe_slice": {
     "criteria": {
       "has_cantaloupe": "2024-12-26 19:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-26 20:50:27 +0000"
     },
     "done": true
   },
@@ -8136,6 +8148,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-26 19:28:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2024-12-26 20:53:38 +0000"
     },
     "done": true
   },
@@ -8286,6 +8304,12 @@
   "blue_skies:recipes/building_blocks/glowing_nature_stone": {
     "criteria": {
       "has_item": "2024-12-26 20:06:44 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2024-12-26 20:50:27 +0000"
     },
     "done": true
   },
