@@ -10674,6 +10674,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2024-12-26 20:42:23 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2024-12-26 19:55:13 +0000"
@@ -11205,6 +11211,12 @@
   "blue_skies:recipes/combat/horizonite_helmet": {
     "criteria": {
       "has_item": "2024-12-26 19:55:35 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-26 20:42:45 +0000"
     },
     "done": true
   },

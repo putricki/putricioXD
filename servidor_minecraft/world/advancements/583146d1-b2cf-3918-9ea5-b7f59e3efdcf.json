@@ -275,6 +275,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-20 16:35:08 +0000",
       "minecraft:taiga": "2024-12-20 17:04:57 +0000",
       "minecraft:frozen_river": "2024-12-20 20:06:20 +0000",
+      "minecraft:birch_forest": "2024-12-26 20:47:39 +0000",
       "minecraft:beach": "2024-12-23 13:55:56 +0000",
       "minecraft:river": "2024-12-20 16:46:36 +0000",
       "minecraft:snowy_plains": "2024-12-20 20:17:47 +0000",
@@ -288,7 +289,9 @@
       "minecraft:old_growth_spruce_taiga": "2024-12-20 17:02:40 +0000",
       "minecraft:snowy_beach": "2024-12-26 19:01:27 +0000",
       "minecraft:frozen_peaks": "2024-12-20 20:11:24 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-26 20:47:51 +0000",
       "minecraft:deep_dark": "2024-12-20 17:27:45 +0000",
+      "minecraft:meadow": "2024-12-26 20:47:38 +0000",
       "minecraft:plains": "2024-12-23 13:55:39 +0000"
     },
     "done": false
@@ -7932,6 +7935,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2024-12-26 20:45:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-26 19:28:04 +0000"
@@ -7962,9 +7971,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-26 20:48:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-26 20:07:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2024-12-26 20:45:58 +0000"
     },
     "done": true
   },
@@ -7989,6 +8010,12 @@
   "delightful:recipes/cantaloupe_slice": {
     "criteria": {
       "has_cantaloupe": "2024-12-26 19:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-26 20:48:49 +0000"
     },
     "done": true
   },
@@ -8025,6 +8052,12 @@
   "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
     "criteria": {
       "has_item": "2024-12-26 20:06:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2024-12-26 20:45:58 +0000"
     },
     "done": true
   },
@@ -8094,6 +8127,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2024-12-26 20:45:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-26 19:28:04 +0000"
@@ -8109,6 +8148,12 @@
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-26 18:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-26 20:45:58 +0000"
     },
     "done": true
   },
@@ -8148,9 +8193,45 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2024-12-26 20:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-26 20:45:58 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
     "criteria": {
       "has_item": "2024-12-26 20:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockconstructiontape": {
+    "criteria": {
+      "has_wool": "2024-12-26 20:45:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2024-12-26 20:45:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2024-12-26 20:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-26 20:45:58 +0000"
     },
     "done": true
   },
@@ -8169,6 +8250,24 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2024-12-26 18:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-26 20:48:49 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2024-12-26 20:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-26 20:45:58 +0000"
     },
     "done": true
   },
