@@ -5557,3 +5557,31 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [26Dec2024 18:35:11.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
 [26Dec2024 18:35:17.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Acolyte
 [26Dec2024 18:35:28.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[26Dec2024 18:37:47.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[26Dec2024 18:38:05.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2671ms or 53 ticks behind
+[26Dec2024 18:38:51.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Local Brewery]
+[26Dec2024 18:38:53.357] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[26Dec2024 18:38:53.358] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[26Dec2024 18:40:42.239] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Rodger'/13, l='ServerLevel[world]', x=454.70, y=66.38, z=86.72] died, message: 'Rodger was slain by Zombie'
+[26Dec2024 18:40:42.240] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rodger'/13, l='ServerLevel[world]', x=454.70, y=66.38, z=86.72] died: Rodger was slain by Zombie
+[26Dec2024 18:40:51.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[26Dec2024 18:41:00.566] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Connie'/18, l='ServerLevel[world]', x=448.30, y=63.00, z=76.30] died, message: 'Connie was slain by Rodger'
+[26Dec2024 18:41:00.567] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Connie'/18, l='ServerLevel[world]', x=448.30, y=63.00, z=76.30] died: Connie was slain by Rodger
+[26Dec2024 18:41:11.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4585ms or 91 ticks behind
+[26Dec2024 18:41:14.958] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Rodger'/8331, l='ServerLevel[world]', x=466.10, y=64.23, z=68.60] died: Rodger was slain by Iron Golem
+[26Dec2024 18:41:16.601] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nestor'/27, l='ServerLevel[world]', x=452.09, y=63.12, z=63.62] died, message: 'Nestor was slain by Connie'
+[26Dec2024 18:41:16.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Nestor'/27, l='ServerLevel[world]', x=452.09, y=63.12, z=63.62] died: Nestor was slain by Connie
+[26Dec2024 18:41:28.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2909ms or 58 ticks behind
+[26Dec2024 18:41:40.696] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Connie'/8513, l='ServerLevel[world]', x=473.53, y=63.00, z=63.95] died: Connie was frozen to death
+[26Dec2024 18:41:41.739] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Nestor'/8635, l='ServerLevel[world]', x=473.50, y=63.00, z=64.01] died: Nestor was slain by Sabina
+[26Dec2024 18:41:47.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3333ms or 66 ticks behind
+[26Dec2024 18:41:47.976] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[26Dec2024 18:41:48.349] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=-11, z=-113}
+[26Dec2024 18:41:48.350] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=204, y=-11, z=-110}
+[26Dec2024 18:44:27.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[26Dec2024 18:44:57.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Gravedigger]
+[26Dec2024 18:44:57.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[26Dec2024 18:46:05.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[26Dec2024 18:46:13.336] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Irving'/20, l='ServerLevel[world]', x=464.30, y=63.02, z=59.59] died, message: 'Irving was slain by Acolyte'
+[26Dec2024 18:46:13.337] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Irving'/20, l='ServerLevel[world]', x=464.30, y=63.02, z=59.59] died: Irving was slain by Acolyte
+[26Dec2024 18:46:23.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2953ms or 59 ticks behind
