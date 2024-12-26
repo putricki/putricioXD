@@ -10753,6 +10753,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2024-12-26 21:26:34 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/combat/horizonite_leggings": {
     "criteria": {
       "has_item": "2024-12-26 19:55:35 +0000"
@@ -10993,6 +10999,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2024-12-26 21:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-12-26 19:55:13 +0000"
@@ -11095,6 +11107,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2024-12-26 21:26:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-26 21:26:34 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_cupboard": {
     "criteria": {
       "has_dark_oak_cupboard": "2024-12-26 19:08:25 +0000"
@@ -11146,6 +11170,12 @@
   "iceandfire:recipes/tools/dragonsteel_fire_axe": {
     "criteria": {
       "has_item": "2024-12-26 21:17:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2024-12-26 21:26:34 +0000"
     },
     "done": true
   },
@@ -11236,6 +11266,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-26 18:45:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2024-12-26 21:26:34 +0000"
     },
     "done": true
   },

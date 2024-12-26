@@ -286,6 +286,7 @@
       "minecraft:lush_caves": "2024-12-20 17:03:25 +0000",
       "minecraft:frozen_ocean": "2024-12-26 19:00:37 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-26 19:07:02 +0000",
+      "minecraft:ocean": "2024-12-26 21:26:56 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 17:02:40 +0000",
       "minecraft:snowy_beach": "2024-12-26 19:01:27 +0000",
       "minecraft:frozen_peaks": "2024-12-20 20:11:24 +0000",
@@ -7908,6 +7909,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/processed_obsidian_block_from_obsidian_ingot": {
+    "criteria": {
+      "has_obsidian_ingot": "2024-12-26 21:27:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonsteel_fire_helmet": {
     "criteria": {
       "has_item": "2024-12-26 21:18:13 +0000"
@@ -7947,6 +7954,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-26 20:57:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2024-12-26 21:25:52 +0000"
     },
     "done": true
   },
@@ -8010,6 +8023,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2024-12-26 21:22:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-26 19:28:04 +0000"
@@ -8052,6 +8071,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/primordial_armor": {
+    "criteria": {
+      "pants": "2024-12-26 21:26:39 +0000"
+    },
+    "done": false
+  },
+  "domum_ornamentum:recipes/tools/green_cactus_extra": {
+    "criteria": {
+      "has_material": "2024-12-26 21:25:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-26 20:07:18 +0000"
@@ -8061,6 +8092,12 @@
   "biomesoplenty:recipes/building_blocks/fir_wood": {
     "criteria": {
       "has_log": "2024-12-26 20:56:40 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/dark_nether_star": {
+    "criteria": {
+      "has_obsidian_ingot": "2024-12-26 21:27:39 +0000"
     },
     "done": true
   },
@@ -8319,6 +8356,12 @@
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-26 20:07:18 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/cactus_extra": {
+    "criteria": {
+      "has_material": "2024-12-26 21:25:52 +0000"
     },
     "done": true
   },
@@ -8598,6 +8641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-12-26 21:25:52 +0000"
+    },
+    "done": true
+  },
   "ancient_aether:recipes/transportation/highsproot_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-26 20:57:03 +0000"
@@ -8685,6 +8734,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-26 20:07:18 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-26 21:22:18 +0000"
     },
     "done": true
   },
