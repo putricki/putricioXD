@@ -7177,3 +7177,12 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [26Dec2024 20:09:27.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
 [26Dec2024 20:09:29.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
 [26Dec2024 20:09:46.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Piglin Brute
+[26Dec2024 20:10:05.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[26Dec2024 20:10:29.055] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[26Dec2024 20:10:30.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Demon
+[26Dec2024 20:10:35.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[26Dec2024 20:11:18.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[26Dec2024 20:15:16.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[26Dec2024 20:16:20.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [The Basics]
+[26Dec2024 20:19:44.213] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Earleen'/62703, l='ServerLevel[world]', x=531.05, y=74.00, z=483.59] died, message: 'Earleen was slain by Zombie'
+[26Dec2024 20:19:44.214] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Earleen'/62703, l='ServerLevel[world]', x=531.05, y=74.00, z=483.59] died: Earleen was slain by Zombie
