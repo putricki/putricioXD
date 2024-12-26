@@ -284,6 +284,7 @@
       "minecraft:forest": "2024-12-20 19:40:32 +0000",
       "minecraft:lush_caves": "2024-12-20 17:03:25 +0000",
       "minecraft:frozen_ocean": "2024-12-26 19:00:37 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-26 19:07:02 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 17:02:40 +0000",
       "minecraft:snowy_beach": "2024-12-26 19:01:27 +0000",
       "minecraft:frozen_peaks": "2024-12-20 20:11:24 +0000",
@@ -301,6 +302,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2024-12-20 20:15:02 +0000",
+      "snowblossom_grove": "2024-12-26 19:09:57 +0000",
       "erupting_inferno": "2024-12-23 18:13:15 +0000",
       "highland": "2024-12-20 17:02:01 +0000",
       "cold_desert": "2024-12-20 20:06:38 +0000",
@@ -7891,6 +7893,24 @@
     },
     "done": true
   },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-12-26 19:07:02 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/cantaloupe_slice": {
+    "criteria": {
+      "has_cantaloupe": "2024-12-26 19:09:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-26 19:13:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-26 19:01:56 +0000"
@@ -7936,6 +7956,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-26 19:01:56 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/stuffed_cantaloupe": {
+    "criteria": {
+      "has_cantaloupe": "2024-12-26 19:09:44 +0000"
     },
     "done": true
   },

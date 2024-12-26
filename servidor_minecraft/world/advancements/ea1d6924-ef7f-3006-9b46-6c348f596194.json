@@ -290,6 +290,7 @@
       "minecraft:deep_frozen_ocean": "2024-12-26 18:56:48 +0000",
       "minecraft:ocean": "2024-12-23 14:45:38 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 16:45:02 +0000",
+      "minecraft:snowy_beach": "2024-12-26 19:03:06 +0000",
       "minecraft:frozen_peaks": "2024-12-26 18:44:38 +0000",
       "minecraft:deep_dark": "2024-12-20 17:31:00 +0000",
       "minecraft:plains": "2024-12-23 18:58:06 +0000"
@@ -3500,6 +3501,7 @@
       "quark:forgotten": "2024-12-23 15:23:40 +0000",
       "minecraft:zombified_piglin": "2024-12-23 15:48:57 +0000",
       "minecraft:wither_skeleton": "2024-12-23 18:16:17 +0000",
+      "minecraft:husk": "2024-12-26 19:06:46 +0000",
       "minecraft:cave_spider": "2024-12-20 17:27:10 +0000",
       "minecraft:piglin": "2024-12-23 15:42:39 +0000",
       "minecraft:stray": "2024-12-20 17:19:35 +0000",
@@ -10614,9 +10616,69 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_pillar_trim": {
+    "criteria": {
+      "has_calcite_pillar_trim": "2024-12-26 19:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-26 18:45:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-26 19:08:15 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab": {
+    "criteria": {
+      "has_item": "2024-12-26 19:08:15 +0000"
     },
     "done": true
   },
@@ -10626,9 +10688,21 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/calcite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-26 19:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-26 18:45:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2024-12-26 19:08:25 +0000"
     },
     "done": true
   },
@@ -10650,9 +10724,57 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:standard_from_custom": {
     "criteria": {
       "has_backpack": "2024-12-26 18:41:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-26 19:04:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2024-12-26 19:08:25 +0000"
     },
     "done": true
   },
@@ -10668,9 +10790,21 @@
     },
     "done": true
   },
+  "suppsquared:recipes/decorations/item_shelf_dark_oak": {
+    "criteria": {
+      "has_planks": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
     "criteria": {
       "has_sea_serpent_scales_green": "2024-12-26 18:55:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-26 19:08:15 +0000"
     },
     "done": true
   },
@@ -10716,9 +10850,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2024-12-26 18:25:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall": {
+    "criteria": {
+      "has_item": "2024-12-26 19:08:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2024-12-26 19:08:25 +0000"
     },
     "done": true
   },
@@ -10728,9 +10886,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
     "criteria": {
       "has_sea_serpent_scales_bronze": "2024-12-26 18:53:41 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-26 19:08:15 +0000"
     },
     "done": true
   },
@@ -10743,6 +10913,60 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "flint_knife": "2024-12-26 18:25:20 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/dark_oak_table": {
+    "criteria": {
+      "has_bamboo": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite": {
+    "criteria": {
+      "has_item": "2024-12-26 19:08:15 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs": {
+    "criteria": {
+      "has_item": "2024-12-26 19:08:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-26 19:08:25 +0000"
     },
     "done": true
   },
@@ -10764,9 +10988,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-26 19:08:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/wooden_axe_repairing": {
     "criteria": {
       "has_wooden_axe": "2024-12-26 19:02:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_calcite_corner_trim": "2024-12-26 19:08:15 +0000"
     },
     "done": true
   },
@@ -10779,6 +11015,18 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-26 18:45:02 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-26 19:08:15 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_seat": {
+    "criteria": {
+      "has_plank": "2024-12-26 19:08:25 +0000"
     },
     "done": true
   },
@@ -10797,6 +11045,12 @@
   "iceandfire:recipes/combat/tide_green_helmet": {
     "criteria": {
       "has_item": "2024-12-26 18:55:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2024-12-26 19:08:25 +0000"
     },
     "done": true
   },
