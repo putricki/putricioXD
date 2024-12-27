@@ -287,6 +287,7 @@
       "minecraft:stony_shore": "2024-12-26 19:01:01 +0000",
       "minecraft:snowy_taiga": "2024-12-23 13:30:24 +0000",
       "minecraft:swamp": "2024-12-26 21:37:01 +0000",
+      "minecraft:grove": "2024-12-27 18:39:28 +0000",
       "minecraft:cold_ocean": "2024-12-20 17:45:15 +0000",
       "minecraft:forest": "2024-12-20 19:40:32 +0000",
       "minecraft:lush_caves": "2024-12-20 17:03:25 +0000",
@@ -8927,9 +8928,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-27 18:47:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
+    "criteria": {
+      "has_moss_block": "2024-12-27 18:47:42 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
       "inscription_table": "2024-12-27 18:31:01 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
+    "criteria": {
+      "has_item": "2024-12-27 18:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-27 18:47:41 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
+    "criteria": {
+      "has_item": "2024-12-27 18:47:42 +0000"
     },
     "done": true
   },
@@ -8945,6 +8976,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-27 18:47:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-27 18:49:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2024-12-27 18:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-27 18:47:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_bronze_chestplate": {
     "criteria": {
       "has_item": "2024-12-27 18:00:59 +0000"
@@ -8957,15 +9012,45 @@
     },
     "done": true
   },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-27 18:44:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
     "criteria": {
       "has_sea_serpent_scales_bronze": "2024-12-27 18:00:59 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-27 18:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-27 18:47:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_bronze_leggings": {
     "criteria": {
       "has_item": "2024-12-27 18:00:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-27 18:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-27 18:47:42 +0000"
     },
     "done": true
   },

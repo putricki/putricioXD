@@ -284,6 +284,7 @@
       "minecraft:dripstone_caves": "2024-12-20 19:17:21 +0000",
       "minecraft:snowy_taiga": "2024-12-20 20:26:20 +0000",
       "minecraft:swamp": "2024-12-23 14:55:53 +0000",
+      "minecraft:grove": "2024-12-27 18:40:57 +0000",
       "minecraft:cold_ocean": "2024-12-20 17:00:00 +0000",
       "minecraft:forest": "2024-12-20 19:17:43 +0000",
       "minecraft:lush_caves": "2024-12-20 19:26:44 +0000",
@@ -11578,6 +11579,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-27 18:50:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/crackled_to_gravel": {
     "criteria": {
       "has_item": "2024-12-27 17:52:14 +0000"
@@ -11593,6 +11600,12 @@
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2024-12-27 17:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-27 18:36:42 +0000"
     },
     "done": true
   },

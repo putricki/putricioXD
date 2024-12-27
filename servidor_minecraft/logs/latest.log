@@ -5739,3 +5739,46 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [27Dec2024 18:35:44.471] [Worker-Main-22/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [27Dec2024 18:35:48.209] [pool-11-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp_fortified], ResourceKey[minecraft:worldgen/structure / blue_skies:village_crystal_dunes], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain_alpine], ResourceKey[minecraft:worldgen/structure / blue_skies:village_brightlands], ResourceKey[minecraft:worldgen/structure / ctov:large/village_jungle_tree], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert_oasis], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain_alpine], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove]] from pos BlockPos{x=11963, y=97, z=-9509}
 [27Dec2024 18:35:56.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4475ms or 89 ticks behind
+[27Dec2024 18:36:24.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[27Dec2024 18:36:38.956] [Worker-Main-22/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[27Dec2024 18:36:38.956] [Worker-Main-22/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[27Dec2024 18:36:42.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Sneak 100]
+[27Dec2024 18:36:42.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3238ms or 64 ticks behind
+[27Dec2024 18:37:14.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[27Dec2024 18:37:32.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3428ms or 68 ticks behind
+[27Dec2024 18:37:50.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3352ms or 67 ticks behind
+[27Dec2024 18:38:16.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> [x:4920, y:23, z:-4487, dim:minecraft:overworld]
+[27Dec2024 18:38:52.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[27Dec2024 18:39:01.328] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-85, y=-11, z=81}
+[27Dec2024 18:39:02.680] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-76, y=-4, z=88}
+[27Dec2024 18:39:04.231] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=247, y=-11, z=-115}
+[27Dec2024 18:39:07.791] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-85, y=-11, z=72}
+[27Dec2024 18:39:07.793] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-84, y=-11, z=76}
+[27Dec2024 18:39:07.793] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-11, z=76}
+[27Dec2024 18:39:10.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3478ms or 69 ticks behind
+[27Dec2024 18:40:51.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> [x:4920, y:23, z:-4487, dim:minecraft:overworld]
+[27Dec2024 18:40:57.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[27Dec2024 18:43:26.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was frozen by Ice Dragon
+[27Dec2024 18:45:43.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[27Dec2024 18:46:01.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[27Dec2024 18:46:19.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2704ms or 54 ticks behind
+[27Dec2024 18:46:55.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[27Dec2024 18:47:13.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2839ms or 56 ticks behind
+[27Dec2024 18:47:31.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3010ms or 60 ticks behind
+[27Dec2024 18:47:49.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3586ms or 71 ticks behind
+[27Dec2024 18:48:07.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2860ms or 57 ticks behind
+[27Dec2024 18:48:25.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3390ms or 67 ticks behind
+[27Dec2024 18:48:44.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3635ms or 72 ticks behind
+[27Dec2024 18:49:01.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2609ms or 52 ticks behind
+[27Dec2024 18:49:21.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4510ms or 90 ticks behind
+[27Dec2024 18:49:40.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has reached the goal [The Cave That Time Forgot]
+[27Dec2024 18:49:43.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7190ms or 143 ticks behind
+[27Dec2024 18:50:07.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9301ms or 186 ticks behind
+[27Dec2024 18:50:30.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7122ms or 142 ticks behind
+[27Dec2024 18:50:37.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[27Dec2024 18:50:37.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has reached the goal [The Cave That Time Forgot]
+[27Dec2024 18:50:48.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3568ms or 71 ticks behind
+[27Dec2024 18:52:59.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Life Finds A Way]
+[27Dec2024 18:55:12.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Town of Bedrock]
+[27Dec2024 18:55:53.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush fell from a high place
+[27Dec2024 18:56:06.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
