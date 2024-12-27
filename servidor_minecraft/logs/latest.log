@@ -5812,3 +5812,43 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [27Dec2024 19:06:28.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9439ms or 188 ticks behind
 [27Dec2024 19:06:40.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
 [27Dec2024 19:06:46.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2741ms or 54 ticks behind
+[27Dec2024 19:11:28.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Ice Dragon
+[27Dec2024 19:11:37.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[27Dec2024 19:12:00.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was turned to ice by Ice Dragon
+[27Dec2024 19:12:00.891] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ELROMPECLITOS with unique ID travelersbackpack.sponge_27.12.2024-19.12.00.dat
+[27Dec2024 19:12:11.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[27Dec2024 19:12:29.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2691ms or 53 ticks behind
+[27Dec2024 19:13:26.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Town of Bedrock]
+[27Dec2024 19:13:43.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Mother of Dragons]
+[27Dec2024 19:13:54.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Mother of Dragons]
+[27Dec2024 19:15:43.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[27Dec2024 19:16:01.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[27Dec2024 19:16:18.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[27Dec2024 19:16:37.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[27Dec2024 19:16:54.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[27Dec2024 19:17:11.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[27Dec2024 19:17:30.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3743ms or 74 ticks behind
+[27Dec2024 19:17:48.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3199ms or 63 ticks behind
+[27Dec2024 19:17:57.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[27Dec2024 19:18:08.664] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[27Dec2024 19:18:12.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[27Dec2024 19:18:31.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4016ms or 80 ticks behind
+[27Dec2024 19:18:49.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3180ms or 63 ticks behind
+[27Dec2024 19:19:08.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4662ms or 93 ticks behind
+[27Dec2024 19:19:29.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5840ms or 116 ticks behind
+[27Dec2024 19:19:51.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6498ms or 129 ticks behind
+[27Dec2024 19:20:06.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[27Dec2024 19:20:09.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3799ms or 75 ticks behind
+[27Dec2024 19:20:15.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Life Finds A Way]
+[27Dec2024 19:22:16.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was frozen by Ice Dragon
+[27Dec2024 19:22:25.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Ice Dragon
+[27Dec2024 19:22:25.710] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ELROMPECLITOS with unique ID travelersbackpack.sponge_27.12.2024-19.22.25.dat
+[27Dec2024 19:22:25.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Ice Dragon
+[27Dec2024 19:22:54.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Ice Dragon
+[27Dec2024 19:22:58.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[27Dec2024 19:23:16.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2764ms or 55 ticks behind
+[27Dec2024 19:23:21.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[27Dec2024 19:23:33.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
+[27Dec2024 19:27:01.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Kitsune
+[27Dec2024 19:27:12.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[27Dec2024 19:27:22.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Kitsune

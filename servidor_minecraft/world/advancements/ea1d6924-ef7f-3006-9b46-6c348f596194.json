@@ -403,6 +403,7 @@
       "grassland": "2024-12-23 14:52:44 +0000",
       "snowy_coniferous_forest": "2024-12-20 20:35:38 +0000",
       "snowy_fir_clearing": "2024-12-20 20:14:51 +0000",
+      "tundra": "2024-12-27 19:14:50 +0000",
       "glowing_grotto": "2024-12-20 19:45:11 +0000",
       "gravel_beach": "2024-12-20 16:59:49 +0000",
       "rainforest": "2024-12-26 21:39:33 +0000",
@@ -11465,6 +11466,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-27 19:26:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-27 18:55:28 +0000"
@@ -11492,6 +11499,12 @@
   "handcrafted:recipes/misc/sandstone_corner_trim": {
     "criteria": {
       "has_sandstone_corner_trim": "2024-12-27 18:55:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2024-12-27 19:13:44 +0000"
     },
     "done": true
   },
@@ -11579,6 +11592,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2024-12-27 19:13:43 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_shelf": {
     "criteria": {
       "has_jungle_shelf": "2024-12-27 17:34:47 +0000"
@@ -11591,9 +11610,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2024-12-27 19:13:44 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
     "criteria": {
       "has_item": "2024-12-27 18:54:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2024-12-27 19:26:48 +0000"
     },
     "done": true
   },
@@ -11615,9 +11646,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 19:15:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-27 18:55:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2024-12-27 19:26:48 +0000"
     },
     "done": true
   },
@@ -11651,9 +11694,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-27 19:26:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_electric_leggings": {
     "criteria": {
       "has_item": "2024-12-27 17:52:20 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/silver_knife": {
+    "criteria": {
+      "has_ingots/silver": "2024-12-27 19:15:54 +0000"
     },
     "done": true
   },
@@ -11754,6 +11809,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2024-12-27 19:13:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-27 19:13:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-12-27 18:55:28 +0000"
@@ -11838,9 +11905,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2024-12-27 19:13:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-27 19:15:54 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_chair": {
     "criteria": {
       "has_jungle_chair": "2024-12-27 17:34:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-27 19:26:48 +0000"
     },
     "done": true
   },

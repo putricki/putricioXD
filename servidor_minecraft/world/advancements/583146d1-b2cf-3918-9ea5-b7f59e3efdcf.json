@@ -340,6 +340,7 @@
       "pumpkin_patch": "2024-12-20 20:15:08 +0000",
       "snowy_coniferous_forest": "2024-12-20 20:35:36 +0000",
       "snowy_fir_clearing": "2024-12-20 20:14:49 +0000",
+      "tundra": "2024-12-27 19:14:51 +0000",
       "glowing_grotto": "2024-12-20 17:03:10 +0000",
       "gravel_beach": "2024-12-20 17:44:20 +0000",
       "rainforest": "2024-12-26 21:39:36 +0000",
@@ -8935,6 +8936,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-27 19:26:48 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
     "criteria": {
       "has_moss_block": "2024-12-27 18:47:42 +0000"
@@ -8959,9 +8966,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2024-12-27 19:13:54 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
     "criteria": {
       "has_item": "2024-12-27 18:47:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2024-12-27 19:26:48 +0000"
     },
     "done": true
   },
@@ -8971,9 +8990,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2024-12-27 19:26:48 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2024-12-27 18:31:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-27 19:26:48 +0000"
     },
     "done": true
   },
@@ -8986,6 +9017,12 @@
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2024-12-27 18:49:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-12-27 19:13:26 +0000"
     },
     "done": true
   },
@@ -9025,6 +9062,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2024-12-27 19:20:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-27 18:47:41 +0000"
@@ -9034,6 +9077,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2024-12-27 18:47:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-27 19:26:48 +0000"
     },
     "done": true
   },
