@@ -5477,3 +5477,81 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [27Dec2024 17:32:45.690] [Server thread/INFO] [ping-wheel/]: Channel update: geotrush -> default
 [27Dec2024 17:32:45.691] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
 [27Dec2024 17:33:56.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[27Dec2024 17:34:10.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[27Dec2024 17:34:24.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[27Dec2024 17:35:44.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[27Dec2024 17:36:51.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[27Dec2024 17:37:08.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[27Dec2024 17:37:13.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.40733151769666565
+[27Dec2024 17:37:29.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.42964301115798714
+[27Dec2024 17:37:29.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.42964301115798714
+[27Dec2024 17:37:29.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.42964301115798714
+[27Dec2024 17:37:30.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[27Dec2024 17:37:30.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.29335781479661704
+[27Dec2024 17:37:30.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[27Dec2024 17:37:38.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.8302019637326528
+[27Dec2024 17:37:38.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.8302019637326528
+[27Dec2024 17:37:40.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.8301561790392583
+[27Dec2024 17:37:40.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.8301561790392583
+[27Dec2024 17:37:40.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.8301561790392583
+[27Dec2024 17:37:40.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[27Dec2024 17:37:53.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.6572654958985544
+[27Dec2024 17:37:54.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.7641856883927755
+[27Dec2024 17:37:54.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.7641856883927755
+[27Dec2024 17:37:55.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.8140650125564151
+[27Dec2024 17:37:59.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[27Dec2024 17:38:06.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.48466021449348773
+[27Dec2024 17:38:06.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.9796305622285217
+[27Dec2024 17:38:06.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 1.4766647144251692
+[27Dec2024 17:38:07.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.49088420884527295
+[27Dec2024 17:38:07.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.9913441195985797
+[27Dec2024 17:38:07.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.4930965271014429
+[27Dec2024 17:38:07.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.49322096949254046
+[27Dec2024 17:38:07.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.9945219160599663
+[27Dec2024 17:38:07.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.4926085611923554
+[27Dec2024 17:38:07.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.9925503904269135
+[27Dec2024 17:38:07.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.49078950758848805
+[27Dec2024 17:38:07.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.48974689295482676
+[27Dec2024 17:38:07.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.9865444186880268
+[27Dec2024 17:38:07.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.48801623190047394
+[27Dec2024 17:38:07.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.429489830707098
+[27Dec2024 17:38:07.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.8153295944484853
+[27Dec2024 17:38:07.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.33234045273366064
+[27Dec2024 17:38:07.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.6324944651023543
+[27Dec2024 17:38:07.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of ELROMPECLITOS) moved wrongly! 0.2567656200235433
+[27Dec2024 17:38:14.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[27Dec2024 17:38:32.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2956ms or 59 ticks behind
+[27Dec2024 17:38:51.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4566ms or 91 ticks behind
+[27Dec2024 17:39:10.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4087ms or 81 ticks behind
+[27Dec2024 17:39:18.195] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 17:39:20.051] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 17:39:22.946] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 17:39:29.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3544ms or 70 ticks behind
+[27Dec2024 17:39:31.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 17:39:36.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 17:39:38.471] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 17:39:40.142] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 17:39:41.173] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 17:39:41.993] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 17:39:42.789] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 17:39:43.494] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 17:39:44.212] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 17:39:44.895] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 17:39:45.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 17:39:46.058] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 17:39:46.987] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 17:39:47.633] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 17:39:48.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 17:39:51.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7407ms or 148 ticks behind
+[27Dec2024 17:40:11.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5320ms or 106 ticks behind
+[27Dec2024 17:40:21.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[27Dec2024 17:40:30.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3243ms or 64 ticks behind
+[27Dec2024 17:40:37.716] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=579, y=-20, z=-338}
+[27Dec2024 17:40:47.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
+[27Dec2024 17:41:12.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[27Dec2024 17:41:33.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[27Dec2024 17:41:40.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[27Dec2024 17:42:00.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[27Dec2024 17:42:20.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4928ms or 98 ticks behind
+[27Dec2024 17:42:37.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
+[27Dec2024 17:42:52.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
