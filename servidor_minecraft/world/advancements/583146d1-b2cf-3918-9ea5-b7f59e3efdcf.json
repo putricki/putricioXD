@@ -273,6 +273,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-20 16:35:08 +0000",
+      "minecraft:mushroom_fields": "2024-12-27 17:55:02 +0000",
       "minecraft:taiga": "2024-12-20 17:04:57 +0000",
       "minecraft:deep_ocean": "2024-12-26 21:35:34 +0000",
       "minecraft:frozen_river": "2024-12-20 20:06:20 +0000",
@@ -8849,6 +8850,108 @@
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2024-12-27 17:49:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2024-12-27 17:51:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-27 17:52:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2024-12-27 17:52:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2024-12-27 17:52:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2024-12-27 17:52:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2024-12-27 17:52:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2024-12-27 17:52:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-27 17:57:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2024-12-27 17:57:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2024-12-27 17:57:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-27 17:57:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-27 17:57:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-27 18:00:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2024-12-27 18:00:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2024-12-27 18:00:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2024-12-27 18:00:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2024-12-27 18:00:59 +0000"
     },
     "done": true
   },

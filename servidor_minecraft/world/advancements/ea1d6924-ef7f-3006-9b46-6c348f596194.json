@@ -382,6 +382,7 @@
       "marsh": "2024-12-23 14:55:00 +0000",
       "mystic_grove": "2024-12-23 14:59:58 +0000",
       "cold_desert": "2024-12-20 20:05:40 +0000",
+      "old_growth_woodland": "2024-12-27 17:55:44 +0000",
       "withered_abyss": "2024-12-23 15:57:17 +0000",
       "field": "2024-12-20 16:48:47 +0000",
       "overgrown_greens": "2024-12-23 14:52:30 +0000",
@@ -11510,9 +11511,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-27 17:52:20 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_shelf": {
     "criteria": {
       "has_jungle_shelf": "2024-12-27 17:34:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2024-12-27 17:52:20 +0000"
     },
     "done": true
   },
@@ -11537,6 +11550,18 @@
   "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
       "has_planks": "2024-12-27 17:34:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2024-12-27 17:52:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2024-12-27 17:52:14 +0000"
     },
     "done": true
   },
@@ -11612,6 +11637,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2024-12-27 17:52:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2024-12-27 17:34:47 +0000"
@@ -11627,6 +11658,12 @@
   "deep_aether:recipes/misc/squash_seeds_enchanting": {
     "criteria": {
       "has_pumpkin_seeds": "2024-12-27 17:31:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2024-12-27 17:52:20 +0000"
     },
     "done": true
   },
