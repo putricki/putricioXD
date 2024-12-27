@@ -272,6 +272,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-27 18:32:03 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-20 16:35:08 +0000",
       "minecraft:mushroom_fields": "2024-12-27 17:55:02 +0000",
       "minecraft:taiga": "2024-12-20 17:04:57 +0000",
@@ -8923,6 +8924,24 @@
   "aether:recipes/food/moa_egg_pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2024-12-27 17:57:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-27 18:31:01 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-27 18:31:01 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-12-27 18:31:01 +0000"
     },
     "done": true
   },

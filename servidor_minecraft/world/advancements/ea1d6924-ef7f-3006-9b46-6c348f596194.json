@@ -11458,6 +11458,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-27 18:31:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2024-12-27 17:34:47 +0000"
@@ -11530,6 +11536,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-27 18:31:53 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/jungle_table": {
     "criteria": {
       "has_jungle": "2024-12-27 17:34:47 +0000"
@@ -11545,6 +11557,12 @@
   "minecolonies:recipes/food/mutton_dinner": {
     "criteria": {
       "has_mutton": "2024-12-27 17:35:19 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-12-27 18:31:53 +0000"
     },
     "done": true
   },
