@@ -2645,6 +2645,7 @@
       "bread": "2024-12-20 16:49:18 +0000",
       "golden_apple": "2024-12-20 19:47:43 +0000",
       "suspicious_stew": "2024-12-23 13:53:24 +0000",
+      "cooked_chicken": "2024-12-27 17:49:23 +0000",
       "mushroom_stew": "2024-12-20 19:10:54 +0000",
       "rabbit_stew": "2024-12-20 20:46:51 +0000",
       "carrot": "2024-12-20 20:36:57 +0000"
@@ -8836,6 +8837,18 @@
   "iceandfire:recipes/combat/tide_deepblue_boots": {
     "criteria": {
       "has_item": "2024-12-26 21:31:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-27 17:49:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-27 17:49:21 +0000"
     },
     "done": true
   },
