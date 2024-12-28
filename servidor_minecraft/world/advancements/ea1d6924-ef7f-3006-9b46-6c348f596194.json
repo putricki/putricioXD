@@ -12279,6 +12279,18 @@
     },
     "done": true
   },
+  "dramaticdoors:recipes/redstone/short_iron_door": {
+    "criteria": {
+      "has_items": "2024-12-28 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "dramaticdoors:recipes/redstone/tall_iron_door": {
+    "criteria": {
+      "has_items": "2024-12-28 17:34:54 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_hanging_sign": {
     "criteria": {
       "has_chain": "2024-12-28 17:23:47 +0000"
