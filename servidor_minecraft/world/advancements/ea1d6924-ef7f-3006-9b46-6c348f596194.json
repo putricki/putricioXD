@@ -3009,7 +3009,8 @@
   },
   "alexscaves:alexscaves/primordial_armor": {
     "criteria": {
-      "pants": "2024-12-20 16:55:51 +0000"
+      "pants": "2024-12-20 16:55:51 +0000",
+      "tunic": "2024-12-28 17:54:44 +0000"
     },
     "done": false
   },
@@ -12095,6 +12096,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-12-28 17:53:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flute": {
     "criteria": {
       "has_bamboo": "2024-12-28 16:07:31 +0000"
@@ -12138,9 +12145,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2024-12-28 17:55:43 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "has_bamboo": "2024-12-28 16:07:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2024-12-28 17:55:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2024-12-28 17:55:43 +0000"
     },
     "done": true
   },
@@ -12171,6 +12196,12 @@
   "twigs:recipes/rhyolite/rhyolite_slab": {
     "criteria": {
       "has_item": "2024-12-28 16:12:14 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/combat/veridium_dart": {
+    "criteria": {
+      "has_feather": "2024-12-28 17:53:36 +0000"
     },
     "done": true
   },
@@ -12216,6 +12247,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2024-12-28 17:55:43 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap/map": {
     "criteria": {
       "has_filled_map": "2024-12-28 15:50:34 +0000"
@@ -12234,6 +12271,18 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2024-12-28 17:53:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2024-12-28 18:13:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-28 17:03:29 +0000"
@@ -12243,6 +12292,12 @@
   "twigs:recipes/bamboo_thatch/bamboo_thatch": {
     "criteria": {
       "has_bamboo_leaves": "2024-12-28 16:07:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2024-12-28 17:53:36 +0000"
     },
     "done": true
   },
@@ -12324,6 +12379,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2024-12-28 17:53:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
       "has_prismarine_bricks": "2024-12-28 16:44:04 +0000"
@@ -12348,6 +12409,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2024-12-28 17:53:36 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite_stairs": {
     "criteria": {
       "has_item": "2024-12-28 16:12:14 +0000"
@@ -12358,6 +12425,12 @@
     "criteria": {
       "has_item2_domum_ornamentum_sand_bricks": "2024-12-28 17:49:00 +0000",
       "has_item1_domum_ornamentum_sand_bricks": "2024-12-28 17:49:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-28 17:55:43 +0000"
     },
     "done": true
   },

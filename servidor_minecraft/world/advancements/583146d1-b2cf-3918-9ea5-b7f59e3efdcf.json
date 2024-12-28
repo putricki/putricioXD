@@ -2698,9 +2698,10 @@
     "criteria": {
       "shirt": "2024-12-20 16:51:49 +0000",
       "pants": "2024-12-20 17:39:49 +0000",
+      "helmet": "2024-12-28 18:00:27 +0000",
       "boots": "2024-12-23 14:48:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
@@ -9738,6 +9739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-28 18:09:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-28 17:04:48 +0000"
@@ -9750,6 +9757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-28 18:09:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-28 17:04:48 +0000"
@@ -9759,6 +9772,18 @@
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2024-12-28 17:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-28 18:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-28 18:02:51 +0000"
     },
     "done": true
   },
@@ -9792,6 +9817,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-28 18:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-28 18:09:51 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_leggings_repairing": {
     "criteria": {
       "has_golden_leggings": "2024-12-28 17:06:36 +0000"
@@ -9804,6 +9841,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/cabochis": {
+    "criteria": {
+      "has_cabbage": "2024-12-28 18:02:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-28 17:04:48 +0000"
@@ -9813,6 +9856,24 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2024-12-28 17:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/congee": {
+    "criteria": {
+      "has_cabbage": "2024-12-28 18:02:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-28 18:02:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-28 18:09:51 +0000"
     },
     "done": true
   },
@@ -9837,6 +9898,18 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2024-12-28 16:57:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-28 18:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-28 18:09:51 +0000"
     },
     "done": true
   },

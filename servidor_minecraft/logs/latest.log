@@ -5923,3 +5923,51 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [28Dec2024 17:55:28.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6067ms or 121 ticks behind
 [28Dec2024 17:55:46.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3237ms or 64 ticks behind
 [28Dec2024 17:56:14.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[28Dec2024 17:56:34.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4991ms or 99 ticks behind
+[28Dec2024 17:56:43.205] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 17:56:53.395] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 17:56:54.121] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 17:56:54.953] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 17:56:56.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7101ms or 142 ticks behind
+[28Dec2024 17:57:15.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3520ms or 70 ticks behind
+[28Dec2024 17:57:15.590] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 17:57:17.075] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 17:57:19.534] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 17:57:27.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 17:57:32.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2685ms or 53 ticks behind
+[28Dec2024 17:57:35.725] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 17:57:36.438] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 17:57:37.069] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 17:58:26.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[28Dec2024 17:58:31.807] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GatekeeperEntity['Lanita'/126442, l='ServerLevel[world]', x=5587.74, y=65.56, z=-6490.88] died: Lanita was slain by Zombie
+[28Dec2024 17:58:58.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[28Dec2024 18:00:27.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [The Cyclops]
+[28Dec2024 18:00:34.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[28Dec2024 18:02:03.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> gg
+[28Dec2024 18:02:04.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> gg
+[28Dec2024 18:02:04.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> gg
+[28Dec2024 18:02:05.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> g
+[28Dec2024 18:02:05.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> g
+[28Dec2024 18:02:06.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> g
+[28Dec2024 18:02:07.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> g
+[28Dec2024 18:02:08.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> gg
+[28Dec2024 18:02:09.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> gg
+[28Dec2024 18:02:09.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> gg
+[28Dec2024 18:02:10.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> gg
+[28Dec2024 18:06:11.172] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/106544, l='ServerLevel[world]', x=578.53, y=93.36, z=-4.49] died: Honeyed Archer burned to death
+[28Dec2024 18:06:25.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[28Dec2024 18:07:11.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[28Dec2024 18:12:00.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Giddy Blaze
+[28Dec2024 18:12:00.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <geotrush> ring-
+[28Dec2024 18:12:12.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> ring-
+[28Dec2024 18:12:18.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> ring-
+[28Dec2024 18:12:23.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> ring-
+[28Dec2024 18:12:27.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> ring-
+[28Dec2024 18:12:30.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> ring-
+[28Dec2024 18:12:32.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> ring-
+[28Dec2024 18:13:36.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> ring-
+[28Dec2024 18:13:38.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> ring-
+[28Dec2024 18:13:52.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Crops of the Wild]
+[28Dec2024 18:15:54.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Dec2024 18:17:04.603] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Sumiko'/3, l='ServerLevel[world]', x=415.30, y=62.18, z=69.30] died, message: 'Sumiko was slain by Zombie Villager'
+[28Dec2024 18:17:04.604] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Sumiko'/3, l='ServerLevel[world]', x=415.30, y=62.18, z=69.30] died: Sumiko was slain by Zombie Villager
