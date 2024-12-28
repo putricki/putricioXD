@@ -5424,3 +5424,40 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [28Dec2024 14:48:38.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3170ms or 63 ticks behind
 [28Dec2024 14:48:57.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3429ms or 68 ticks behind
 [28Dec2024 14:49:14.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+[28Dec2024 14:49:30.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[28Dec2024 14:49:30.441] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Dec2024 14:49:30.444] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[28Dec2024 14:49:30.445] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Dec2024 14:49:30.446] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Dec2024 14:49:30.447] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Dec2024 14:49:32.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3449ms or 68 ticks behind
+[28Dec2024 14:49:41.120] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 14:49:42.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 14:49:50.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2994ms or 59 ticks behind
+[28Dec2024 14:49:52.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[28Dec2024 14:50:10.550] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Dan'/11654, l='ServerLevel[world]', x=5245.92, y=42.00, z=-5891.16] died, message: 'Dan hit the ground too hard'
+[28Dec2024 14:50:10.551] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Dan'/11654, l='ServerLevel[world]', x=5245.92, y=42.00, z=-5891.16] died: Dan fell from a high place
+[28Dec2024 14:50:59.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[28Dec2024 14:51:15.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[28Dec2024 14:51:30.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[28Dec2024 14:51:47.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[28Dec2024 14:51:48.035] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Dec2024 14:51:48.035] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[28Dec2024 14:51:48.035] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Dec2024 14:51:48.035] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Dec2024 14:51:48.036] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Dec2024 14:52:19.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[28Dec2024 14:52:38.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[28Dec2024 14:52:56.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[28Dec2024 14:53:13.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
+[28Dec2024 14:53:31.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[28Dec2024 14:53:52.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[28Dec2024 14:54:17.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[28Dec2024 14:54:34.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
+[28Dec2024 14:54:52.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[28Dec2024 14:55:12.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Dec2024 14:55:50.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Sea Serpent
+[28Dec2024 14:55:59.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ELROMPECLITOS lost connection: Disconnected
+[28Dec2024 14:55:59.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS left the game
+[28Dec2024 14:55:59.911] [Server thread/INFO] [survive/]: Removing Client (ELROMPECLITOS) From Survive Data Sync List
+[28Dec2024 14:55:59.985] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
