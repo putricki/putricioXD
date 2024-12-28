@@ -5836,3 +5836,12 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [28Dec2024 17:04:04.433] [Worker-Main-2/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-492208151,2130201996,-1638321847,-236952269],type:"minecraft:entity",y_offset:0.36f}}]
 [28Dec2024 17:04:04.434] [Worker-Main-2/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1534938430,-1634907265,-1933425779,1714146874],type:"minecraft:entity",y_offset:0.36f}}]
 [28Dec2024 17:04:16.639] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7613ms or 152 ticks behind
+[28Dec2024 17:04:35.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3730ms or 74 ticks behind
+[28Dec2024 17:06:03.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[28Dec2024 17:07:46.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Giddy Blaze
+[28Dec2024 17:07:46.742] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Dec2024 17:07:46.742] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[28Dec2024 17:07:46.742] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Dec2024 17:07:46.743] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Dec2024 17:07:46.743] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[28Dec2024 17:07:58.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to 83.500000, 60.000000, -1222.500000]
