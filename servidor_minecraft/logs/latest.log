@@ -5461,3 +5461,56 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [28Dec2024 14:55:59.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS left the game
 [28Dec2024 14:55:59.911] [Server thread/INFO] [survive/]: Removing Client (ELROMPECLITOS) From Survive Data Sync List
 [28Dec2024 14:55:59.985] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Dec2024 15:04:27.245] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[28Dec2024 15:04:27.246] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[28Dec2024 15:04:27.247] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[28Dec2024 15:04:27.303] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[28Dec2024 15:04:27.342] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[28Dec2024 15:04:27.396] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[28Dec2024 15:04:27.442] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[28Dec2024 15:04:27.500] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[28Dec2024 15:04:27.546] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[28Dec2024 15:04:27.596] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[28Dec2024 15:04:27.645] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[28Dec2024 15:04:27.694] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[28Dec2024 15:04:28.237] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[28Dec2024 15:04:28.238] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[28Dec2024 15:04:28.243] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[28Dec2024 15:04:28.266] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[28Dec2024 15:04:28.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ELROMPECLITOS[/100.90.134.39:59409] logged in with entity id 22355 at (5255.699999988079, 63.0, -5931.300000011921)
+[28Dec2024 15:04:28.734] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ELROMPECLITOS
+[28Dec2024 15:04:28.735] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ELROMPECLITOS
+[28Dec2024 15:04:28.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ELROMPECLITOS
+[28Dec2024 15:04:28.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ELROMPECLITOS
+[28Dec2024 15:04:28.741] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ELROMPECLITOS
+[28Dec2024 15:04:28.745] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ELROMPECLITOS
+[28Dec2024 15:04:28.746] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ELROMPECLITOS
+[28Dec2024 15:04:28.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS joined the game
+[28Dec2024 15:04:28.935] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to ELROMPECLITOS
+[28Dec2024 15:04:28.978] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (ea1d6924-ef7f-3006-9b46-6c348f596194)
+[28Dec2024 15:04:28.988] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ELROMPECLITOS
+[28Dec2024 15:04:29.019] [Server thread/INFO] [Jade/]: Syncing config to ELROMPECLITOS (ea1d6924-ef7f-3006-9b46-6c348f596194)
+[28Dec2024 15:04:29.301] [Server thread/INFO] [survive/]: Syncing All Data To Client (ELROMPECLITOS)
+[28Dec2024 15:04:29.301] [Server thread/INFO] [survive/]: Syncing Armor Data
+[28Dec2024 15:04:29.302] [Server thread/INFO] [survive/]: Done with Armors
+[28Dec2024 15:04:29.302] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[28Dec2024 15:04:29.303] [Server thread/INFO] [survive/]: Done with Fluids
+[28Dec2024 15:04:29.303] [Server thread/INFO] [survive/]: Syncing Biome Data
+[28Dec2024 15:04:29.303] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[28Dec2024 15:04:34.089] [Server thread/INFO] [ping-wheel/]: Channel update: ELROMPECLITOS -> default
+[28Dec2024 15:04:34.090] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[28Dec2024 15:04:38.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[28Dec2024 15:04:56.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3409ms or 68 ticks behind
+[28Dec2024 15:05:15.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[28Dec2024 15:06:33.296] [Server thread/ERROR] [net.mehvahdjukaar.smarterfarmers.SmarterFarmers/]: Failed to plant seed at BlockPos{x=431, y=64, z=65} from item 0 air and block wheat_seeds: 
+[28Dec2024 15:10:32.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[28Dec2024 15:11:00.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[28Dec2024 15:11:25.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[28Dec2024 15:14:11.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2606ms or 52 ticks behind
+[28Dec2024 15:16:04.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2783ms or 55 ticks behind
+[28Dec2024 15:16:22.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2691ms or 53 ticks behind
+[28Dec2024 15:16:25.842] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/29198, l='ServerLevel[world]', x=5022.50, y=55.00, z=-6660.50]
+[28Dec2024 15:18:28.268] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:bamboo_jungle took 5802 ms
+[28Dec2024 15:18:28.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6144ms or 122 ticks behind
+[28Dec2024 15:19:54.765] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:jungle took 5192 ms
+[28Dec2024 15:19:54.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5490ms or 109 ticks behind
