@@ -379,6 +379,7 @@
       "muskeg": "2024-12-20 20:14:56 +0000",
       "woodland": "2024-12-26 21:39:22 +0000",
       "scrubland": "2024-12-28 15:30:58 +0000",
+      "fungal_jungle": "2024-12-28 17:45:59 +0000",
       "bayou": "2024-12-23 15:01:26 +0000",
       "erupting_inferno": "2024-12-23 15:40:56 +0000",
       "floodplain": "2024-12-23 15:01:06 +0000",
@@ -395,6 +396,7 @@
       "forested_field": "2024-12-20 16:41:48 +0000",
       "spider_nest": "2024-12-23 13:43:22 +0000",
       "dryland": "2024-12-26 21:45:17 +0000",
+      "wasteland": "2024-12-28 17:44:33 +0000",
       "lush_desert": "2024-12-26 21:45:49 +0000",
       "visceral_heap": "2024-12-23 18:16:47 +0000",
       "aspen_glade": "2024-12-23 14:04:53 +0000",
@@ -12111,6 +12113,13 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/sand_stone_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_sand_stone_bricks": "2024-12-28 17:49:00 +0000",
+      "has_item2_domum_ornamentum_sand_stone_bricks": "2024-12-28 17:49:00 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_hanging_sign": {
     "criteria": {
       "has_chain": "2024-12-28 17:23:47 +0000"
@@ -12183,6 +12192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-28 17:49:00 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
     "criteria": {
       "has_item": "2024-12-28 16:12:14 +0000"
@@ -12234,6 +12249,12 @@
   "apotheosis:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2024-12-28 16:44:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2024-12-28 17:49:00 +0000"
     },
     "done": true
   },
@@ -12333,6 +12354,13 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/sand_bricks": {
+    "criteria": {
+      "has_item2_domum_ornamentum_sand_bricks": "2024-12-28 17:49:00 +0000",
+      "has_item1_domum_ornamentum_sand_bricks": "2024-12-28 17:49:00 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/pythadendron_hanging_sign": {
     "criteria": {
       "has_chain": "2024-12-28 17:23:47 +0000"
@@ -12342,6 +12370,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-12-28 16:07:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/gray_dye_from_wilted_lily": {
+    "criteria": {
+      "has_wilted_lily": "2024-12-28 17:45:02 +0000"
     },
     "done": true
   },

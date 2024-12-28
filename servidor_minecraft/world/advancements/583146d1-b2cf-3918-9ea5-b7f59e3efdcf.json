@@ -9756,15 +9756,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-12-28 17:43:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-12-28 17:04:48 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-28 17:43:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2024-12-28 17:04:48 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/allium_paper_lantern": {
+    "criteria": {
+      "has_item": "2024-12-28 17:43:37 +0000"
     },
     "done": true
   },
@@ -9777,6 +9795,12 @@
   "aether:recipes/combat/golden_leggings_repairing": {
     "criteria": {
       "has_golden_leggings": "2024-12-28 17:06:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 17:43:37 +0000"
     },
     "done": true
   },
@@ -9819,6 +9843,12 @@
   "travelersbackpack:recipes/misc/nether": {
     "criteria": {
       "has_nether_wart": "2024-12-28 16:57:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-12-28 17:43:37 +0000"
     },
     "done": true
   },
