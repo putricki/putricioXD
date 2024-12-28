@@ -279,8 +279,10 @@
       "minecraft:deep_ocean": "2024-12-26 21:35:34 +0000",
       "minecraft:frozen_river": "2024-12-20 20:06:20 +0000",
       "minecraft:birch_forest": "2024-12-26 20:47:39 +0000",
+      "minecraft:bamboo_jungle": "2024-12-28 15:20:58 +0000",
       "minecraft:beach": "2024-12-23 13:55:56 +0000",
       "minecraft:mangrove_swamp": "2024-12-26 21:36:21 +0000",
+      "minecraft:sparse_jungle": "2024-12-28 15:21:33 +0000",
       "minecraft:river": "2024-12-20 16:46:36 +0000",
       "minecraft:lukewarm_ocean": "2024-12-26 21:41:35 +0000",
       "minecraft:snowy_plains": "2024-12-20 20:17:47 +0000",
@@ -9274,6 +9276,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2024-12-28 15:22:07 +0000"
+    },
+    "done": true
+  },
   "deep_aether:recipes/food/cake": {
     "criteria": {
       "has_quail_egg": "2024-12-28 15:13:50 +0000"
@@ -9359,6 +9367,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/seashelf": {
+    "criteria": {
+      "seashelf": "2024-12-28 15:25:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2024-12-28 14:49:18 +0000"
@@ -9413,9 +9427,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-28 15:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-28 15:22:07 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cow": {
     "criteria": {
       "has_milk_bucket": "2024-12-28 14:48:17 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_mat": {
+    "criteria": {
+      "has_bamboo": "2024-12-28 15:22:07 +0000"
     },
     "done": true
   },
@@ -9446,6 +9478,12 @@
   "forbidden_arcanus:recipes/building_blocks/dark_runic_glass": {
     "criteria": {
       "has_glass": "2024-12-28 15:07:29 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_thatch/bamboo_thatch": {
+    "criteria": {
+      "has_bamboo_leaves": "2024-12-28 15:23:53 +0000"
     },
     "done": true
   },
@@ -9621,6 +9659,12 @@
   "forbidden_arcanus:recipes/decorations/utrem_jar": {
     "criteria": {
       "has_glass/colorless": "2024-12-28 15:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-28 15:22:07 +0000"
     },
     "done": true
   },
