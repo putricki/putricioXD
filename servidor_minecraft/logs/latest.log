@@ -5588,3 +5588,50 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [28Dec2024 15:49:44.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [28Dec2024 15:50:15.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
 [28Dec2024 15:51:42.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[28Dec2024 15:51:45.492] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jaye'/16, l='ServerLevel[world]', x=423.50, y=63.00, z=82.43] died, message: 'Jaye was slain by Zombie'
+[28Dec2024 15:51:45.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jaye'/16, l='ServerLevel[world]', x=423.50, y=63.00, z=82.43] died: Jaye was slain by Zombie
+[28Dec2024 15:51:52.826] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Jaye'/47350, l='ServerLevel[world]', x=418.96, y=63.00, z=89.45] died: Jaye was slain by Sabina
+[28Dec2024 15:52:03.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5918ms or 118 ticks behind
+[28Dec2024 15:52:28.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[28Dec2024 15:52:47.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4078ms or 81 ticks behind
+[28Dec2024 15:52:55.097] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 15:52:58.619] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[28Dec2024 15:53:03.903] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[28Dec2024 15:53:04.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2644ms or 52 ticks behind
+[28Dec2024 15:53:24.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4323ms or 86 ticks behind
+[28Dec2024 15:53:45.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[28Dec2024 15:54:42.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Dec2024 15:54:59.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2772ms or 55 ticks behind
+[28Dec2024 15:55:29.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[28Dec2024 15:55:48.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[28Dec2024 15:55:50.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5640ms or 112 ticks behind
+[28Dec2024 15:56:11.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[28Dec2024 15:56:31.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5422ms or 108 ticks behind
+[28Dec2024 15:56:39.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [The Desert Swimmers]
+[28Dec2024 15:56:43.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Paul Atreides]
+[28Dec2024 15:56:55.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8351ms or 167 ticks behind
+[28Dec2024 15:57:12.405] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[28Dec2024 15:57:14.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3742ms or 74 ticks behind
+[28Dec2024 15:57:32.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3043ms or 60 ticks behind
+[28Dec2024 15:57:49.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
+[28Dec2024 15:58:08.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4253ms or 85 ticks behind
+[28Dec2024 15:58:28.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5082ms or 101 ticks behind
+[28Dec2024 15:59:53.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[28Dec2024 16:00:12.777] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[28Dec2024 16:00:27.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Dec2024 16:00:45.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2709ms or 54 ticks behind
+[28Dec2024 16:02:10.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[28Dec2024 16:02:36.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[28Dec2024 16:02:38.965] [Worker-Main-2/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[28Dec2024 16:02:39.018] [Worker-Main-2/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 53ms
+[28Dec2024 16:02:39.023] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[28Dec2024 16:02:39.024] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[28Dec2024 16:02:39.025] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[28Dec2024 16:05:27.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[28Dec2024 16:05:45.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2467ms or 49 ticks behind
+[28Dec2024 16:06:57.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[28Dec2024 16:09:02.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> POTR
+[28Dec2024 16:09:06.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> POTRO
+[28Dec2024 16:09:11.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ELROMPECLITOS> KPONMI
+[28Dec2024 16:10:05.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[28Dec2024 16:10:24.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3188ms or 63 ticks behind

@@ -295,6 +295,7 @@
       "minecraft:lush_caves": "2024-12-20 17:03:25 +0000",
       "minecraft:deep_cold_ocean": "2024-12-27 18:22:46 +0000",
       "minecraft:frozen_ocean": "2024-12-26 19:00:37 +0000",
+      "minecraft:desert": "2024-12-28 15:56:12 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-26 19:07:02 +0000",
       "minecraft:ocean": "2024-12-26 21:26:56 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-20 17:02:40 +0000",
@@ -336,6 +337,7 @@
       "coniferous_forest": "2024-12-20 16:51:38 +0000",
       "forested_field": "2024-12-20 16:36:07 +0000",
       "spider_nest": "2024-12-20 20:05:01 +0000",
+      "dryland": "2024-12-28 15:55:49 +0000",
       "visceral_heap": "2024-12-23 18:00:16 +0000",
       "aspen_glade": "2024-12-23 14:04:10 +0000",
       "seasonal_forest": "2024-12-20 17:23:03 +0000",
@@ -9259,6 +9261,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2024-12-28 15:56:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2024-12-28 15:13:50 +0000"
@@ -9458,6 +9466,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-28 15:56:48 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bamboo_mat": {
     "criteria": {
       "has_bamboo": "2024-12-28 15:22:07 +0000"
@@ -9485,6 +9499,12 @@
   "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2024-12-28 14:56:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-28 15:56:39 +0000"
     },
     "done": true
   },
@@ -9596,6 +9616,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2024-12-28 15:56:48 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/food/cake_compat": {
     "criteria": {
       "has_item": "2024-12-28 15:13:50 +0000"
@@ -9644,6 +9670,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/deathworm_egg": {
+    "criteria": {
+      "egg": "2024-12-28 15:56:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
       "has_prismarine": "2024-12-28 14:56:09 +0000"
@@ -9653,6 +9685,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-28 15:07:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2024-12-28 15:56:48 +0000"
     },
     "done": true
   },
