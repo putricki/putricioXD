@@ -8930,33 +8930,33 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/grilled_salmon": {
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
     "criteria": {
-      "has_salmon": "2024-12-27 18:47:41 +0000"
+      "has_item": "2024-12-27 18:00:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
     "criteria": {
-      "has_sandstone": "2024-12-27 19:30:28 +0000"
+      "has_item": "2024-12-27 18:00:59 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_blue_leggings": {
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
     "criteria": {
-      "has_item": "2024-12-27 19:26:48 +0000"
+      "has_sea_serpent_scales_bronze": "2024-12-27 18:00:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
     "criteria": {
-      "has_sandstone": "2024-12-27 19:30:28 +0000"
+      "has_item": "2024-12-27 18:00:59 +0000"
     },
     "done": true
   },
-  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
+  "iceandfire:recipes/combat/tide_bronze_boots": {
     "criteria": {
-      "has_moss_block": "2024-12-27 18:47:42 +0000"
+      "has_item": "2024-12-27 18:00:59 +0000"
     },
     "done": true
   },
@@ -8966,87 +8966,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/sandstone_corner_trim": {
-    "criteria": {
-      "has_sandstone_corner_trim": "2024-12-27 19:30:28 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
-    "criteria": {
-      "has_item": "2024-12-27 18:47:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-27 19:30:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-27 19:30:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2024-12-27 18:47:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-27 19:30:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2024-12-27 19:13:54 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
-    "criteria": {
-      "has_item": "2024-12-27 18:47:42 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
-    "criteria": {
-      "has_dragonscales_blue": "2024-12-27 19:26:48 +0000"
-    },
-    "done": true
-  },
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2024-12-27 18:31:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2024-12-27 19:30:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2024-12-27 19:30:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_blue_boots": {
-    "criteria": {
-      "has_item": "2024-12-27 19:26:48 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/sandstone": {
-    "criteria": {
-      "has_sandstone": "2024-12-27 19:30:28 +0000"
     },
     "done": true
   },
@@ -9056,16 +8978,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_blue_helmet": {
+  "dungeons_arise:find_abandoned_temple": {
     "criteria": {
-      "has_item": "2024-12-27 19:26:48 +0000"
+      "location0": "2024-12-27 18:44:02 +0000"
     },
     "done": true
   },
-  "domum_ornamentum:recipes/tools/cream_stone_bricks": {
+  "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
-      "has_item1_domum_ornamentum_cream_stone_bricks": "2024-12-27 19:30:28 +0000",
-      "has_item2_domum_ornamentum_cream_stone_bricks": "2024-12-27 19:30:28 +0000"
+      "has_salmon": "2024-12-27 18:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-27 18:47:41 +0000"
     },
     "done": true
   },
@@ -9075,15 +9002,33 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_primordial_caves": {
+  "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
-      "discover": "2024-12-27 18:49:40 +0000"
+      "has_any_ingredient": "2024-12-27 18:47:41 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/limestone": {
+  "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
-      "limestone": "2024-12-27 19:13:26 +0000"
+      "has_salmon": "2024-12-27 18:47:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
+    "criteria": {
+      "has_moss_block": "2024-12-27 18:47:42 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_moss": {
+    "criteria": {
+      "has_item": "2024-12-27 18:47:42 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
+    "criteria": {
+      "has_item": "2024-12-27 18:47:42 +0000"
     },
     "done": true
   },
@@ -9099,97 +9044,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_bronze_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-27 18:00:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_bronze_helmet": {
-    "criteria": {
-      "has_item": "2024-12-27 18:00:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2024-12-27 19:30:28 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2024-12-27 18:44:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-27 19:30:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
-    "criteria": {
-      "has_sea_serpent_scales_bronze": "2024-12-27 18:00:59 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rocky_chestplate": {
-    "criteria": {
-      "soul_heart": "2024-12-27 19:27:54 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_dinosaur": {
-    "criteria": {
-      "killed_by_vallumraptor": "2024-12-27 19:20:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-27 18:47:41 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/sandstone_pillar_trim": {
-    "criteria": {
-      "has_sandstone_pillar_trim": "2024-12-27 19:30:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2024-12-27 18:47:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_blue_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-27 19:26:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-27 19:30:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_bronze_leggings": {
-    "criteria": {
-      "has_item": "2024-12-27 18:00:59 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/tools/cream_bricks": {
-    "criteria": {
-      "has_item2_domum_ornamentum_cream_bricks": "2024-12-27 19:30:28 +0000",
-      "has_item1_domum_ornamentum_cream_bricks": "2024-12-27 19:30:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-12-27 18:47:42 +0000"
@@ -9202,15 +9056,167 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-27 18:49:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-12-27 19:13:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2024-12-27 19:13:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2024-12-27 19:20:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-27 19:26:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2024-12-27 19:26:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2024-12-27 19:26:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-27 19:26:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-27 19:26:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_chestplate": {
+    "criteria": {
+      "soul_heart": "2024-12-27 19:27:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 19:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 19:30:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2024-12-27 19:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 19:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 19:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 19:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 19:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 19:30:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 19:30:28 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/cream_stone_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_cream_stone_bricks": "2024-12-27 19:30:28 +0000",
+      "has_item2_domum_ornamentum_cream_stone_bricks": "2024-12-27 19:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 19:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 19:30:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2024-12-27 19:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 19:30:28 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/cream_bricks": {
+    "criteria": {
+      "has_item2_domum_ornamentum_cream_bricks": "2024-12-27 19:30:28 +0000",
+      "has_item1_domum_ornamentum_cream_bricks": "2024-12-27 19:30:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2024-12-27 19:30:28 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_bronze_boots": {
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
     "criteria": {
-      "has_item": "2024-12-27 18:00:59 +0000"
+      "killed_relicheirus": "2024-12-27 19:38:20 +0000"
     },
     "done": true
   },
