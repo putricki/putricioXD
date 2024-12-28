@@ -3401,6 +3401,7 @@
       "minecraft:ghast": "2024-12-23 18:00:32 +0000",
       "minecraft:hoglin": "2024-12-23 15:52:50 +0000",
       "minecraft:vindicator": "2024-12-20 18:54:55 +0000",
+      "minecraft:magma_cube": "2024-12-28 16:56:37 +0000",
       "minecraft:piglin_brute": "2024-12-23 16:00:11 +0000",
       "minecraft:spider": "2024-12-23 13:24:39 +0000",
       "minecraft:creeper": "2024-12-20 20:11:30 +0000",
@@ -7314,9 +7315,10 @@
       "minecraft:crimson_forest": "2024-12-23 15:43:01 +0000",
       "minecraft:nether_wastes": "2024-12-26 20:02:41 +0000",
       "minecraft:soul_sand_valley": "2024-12-28 16:29:32 +0000",
+      "minecraft:basalt_deltas": "2024-12-28 16:52:43 +0000",
       "minecraft:warped_forest": "2024-12-28 16:47:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
@@ -9732,6 +9734,24 @@
   "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
     "criteria": {
       "has_wildflower": "2024-12-28 16:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-28 16:57:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-28 16:57:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2024-12-28 16:57:18 +0000"
     },
     "done": true
   },

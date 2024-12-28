@@ -12092,6 +12092,12 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2024-12-28 16:58:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "has_bamboo": "2024-12-28 16:07:31 +0000"
@@ -12107,6 +12113,12 @@
   "twigs:recipes/rhyolite/rhyolite_slab": {
     "criteria": {
       "has_item": "2024-12-28 16:12:14 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2024-12-28 16:56:26 +0000"
     },
     "done": true
   },
@@ -12185,6 +12197,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
       "has_prismarine_bricks": "2024-12-28 16:44:04 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "nether_eye": "2024-12-28 16:58:16 +0000"
     },
     "done": true
   },
