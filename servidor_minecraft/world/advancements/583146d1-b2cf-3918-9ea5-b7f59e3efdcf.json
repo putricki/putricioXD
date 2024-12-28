@@ -3402,6 +3402,7 @@
       "minecraft:skeleton": "2024-12-20 17:02:41 +0000",
       "minecraft:ghast": "2024-12-23 18:00:32 +0000",
       "minecraft:hoglin": "2024-12-23 15:52:50 +0000",
+      "minecraft:guardian": "2024-12-28 18:23:16 +0000",
       "minecraft:vindicator": "2024-12-20 18:54:55 +0000",
       "minecraft:magma_cube": "2024-12-28 16:56:37 +0000",
       "minecraft:piglin_brute": "2024-12-23 16:00:11 +0000",
@@ -9811,6 +9812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-28 18:23:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-28 17:04:48 +0000"
@@ -9826,6 +9833,12 @@
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-28 18:09:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2024-12-28 18:22:24 +0000"
     },
     "done": true
   },
