@@ -5659,3 +5659,144 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [28Dec2024 16:32:27.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [28Dec2024 16:32:40.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was scorched to death
 [28Dec2024 16:32:57.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7820ms or 156 ticks behind
+[28Dec2024 16:33:28.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Timed out
+[28Dec2024 16:33:28.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
+[28Dec2024 16:33:28.364] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
+[28Dec2024 16:34:02.961] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[28Dec2024 16:34:03.017] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[28Dec2024 16:34:03.082] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[28Dec2024 16:34:03.121] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[28Dec2024 16:34:03.174] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[28Dec2024 16:34:03.224] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[28Dec2024 16:34:03.524] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[28Dec2024 16:34:03.549] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[28Dec2024 16:34:03.579] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[28Dec2024 16:34:03.598] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[28Dec2024 16:34:03.627] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[28Dec2024 16:34:03.671] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[28Dec2024 16:34:04.242] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[28Dec2024 16:34:04.243] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[28Dec2024 16:34:04.243] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[28Dec2024 16:34:04.251] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[28Dec2024 16:34:04.645] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geotrush[/100.84.125.88:56582] logged in with entity id 68358 at (457.5, 63.0, 126.5)
+[28Dec2024 16:34:04.725] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to geotrush
+[28Dec2024 16:34:04.726] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to geotrush
+[28Dec2024 16:34:04.727] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to geotrush
+[28Dec2024 16:34:04.727] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to geotrush
+[28Dec2024 16:34:04.729] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to geotrush
+[28Dec2024 16:34:04.731] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to geotrush
+[28Dec2024 16:34:04.732] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to geotrush
+[28Dec2024 16:34:04.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush joined the game
+[28Dec2024 16:34:04.898] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to geotrush
+[28Dec2024 16:34:04.933] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[28Dec2024 16:34:04.940] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: geotrush
+[28Dec2024 16:34:04.961] [Server thread/INFO] [Jade/]: Syncing config to geotrush (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[28Dec2024 16:34:05.107] [Server thread/INFO] [survive/]: Syncing All Data To Client (geotrush)
+[28Dec2024 16:34:05.108] [Server thread/INFO] [survive/]: Syncing Armor Data
+[28Dec2024 16:34:05.108] [Server thread/INFO] [survive/]: Done with Armors
+[28Dec2024 16:34:05.108] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[28Dec2024 16:34:05.109] [Server thread/INFO] [survive/]: Done with Fluids
+[28Dec2024 16:34:05.109] [Server thread/INFO] [survive/]: Syncing Biome Data
+[28Dec2024 16:34:05.109] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[28Dec2024 16:34:10.821] [Server thread/INFO] [ping-wheel/]: Channel update: geotrush -> default
+[28Dec2024 16:34:10.868] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[28Dec2024 16:34:27.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[28Dec2024 16:34:38.025] [Server thread/ERROR] [placebo/]: ##############################
+[28Dec2024 16:34:38.025] [Server thread/ERROR] [placebo/]: A Block apotheosis:boss_spawner with BlockEntityType minecraft:chest has subscribed as a TickingEntityBlock but is not using TickingBlockEntityType!
+[28Dec2024 16:34:38.026] [Server thread/ERROR] [placebo/]: ##############################
+[28Dec2024 16:34:51.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8875ms or 177 ticks behind
+[28Dec2024 16:35:11.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4330ms or 86 ticks behind
+[28Dec2024 16:35:30.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4329ms or 86 ticks behind
+[28Dec2024 16:35:48.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2907ms or 58 ticks behind
+[28Dec2024 16:36:07.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3905ms or 78 ticks behind
+[28Dec2024 16:36:24.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2661ms or 53 ticks behind
+[28Dec2024 16:36:42.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
+[28Dec2024 16:36:59.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
+[28Dec2024 16:37:03.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Imp Guard
+[28Dec2024 16:37:22.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to -18.500000, 66.000000, -881.500000]
+[28Dec2024 16:37:22.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[28Dec2024 16:37:35.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Imp Guard
+[28Dec2024 16:37:53.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Dec2024 16:37:56.438] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=11, y=-12, z=-131}
+[28Dec2024 16:37:56.454] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=11, y=-12, z=-116}
+[28Dec2024 16:38:03.781] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=-11, z=-115}
+[28Dec2024 16:38:03.923] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=-11, z=-129}
+[28Dec2024 16:38:03.923] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=21, y=-11, z=-129}
+[28Dec2024 16:38:11.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2559ms or 51 ticks behind
+[28Dec2024 16:38:27.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was scorched to death
+[28Dec2024 16:39:19.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: geotrush lost connection: Timed out
+[28Dec2024 16:39:19.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush left the game
+[28Dec2024 16:39:19.219] [Server thread/INFO] [survive/]: Removing Client (geotrush) From Survive Data Sync List
+[28Dec2024 16:39:19.242] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Dec2024 16:39:19.242] [Netty Epoll Server IO #2/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x00007d09fd574e90.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.mdf014d9$connectivity$lambda$on$0$4(Connection.java:3610) ~[server-1.20.1-20230612.114412-srg.jar%23787!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.mdf014d9$connectivity$lambda$on$1$3(Connection.java:3588) ~[server-1.20.1-20230612.114412-srg.jar%23787!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[28Dec2024 16:39:19.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/64215, l='ServerLevel[world]', x=368.75, y=87.51, z=163.48] died: Honeyed Archer burned to death
+[28Dec2024 16:39:42.064] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 235
+[28Dec2024 16:39:42.111] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 236
+[28Dec2024 16:39:42.153] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 237
+[28Dec2024 16:39:42.241] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 238
+[28Dec2024 16:39:42.266] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 239
+[28Dec2024 16:39:42.303] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 240
+[28Dec2024 16:39:42.352] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 241
+[28Dec2024 16:39:42.409] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 242
+[28Dec2024 16:39:42.467] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 243
+[28Dec2024 16:39:42.506] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 244
+[28Dec2024 16:39:42.560] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 245
+[28Dec2024 16:39:42.606] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 246
+[28Dec2024 16:39:43.156] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 247
+[28Dec2024 16:39:43.157] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 248
+[28Dec2024 16:39:43.160] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 249
+[28Dec2024 16:39:43.166] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 250
+[28Dec2024 16:39:43.657] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: geotrush[/100.84.125.88:56721] logged in with entity id 72790 at (457.5, 63.0, 126.5)
+[28Dec2024 16:39:43.720] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to geotrush
+[28Dec2024 16:39:43.721] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to geotrush
+[28Dec2024 16:39:43.721] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to geotrush
+[28Dec2024 16:39:43.721] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to geotrush
+[28Dec2024 16:39:43.723] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to geotrush
+[28Dec2024 16:39:43.725] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to geotrush
+[28Dec2024 16:39:43.725] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to geotrush
+[28Dec2024 16:39:43.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush joined the game
+[28Dec2024 16:39:43.877] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to geotrush
+[28Dec2024 16:39:43.906] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[28Dec2024 16:39:43.912] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: geotrush
+[28Dec2024 16:39:43.931] [Server thread/INFO] [Jade/]: Syncing config to geotrush (583146d1-b2cf-3918-9ea5-b7f59e3efdcf)
+[28Dec2024 16:39:44.011] [Server thread/INFO] [survive/]: Syncing All Data To Client (geotrush)
+[28Dec2024 16:39:44.012] [Server thread/INFO] [survive/]: Syncing Armor Data
+[28Dec2024 16:39:44.012] [Server thread/INFO] [survive/]: Done with Armors
+[28Dec2024 16:39:44.012] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[28Dec2024 16:39:44.013] [Server thread/INFO] [survive/]: Done with Fluids
+[28Dec2024 16:39:44.013] [Server thread/INFO] [survive/]: Syncing Biome Data
+[28Dec2024 16:39:44.013] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[28Dec2024 16:39:47.121] [Server thread/INFO] [ping-wheel/]: Channel update: geotrush -> default
+[28Dec2024 16:39:47.123] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[28Dec2024 16:40:36.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2336ms or 46 ticks behind
+[28Dec2024 16:41:38.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[28Dec2024 16:41:53.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Demon
+[28Dec2024 16:42:40.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[28Dec2024 16:42:57.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
