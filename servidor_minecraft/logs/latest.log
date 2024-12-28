@@ -5800,3 +5800,21 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [28Dec2024 16:41:53.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush was slain by Demon
 [28Dec2024 16:42:40.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [28Dec2024 16:42:57.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[28Dec2024 16:43:46.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[28Dec2024 16:44:05.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Local Librarian]
+[28Dec2024 16:45:46.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
+[28Dec2024 16:46:05.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3847ms or 76 ticks behind
+[28Dec2024 16:47:02.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[28Dec2024 16:47:21.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4614ms or 92 ticks behind
+[28Dec2024 16:47:45.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[28Dec2024 16:47:56.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[28Dec2024 16:48:08.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has completed the challenge [Hot Tourist Destinations]
+[28Dec2024 16:48:35.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]
+[28Dec2024 16:48:59.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS was slain by Oni
+[28Dec2024 16:48:59.576] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ELROMPECLITOS with unique ID travelersbackpack.sponge_28.12.2024-16.48.59.dat
+[28Dec2024 16:49:05.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2774ms or 55 ticks behind
+[28Dec2024 16:49:15.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[28Dec2024 16:51:56.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[28Dec2024 16:52:43.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has completed the challenge [Hot Tourist Destinations]
+[28Dec2024 16:52:52.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ELROMPECLITOS: Teleported ELROMPECLITOS to geotrush]
+[28Dec2024 16:53:43.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [geotrush: Teleported geotrush to ELROMPECLITOS]

@@ -9606,9 +9606,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-23 15:42:00 +0000",
       "minecraft:nether_wastes": "2024-12-23 15:37:06 +0000",
-      "minecraft:basalt_deltas": "2024-12-23 15:40:51 +0000"
+      "minecraft:soul_sand_valley": "2024-12-28 16:48:08 +0000",
+      "minecraft:basalt_deltas": "2024-12-23 15:40:51 +0000",
+      "minecraft:warped_forest": "2024-12-28 16:47:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
@@ -12096,6 +12098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2024-12-28 16:44:04 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite_slab": {
     "criteria": {
       "has_item": "2024-12-28 16:12:14 +0000"
@@ -12144,15 +12152,39 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2024-12-28 16:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2024-12-28 16:44:04 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
     "criteria": {
       "has_item": "2024-12-28 16:12:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2024-12-28 16:44:04 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite_wall": {
     "criteria": {
       "has_item": "2024-12-28 16:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2024-12-28 16:44:04 +0000"
     },
     "done": true
   },
