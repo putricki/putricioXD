@@ -9980,9 +9980,21 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/frozen/cutting/ice_sword": {
+    "criteria": {
+      "has_diamond_sword": "2025-01-03 20:21:24 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/60ench": {
     "criteria": {
       "enchanted_item": "2025-01-03 19:27:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-01-03 20:21:24 +0000"
     },
     "done": true
   },
