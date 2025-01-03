@@ -9962,6 +9962,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-01-03 19:55:55 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/quanta50": {
     "criteria": {
       "enchanted_item": "2025-01-03 19:27:36 +0000"
