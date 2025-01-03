@@ -3529,11 +3529,13 @@
       "minecraft:creeper": "2024-12-20 18:42:36 +0000",
       "quark:forgotten": "2024-12-23 15:23:40 +0000",
       "minecraft:zombified_piglin": "2024-12-23 15:48:57 +0000",
+      "minecraft:witch": "2025-01-03 19:16:44 +0000",
       "minecraft:wither_skeleton": "2024-12-23 18:16:17 +0000",
       "minecraft:husk": "2024-12-26 19:06:46 +0000",
       "minecraft:cave_spider": "2024-12-20 17:27:10 +0000",
       "minecraft:piglin": "2024-12-23 15:42:39 +0000",
       "minecraft:stray": "2024-12-20 17:19:35 +0000",
+      "minecraft:silverfish": "2025-01-03 19:10:37 +0000",
       "minecraft:zombie": "2024-12-20 17:14:28 +0000",
       "quark:foxhound": "2024-12-26 20:23:53 +0000",
       "minecraft:drowned": "2024-12-20 17:07:02 +0000",
@@ -12453,15 +12455,69 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-01-03 19:11:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-01-03 19:31:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-01-03 19:32:05 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
       "has_golden_knife": "2025-01-03 18:57:38 +0000"
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/green_cactus_extra": {
+    "criteria": {
+      "has_material": "2025-01-03 19:11:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2025-01-03 18:57:38 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/upgrade_seashelf": {
+    "criteria": {
+      "crystal": "2025-01-03 19:33:55 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/cactus_extra": {
+    "criteria": {
+      "has_material": "2025-01-03 19:11:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-03 19:06:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-03 19:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-01-03 19:11:03 +0000"
     },
     "done": true
   },
