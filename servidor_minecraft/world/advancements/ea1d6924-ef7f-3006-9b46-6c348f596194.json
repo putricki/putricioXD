@@ -3523,6 +3523,7 @@
       "minecraft:pillager": "2024-12-20 17:46:44 +0000",
       "minecraft:blaze": "2024-12-26 20:34:20 +0000",
       "minecraft:skeleton": "2024-12-20 17:20:21 +0000",
+      "minecraft:guardian": "2024-12-28 18:24:27 +0000",
       "minecraft:vindicator": "2024-12-20 19:33:19 +0000",
       "minecraft:spider": "2024-12-23 14:15:15 +0000",
       "minecraft:creeper": "2024-12-20 18:42:36 +0000",
@@ -12072,33 +12073,15 @@
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
-    "criteria": {
-      "has_item": "2024-12-28 16:12:14 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/decorations/lucernia_hanging_sign": {
-    "criteria": {
-      "has_chain": "2024-12-28 17:23:47 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
       "has_item": "2024-12-28 15:39:45 +0000"
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+  "supplementaries:recipes/soap/map": {
     "criteria": {
-      "has_item": "2024-12-28 16:12:14 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/feather_block": {
-    "criteria": {
-      "has_feather": "2024-12-28 17:53:36 +0000"
+      "has_filled_map": "2024-12-28 15:50:34 +0000"
     },
     "done": true
   },
@@ -12108,9 +12091,129 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_helmet": {
+  "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
-      "has_item": "2024-12-28 17:23:47 +0000"
+      "has_bamboo": "2024-12-28 16:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-28 16:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-28 16:07:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_mat": {
+    "criteria": {
+      "has_bamboo": "2024-12-28 16:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-28 16:07:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_thatch/bamboo_thatch": {
+    "criteria": {
+      "has_bamboo_leaves": "2024-12-28 16:07:32 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-28 16:12:14 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-28 16:12:14 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2024-12-28 16:12:14 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-28 16:12:14 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-28 16:12:14 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-28 16:12:14 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2024-12-28 16:12:14 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2024-12-28 16:12:14 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2024-12-28 16:12:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2024-12-28 16:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2024-12-28 16:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2024-12-28 16:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2024-12-28 16:44:04 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2024-12-28 16:44:05 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2024-12-28 16:56:26 +0000"
     },
     "done": true
   },
@@ -12120,10 +12223,33 @@
     },
     "done": true
   },
-  "domum_ornamentum:recipes/tools/sand_stone_bricks": {
+  "endrem:main/root": {
     "criteria": {
-      "has_item1_domum_ornamentum_sand_stone_bricks": "2024-12-28 17:49:00 +0000",
-      "has_item2_domum_ornamentum_sand_stone_bricks": "2024-12-28 17:49:00 +0000"
+      "nether_eye": "2024-12-28 16:58:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-28 17:03:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-28 17:03:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_hanging_sign": {
+    "criteria": {
+      "has_chain": "2024-12-28 17:23:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2024-12-28 17:23:47 +0000"
     },
     "done": true
   },
@@ -12145,36 +12271,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
-    "criteria": {
-      "has_dragonscales_bronze": "2024-12-28 17:55:43 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/bamboo_spikes": {
-    "criteria": {
-      "has_bamboo": "2024-12-28 16:07:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_boots": {
-    "criteria": {
-      "has_item": "2024-12-28 17:55:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_leggings": {
-    "criteria": {
-      "has_item": "2024-12-28 17:55:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2024-12-28 16:44:04 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/decorations/helix_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2024-12-28 17:23:47 +0000"
@@ -12193,129 +12289,9 @@
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/rhyolite_slab": {
-    "criteria": {
-      "has_item": "2024-12-28 16:12:14 +0000"
-    },
-    "done": true
-  },
-  "aether_redux:recipes/combat/veridium_dart": {
-    "criteria": {
-      "has_feather": "2024-12-28 17:53:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2024-12-28 17:03:29 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/decorations/end_lotus_hanging_sign": {
     "criteria": {
       "has_chain": "2024-12-28 17:23:47 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/epic": {
-    "criteria": {
-      "sword": "2024-12-28 16:56:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2024-12-28 17:49:00 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
-    "criteria": {
-      "has_item": "2024-12-28 16:12:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2024-12-28 16:07:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2024-12-28 16:07:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_helmet": {
-    "criteria": {
-      "has_item": "2024-12-28 17:55:43 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap/map": {
-    "criteria": {
-      "has_filled_map": "2024-12-28 15:50:34 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/bamboo_mat": {
-    "criteria": {
-      "has_bamboo": "2024-12-28 16:07:31 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
-    "criteria": {
-      "has_item": "2024-12-28 16:12:14 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/silent_quiver": {
-    "criteria": {
-      "has_feather": "2024-12-28 17:53:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "cabbage_seeds": "2024-12-28 18:13:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2024-12-28 17:03:29 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/bamboo_thatch/bamboo_thatch": {
-    "criteria": {
-      "has_bamboo_leaves": "2024-12-28 16:07:32 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/chicken": {
-    "criteria": {
-      "has_feather": "2024-12-28 17:53:36 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/bookshelf": {
-    "criteria": {
-      "bookshelf": "2024-12-28 16:44:05 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/silt_from_sand": {
-    "criteria": {
-      "has_item": "2024-12-28 17:49:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2024-12-28 16:44:04 +0000"
     },
     "done": true
   },
@@ -12325,45 +12301,15 @@
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
-    "criteria": {
-      "has_item": "2024-12-28 16:12:14 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2024-12-28 17:23:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
-    "criteria": {
-      "has_prismarine_bricks": "2024-12-28 16:44:04 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_wall": {
-    "criteria": {
-      "has_item": "2024-12-28 16:12:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
       "has_item": "2024-12-28 17:23:47 +0000"
-    },
-    "done": true
-  },
-  "dramaticdoors:recipes/redstone/short_iron_door": {
-    "criteria": {
-      "has_items": "2024-12-28 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "dramaticdoors:recipes/redstone/tall_iron_door": {
-    "criteria": {
-      "has_items": "2024-12-28 17:34:54 +0000"
     },
     "done": true
   },
@@ -12379,45 +12325,52 @@
     },
     "done": true
   },
-  "aether:recipes/combat/golden_dart": {
-    "criteria": {
-      "has_feather": "2024-12-28 17:53:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
-    "criteria": {
-      "has_prismarine_bricks": "2024-12-28 16:44:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2024-12-28 17:23:47 +0000"
     },
     "done": true
   },
-  "endrem:main/root": {
+  "betterend:recipes/decorations/pythadendron_hanging_sign": {
     "criteria": {
-      "nether_eye": "2024-12-28 16:58:16 +0000"
+      "has_chain": "2024-12-28 17:23:47 +0000"
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/polished_rhyolite": {
+  "dramaticdoors:recipes/redstone/short_iron_door": {
     "criteria": {
-      "has_item": "2024-12-28 16:12:14 +0000"
+      "has_items": "2024-12-28 17:34:54 +0000"
     },
     "done": true
   },
-  "skilltree:recipes/misc/traveler_necklace": {
+  "dramaticdoors:recipes/redstone/tall_iron_door": {
     "criteria": {
-      "has_feather": "2024-12-28 17:53:36 +0000"
+      "has_items": "2024-12-28 17:34:54 +0000"
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/rhyolite_stairs": {
+  "biomesoplenty:recipes/misc/gray_dye_from_wilted_lily": {
     "criteria": {
-      "has_item": "2024-12-28 16:12:14 +0000"
+      "has_wilted_lily": "2024-12-28 17:45:02 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/sand_stone_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_sand_stone_bricks": "2024-12-28 17:49:00 +0000",
+      "has_item2_domum_ornamentum_sand_stone_bricks": "2024-12-28 17:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-28 17:49:00 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2024-12-28 17:49:00 +0000"
     },
     "done": true
   },
@@ -12428,27 +12381,87 @@
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-12-28 17:53:36 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/combat/veridium_dart": {
+    "criteria": {
+      "has_feather": "2024-12-28 17:53:36 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2024-12-28 17:53:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2024-12-28 17:53:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2024-12-28 17:53:36 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2024-12-28 17:53:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2024-12-28 17:55:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2024-12-28 17:55:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2024-12-28 17:55:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2024-12-28 17:55:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_chestplate": {
     "criteria": {
       "has_item": "2024-12-28 17:55:43 +0000"
     },
     "done": true
   },
-  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+  "farmersdelight:main/get_fd_seed": {
     "criteria": {
-      "has_chain": "2024-12-28 17:23:47 +0000"
+      "cabbage_seeds": "2024-12-28 18:13:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
-      "has_bamboo": "2024-12-28 16:07:31 +0000"
+      "has_golden_knife": "2025-01-03 18:57:38 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/gray_dye_from_wilted_lily": {
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
-      "has_wilted_lily": "2024-12-28 17:45:02 +0000"
+      "has_golden_knife": "2025-01-03 18:57:38 +0000"
     },
     "done": true
   },
