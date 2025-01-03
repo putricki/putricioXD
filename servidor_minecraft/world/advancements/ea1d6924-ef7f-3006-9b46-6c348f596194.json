@@ -12467,11 +12467,23 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-01-03 19:51:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-01-03 19:32:05 +0000"
     },
     "done": false
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-01-03 19:38:02 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
@@ -12482,6 +12494,12 @@
   "domum_ornamentum:recipes/tools/green_cactus_extra": {
     "criteria": {
       "has_material": "2025-01-03 19:11:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-01-03 19:37:42 +0000"
     },
     "done": true
   },
@@ -12506,6 +12524,12 @@
   "iceandfire:iceandfire/kill_hydra": {
     "criteria": {
       "killed_fire_dragon": "2025-01-03 19:06:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-01-03 19:38:27 +0000"
     },
     "done": true
   },

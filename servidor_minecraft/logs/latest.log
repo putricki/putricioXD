@@ -5491,3 +5491,8 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [03Jan2025 19:37:42.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Dragon Commander]
 [03Jan2025 19:38:02.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [The Song of the Dragons]
 [03Jan2025 19:38:27.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [An Ear-Shattering Roar]
+[03Jan2025 19:38:48.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[03Jan2025 19:39:06.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2919ms or 58 ticks behind
+[03Jan2025 19:51:56.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ELROMPECLITOS has made the advancement [Dragon Growth Hormone]
+[03Jan2025 19:55:55.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: geotrush has made the advancement [Magical Energy]
+[03Jan2025 19:57:31.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
